@@ -1,4 +1,8 @@
 # Bienvenue sur mon Github 💻
-Je suis Keany Vy KHUN, j'ai actuellement 15 ans et je développe et partage mes différents projets ainsi que mes code sources.
+| Nom | Prénom | Age | Langage | Compétences |
+|---  |---     |---  |---      |---
+| KHUN | Keany Vy | 15 ans | Html - Css - JS - Php - Java - Python - Liquid - Solidity - NodeJs - Shell | Website - Application - Automatisation - Blockchain - Sécurité - Systèmes d'exploitations - Réseau
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=thisiskeanyvy.thisiskeanyvy)
 
 ![bienvenue sur mon github](https://zupimages.net/up/20/48/5vkf.gif)
