@@ -10,8 +10,8 @@
 [![github likes](https://img.shields.io/github/stars/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=thisiskeanyvy.thisiskeanyvy)
-[![wordsploit](https://img.shields.io/github/languages/top/thisiskeanyvy/wordsploit)](https://github.com/thisiskeanyvy/wordsploit)
-[![wordsploit](https://img.shields.io/github/license/thisiskeanyvy/wordsploit)](https://github.com/thisiskeanyvy/wordsploit)
+[![repo](https://img.shields.io/github/languages/top/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
+[![licence](https://img.shields.io/github/license/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
 
 ![bienvenue sur mon github](https://zupimages.net/up/20/48/5vkf.gif)
 
