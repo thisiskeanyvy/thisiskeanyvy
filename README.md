@@ -21,4 +21,4 @@
 ## Mes projets Github :
 | Date | Projet | Description |
 |---   |---     |---          |
-| 29-10-2020 | [Mon Blog](https://github.com/thisiskeanyvy/wordsploit) | Mon site personnel |
+| 29-10-2020 | [Mon Blog](https://github.com/thisiskeanyvy/thisiskeanyvy.github.io) | Mon site personnel |
