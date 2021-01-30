@@ -5,7 +5,7 @@
 
 ## Suivez-moi sur les Réseaux Sociaux :  
 [![twitter](https://img.shields.io/twitter/follow/thisiskeanyvy?style=social)](https://twitter.com/thisiskeanyvy)
-[![github](https://img.shields.io/github/followers/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
+[![github](https://img.shields.io/github/followers/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy?tab=followers)
 [![github sponsors](https://img.shields.io/github/sponsors/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
 [![github likes](https://img.shields.io/github/stars/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
 
