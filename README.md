@@ -21,4 +21,4 @@
 ## Mes projets Github :
 | Date | Projet | Description |
 |---   |---     |---          |
-| 24-11-2020 | [WordSploit](https://github.com/thisiskeanyvy/wordsploit) | Programme d'attaque par force brute amélioré |
+| 29-10-2020 | [Mon Blog](https://github.com/thisiskeanyvy/wordsploit) | Mon site personnel |
