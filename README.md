@@ -21,4 +21,5 @@
 ## Mes projets Github :
 | Date | Projet | Description |
 |---   |---     |---          |
-| 29-10-2020 | [Mon Blog](https://github.com/thisiskeanyvy/thisiskeanyvy.github.io) | Mon site personnel |
+| 11-02-2021 | [Likapi](https://github.com/likapi) | Une librairie d'APIs gratuites et open-sources |
+| 20-03-2021 | [EduShare](https://github.com/likapi/edushare) | Un logiciel de partage de fichiers entre élèves et professeurs |
