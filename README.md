@@ -13,7 +13,7 @@
 [![repo](https://img.shields.io/github/languages/top/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
 [![licence](https://img.shields.io/github/license/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
 
-![bienvenue sur mon github](https://zupimages.net/up/20/48/5vkf.gif)
+![bienvenue sur mon github](https://github.com/thisiskeanyvy/stockage/releases/download/photos/banner.jpeg)
 
 ## Mes Statistiques Github :  
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
