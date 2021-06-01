@@ -10,8 +10,6 @@
 [![github likes](https://img.shields.io/github/stars/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=thisiskeanyvy.thisiskeanyvy)
-[![repo](https://img.shields.io/github/languages/top/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
-[![licence](https://img.shields.io/github/license/thisiskeanyvy/thisiskeanyvy.github.io)]("https://github.com/thisiskeanyvy")
 
 ![bienvenue sur mon github](https://github.com/thisiskeanyvy/stockage/releases/download/photos/banner.jpeg)
 
