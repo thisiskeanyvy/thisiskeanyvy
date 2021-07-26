@@ -11,7 +11,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=thisiskeanyvy.thisiskeanyvy)
 
-![bienvenue sur mon github](https://github.com/thisiskeanyvy/stockage/releases/download/photos/banner.jpeg)
+![bienvenue sur mon github](https://zupimages.net/up/21/30/2hh4.gif)
 
 ## Mes Statistiques Github :  
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
