@@ -1,7 +1,7 @@
 # Bienvenue sur mon Github 💻
 | Nom | Prénom | Age | Langage | Compétences |
 |---  |---     |---  |---      |---
-| KHUN | Keany Vy | 16 ans | C - Html - Css - JS - Python - Shell - Assembleur | Website - Application - Automatisation - Blockchain - Sécurité - Base de donnée SQL/No SQL - Linux - Réseau - Cryptographie |
+| KHUN | Keany Vy | 16 ans | C - Html - Css - JS - Python - Shell - Assembleur | Website - Application - Automatisation - Blockchain - Sécurité - Base de donnée SQL/NoSQL - Linux - Réseau - Cryptographie |
 
 ## Suivez-moi sur les Réseaux Sociaux :  
 [![twitter](https://img.shields.io/twitter/follow/thisiskeanyvy?style=social)](https://twitter.com/thisiskeanyvy)
@@ -14,9 +14,7 @@
 ## Mes Statistiques Github :  
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Mes projets Github :
-| Date | Projet | Description |
+## Mes projets Github Actifs :
+| Année | Projet | Description |
 |---   |---     |---          |
-| 11-02-2021 | [Likapi](https://github.com/likapi) | Une librairie d'APIs gratuites et open-sources |
-| 20-03-2021 | [EduShare](https://github.com/likapi/edushare) | Un logiciel de partage de fichiers entre élèves et professeurs |
-| 10-05-2021 | [LemonRouter](https://github.com/decentralizeme/lemonrouter) | Un service Web caché, pour contourner la censure passant par le proxy tor |
+| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
