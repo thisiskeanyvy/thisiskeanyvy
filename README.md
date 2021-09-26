@@ -1,7 +1,7 @@
 # Bienvenue sur mon Github 💻
 | Nom | Prénom | Age | Langage | Compétences |
 |---  |---     |---  |---      |---
-| KHUN | Keany Vy | 16 ans | C - Html - Css - JS - Python - Shell - Assembleur | Website - Application - Automatisation - Blockchain - Sécurité - Systèmes d'exploitations - Internet et réseau |
+| KHUN | Keany Vy | 16 ans | C - Html - Css - JS - Python - Shell - Assembleur | Website - Application - Automatisation - Blockchain - Sécurité - Linux - Réseau - Cryptographie |
 
 ## Suivez-moi sur les Réseaux Sociaux :  
 [![twitter](https://img.shields.io/twitter/follow/thisiskeanyvy?style=social)](https://twitter.com/thisiskeanyvy)
