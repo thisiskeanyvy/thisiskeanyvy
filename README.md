@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 4676: When Mice Collide :
+## Sunrise at the South Pole :
 
-> These two mighty galaxies are pulling each other apart.  Known as the "Mice" because they have such long tails, each spiral galaxy has likely already passed through the other. The long tails are created by the relative difference between gravitational pulls on the near and far parts of each galaxy.  Because the distances are so large, the cosmic interaction takes place in slow motion -- over hundreds of millions of years.  NGC 4676 lies about 300 million light-years away toward the constellation of Bernice's Hair (Coma Berenices) and are  likely members of the Coma Cluster of Galaxies.  The featured picture was taken with the Hubble Space Telescope's Advanced Camera for Surveys in 2002. These galactic mice will probably collide again and again over the next billion years so that, instead of continuing to pull each other apart, they coalesce to form a single galaxy.   Follow APOD in English on: Facebook,  Instagram, or Twitter
+> Sunrise at the South Pole is different. Usually a welcome sight, it follows months of darkness -- and begins months of sunshine. At Earth's poles, it can take weeks for the Sun to rise, in contrast with just minutes at any mid-latitude location.  Sunrise at a pole is caused by the tilt of the Earth as it orbits the Sun, not by the rotation of the Earth.  Although at a pole, an airless Earth would first see first Sun at an equinox, the lensing effect of the Earth's atmosphere and the size of the solar disk causes the top of the Sun to appear about two-weeks early.  Pictured two weeks ago, the Sun peaks above the horizon of a vast frozen landscape at Earth's South Pole.  The true South Pole is just a few meters to the left of the communications tower. This polar sunrise capture was particularly photogenic as the Sun appeared capped by a green flash.
 
-<img src='https://apod.nasa.gov/apod/image/2110/NGC4676_HubbleOstling_4555.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/SouthPoleSunRise_Wolf_6279.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
