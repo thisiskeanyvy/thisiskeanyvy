@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Sunrise at the South Pole :
+## M43: Streams of Orion :
 
-> Sunrise at the South Pole is different. Usually a welcome sight, it follows months of darkness -- and begins months of sunshine. At Earth's poles, it can take weeks for the Sun to rise, in contrast with just minutes at any mid-latitude location.  Sunrise at a pole is caused by the tilt of the Earth as it orbits the Sun, not by the rotation of the Earth.  Although at a pole, an airless Earth would first see first Sun at an equinox, the lensing effect of the Earth's atmosphere and the size of the solar disk causes the top of the Sun to appear about two-weeks early.  Pictured two weeks ago, the Sun peaks above the horizon of a vast frozen landscape at Earth's South Pole.  The true South Pole is just a few meters to the left of the communications tower. This polar sunrise capture was particularly photogenic as the Sun appeared capped by a green flash.
+> Where do the dark streams of dust in the Orion Nebula originate? This part of the Orion Molecular Cloud Complex, M43, is the often imaged but rarely mentioned neighbor of the more famous M42. M42, seen in part to the upper right, includes many bright stars from the Trapezium star cluster. M43 is itself a star forming region that displays intricately-laced streams of dark dust -- although it is really composed mostly of glowing hydrogen gas. The entire Orion field is located about 1600 light years away.  Opaque to visible light, the picturesque dark dust is created in the outer atmosphere of massive cool stars and expelled by strong outer winds of protons and electrons.
 
-<img src='https://apod.nasa.gov/apod/image/2110/SouthPoleSunRise_Wolf_6279.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/OrionStreams_Saukkonen_2048.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
