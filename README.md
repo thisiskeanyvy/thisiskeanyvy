@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## M43: Streams of Orion :
+## NGC 6559: East of the Lagoon :
 
-> Where do the dark streams of dust in the Orion Nebula originate? This part of the Orion Molecular Cloud Complex, M43, is the often imaged but rarely mentioned neighbor of the more famous M42. M42, seen in part to the upper right, includes many bright stars from the Trapezium star cluster. M43 is itself a star forming region that displays intricately-laced streams of dark dust -- although it is really composed mostly of glowing hydrogen gas. The entire Orion field is located about 1600 light years away.  Opaque to visible light, the picturesque dark dust is created in the outer atmosphere of massive cool stars and expelled by strong outer winds of protons and electrons.
+> Slide your telescope just east of the Lagoon Nebula to find this alluring field of view in the rich starfields of the constellation Sagittarius toward the central Milky Way. Of course the Lagoon nebula is also known as M8, the eighth object listed in Charles Messier's famous catalog of bright nebulae and star clusters. Close on the sky but slightly fainter than M8, this complex of nebulae was left out of Messier's list though. It contains obscuring dust, striking red emission and blue reflection nebulae of star-forming region NGC 6559 at right. Like M8, NGC 6559 is located about 5,000 light-years away along the edge of a large molecular cloud. At that distance, this telescopic frame nearly 3 full moons wide would span about 130 light-years.   Global Moon Party:  NASA's Night Sky Network: Saturday, October 9
 
-<img src='https://apod.nasa.gov/apod/image/2110/OrionStreams_Saukkonen_2048.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/NGC6559Sartori.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
