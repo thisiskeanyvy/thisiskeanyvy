@@ -14,9 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Juno Flyby of Ganymede and Jupiter :
+## Fireball over Lake Louise :
 
-> What would it be like to fly over the largest moon in the Solar System? In June, the robotic Juno spacecraft flew past Jupiter's huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter's clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.  Next September, Juno is scheduled to make a close pass over another of Jupiter's large moons: Europa.
+> What makes a meteor a fireball?  First of all, everyone agrees that a fireball is an exceptionally bright meteor. Past that, the International Astronomical Union defines a fireball as a meteor brighter than apparent magnitude -4, which corresponds (roughly) to being brighter than any planet -- as well as bright enough to cast a human-noticeable shadow.  Pictured, an astrophotographer taking a long-duration sky image captured by accident the brightest meteor he had ever seen.  Clearly a fireball, the disintegrating space-rock created a trail so bright it turned night into day for about two seconds earlier this month.  The fireball has been artificially dimmed in the featured image to bring up foreground Lake Louise in Alberta, Canada.  Although fireballs are rare, many people have been lucky enough to see them.  If you see a fireball, you can report it.  If more than one person recorded an image, the fireball might be traceable back to the Solar System body from which it was ejected.
+
+<img src='https://apod.nasa.gov/apod/image/2110/FireballAlberta_Qin_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
