@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Fireball over Lake Louise :
+## NGC 7822: Cosmic Question Mark :
 
-> What makes a meteor a fireball?  First of all, everyone agrees that a fireball is an exceptionally bright meteor. Past that, the International Astronomical Union defines a fireball as a meteor brighter than apparent magnitude -4, which corresponds (roughly) to being brighter than any planet -- as well as bright enough to cast a human-noticeable shadow.  Pictured, an astrophotographer taking a long-duration sky image captured by accident the brightest meteor he had ever seen.  Clearly a fireball, the disintegrating space-rock created a trail so bright it turned night into day for about two seconds earlier this month.  The fireball has been artificially dimmed in the featured image to bring up foreground Lake Louise in Alberta, Canada.  Although fireballs are rare, many people have been lucky enough to see them.  If you see a fireball, you can report it.  If more than one person recorded an image, the fireball might be traceable back to the Solar System body from which it was ejected.
+> It may look like a huge cosmic question mark, but the big question really is  how does the bright gas and dark dust tell this nebula's history of star formation.  At the edge of a giant molecular cloud toward the northern constellation Cepheus, the glowing star forming region NGC 7822 lies about 3,000 light-years away. Within the nebula, bright edges and dark shapes stand out in this colorful and detailed skyscape. The 9-panel mosaic, taken over 28 nights with a small telescope in Texas, includes data from narrowband filters, mapping emission from atomic oxygen, hydrogen, and sulfur into blue, green, and red hues. The emission line and color combination has become well-known as the Hubble palette. The atomic emission is powered by energetic radiation from the central hot stars. Their powerful winds and radiation sculpt and erode the denser pillar shapes and clear out a characteristic cavity light-years across the center of the natal cloud. Stars could still be forming inside the pillars by gravitational collapse but as the pillars are eroded away, any forming stars will ultimately be cut off from their reservoir of star stuff. This field of view spans over 40 light-years across at the estimated distance of NGC 7822.
 
-<img src='https://apod.nasa.gov/apod/image/2110/FireballAlberta_Qin_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/NGC7822_Yizhou_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
