@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Palomar 6: Globular Star Cluster :
+## Lucy Launches to Eight Asteroids :
 
-> Where did this big ball of stars come from? Palomar 6 is one of about 200 globular clusters of stars that survive in our Milky Way Galaxy. These spherical star-balls are older than our Sun as well as older than most stars that orbit in our galaxy's disk.  Palomar 6 itself is estimated to be about 12.5 billion years old, so old that it is close to -- and so constrains -- the age of the entire universe.  Containing about 500,000 stars, Palomar 6 lies about 25,000 light years away, but not very far from our galaxy's center.  At that distance, this sharp image from the Hubble Space Telescope spans about 15 light-years.  After much study including images from Hubble, a leading origin hypothesis is that Palomar 6 was created -- and survives today -- in the central bulge of stars that surround the Milky Way's center, not in the distant galactic halo where most other globular clusters are now found.
+> Why would this mission go out as far as Jupiter -- but then not visit Jupiter? Lucy's plan is to follow different leads about the origin of our Solar System than can be found at Jupiter -- where Juno now orbits. Jupiter is such a massive planet that its gravity captures numerous asteroids that orbit the Sun ahead of it -- and behind. These trojan asteroids formed all over our Solar System and some may have been trapped there for billions of years. Flying by these trojan asteroids enables studying them as fossils that likely hold unique clues about our early Solar System. Lucy, named after a famous fossil skeleton which was named after a famous song, is scheduled to visit eight asteroids from 2025 to 2033.  Pictured, Lucy's launch was captured with reflection last week aboard a powerful Atlas V rocket from Cape Canaveral, Florida, USA.
 
-<img src='https://apod.nasa.gov/apod/image/2110/Palomar6_Hubble_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
