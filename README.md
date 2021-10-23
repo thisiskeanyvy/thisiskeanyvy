@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Comet and a Crab :
+## 3D Bennu :
 
-> This pretty field of view spans over 2 degrees or 4 full moons on the sky, filled with stars toward the constellation Taurus, the Bull. Above and right of center in the frame you can spot the faint fuzzy reddish appearance of Messier 1 (M1), also known as the Crab Nebula. M1 is the first object in 18th century comet hunter Charles Messier's famous catalog of things which are definitely not comets. Made from image data captured this October 11, there is a comet in the picture though. Below center and left lies the faint greenish coma and dusty tail of periodic comet 67P Churyumov-Gerasimenko, also known as Rosetta's comet. In the 21st century, it became the final resting place of robots from planet Earth. Rosetta's comet is now returning to the inner solar system, sweeping toward its next perihelion or closest approach to the Sun, on November 2. Too faint to be seen by eye alone, the comet's next perigee or closest approach to Earth will be November 12.
+> Put on your red/blue glasses and float next to asteroid 101955 Bennu. Shaped like a spinning toy top with boulders littering its rough surface, the tiny Solar System world is about one Empire State Building (less than 500 meters) across. Frames used to construct this 3D anaglyph were taken by PolyCam on the OSIRIS_REx spacecraft on December 3, 2018 from a distance of about 80 kilometers. With a sample from the asteroid's rocky surface on board, OSIRIS_REx departed Bennu's vicinity this May and is now enroute to planet Earth. The robotic spacecraft is scheduled to return the sample to Earth in September 2023.
 
-<img src='https://apod.nasa.gov/apod/image/2110/67p_m1_vdb47_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/ana03BennuVantuyne1024c.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
