@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Haunting the Cepheus Flare :
+## A Rorschach Aurora :
 
-> Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula, seen at the right of the starry field of view. Inside the nebula are the telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost seven full moons across the sky.
+> If you see this as a monster's face, don't panic. It's only pareidolia, often experienced as the tendency to see faces in patterns of light and shadow. In fact, the startling visual scene is actually a 180 degree panorama of Northern Lights, digitally mirrored like inkblots on a folded piece of paper. Frames used to construct it were captured on a September night from the middle of a waterfall-crossing suspension bridge in Jamtland, Sweden. With geomagnetic storms triggered by recent solar activity, auroral displays could be very active at planet Earth's high latitudes in the coming days. But if you see a monster's face in your own neighborhood tomorrow night, it might just be Halloween.
 
-<img src='https://apod.nasa.gov/apod/image/2110/IrisGhost_LeoShatz_RevB1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2110/GS_20210917_Handol_5651_Pan1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
