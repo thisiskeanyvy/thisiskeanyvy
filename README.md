@@ -14,9 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Video of a Green Flash :
+## NGC 1333: Stellar Nursery in Perseus :
 
-> Many think it is just a myth.  Others think it is true but its cause isn't known.  Adventurers pride themselves on having seen it.  It's a green flash from the Sun.  The truth is the green flash does exist and its cause is well understood.  Just as the setting Sun disappears completely from view, a last glimmer appears startlingly green.  The effect is typically visible only from locations with a low, distant horizon, and lasts just a few seconds. A green flash is also visible for a rising Sun, but takes better timing to spot.  A dramatic green flash was caught on video last month as the Sun set beyond the Ligurian Sea from Tuscany, Italy. The second sequence in the featured video shows the green flash in real time, while the first is sped up and the last is in slow motion. The Sun itself does not turn partly green -- the effect is caused by layers of the Earth's atmosphere acting like a prism.   Discovery + Outreach: Graduate student research position open for APOD
+> NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans about two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
+
+<img src='https://apod.nasa.gov/apod/image/2111/ngc1333_RGB-c21024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
