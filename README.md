@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Rosetta's Comet in Gemini :
+## How to Identify that Light in the Sky :
 
-> Returning along its 6.4 year orbit, periodic comet Churyumov-Gerasimenko (67P) is caught in this telescopic frame from November 7. Sweeping past background stars in the constellation Gemini the comet's dusty tail stretches toward the upper right to Upsilon Geminorum. Also known as Pollux, Beta Geminorum, Gemini's brightest star, shines just off the upper left edge of the field-of-view. Churyumov-Gerasimenko reached its 2021 perihelion or closest approach to the Sun on November 2. At perigee, its closest approach to planet Earth on November 12, this comet was about 0.42 astronomical units away, though it remains too faint to be seen by eye alone. The well-studied comet was explored by robots from planet Earth during its last trip through the inner solar system. It's now famous as the final resting place for the historic Rosetta spacecraft and Philae lander.
+> What is that light in the sky? Perhaps one of humanity's more common questions, an answer may result from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the din of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane's motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Spanish, Italian, Polish, Kannada, Latvian, Norwegian, and Turkish
 
-<img src='https://apod.nasa.gov/apod/image/2111/67P_211107_1067.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2111/astronomy101_hk_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
