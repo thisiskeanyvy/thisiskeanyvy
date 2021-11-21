@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## An Almost Total Lunar Eclipse :
+## Introducing Comet Leonard :
 
-> Predawn hours of November 19 found the Moon in partly cloudy skies over Cancun, Mexico. Captured in this telephoto snapshot, the lunar disk is not quite entirely immersed in Earth's dark umbral shadow during a long partial lunar eclipse. The partial eclipse was deep though, deep enough to show the dimmed but reddened light in Earth's shadow. That's a sight often anticipated by fans of total lunar eclipses. Wandering through the constellation Taurus, the eclipsed Moon's dimmer light also made it easier to spot the Pleiades star cluster. The stars of the Seven Sisters share this frame at the upper right, with the almost totally eclipsed Moon.   Notable APOD Submissions (so far): Lunar Eclipse of 2021 November 19
+> Here comes Comet Leonard. Comet C/2021 A1 (Leonard) was discovered as a faint smudge in January 2021 when it was out past Mars -- but its orbit will take the giant shedding ice-ball into the inner Solar System, passing near both Earth and Venus in December before it swoops around the Sun in early January 2022. Although comets are notoriously hard to predict, some estimations have Comet Leonard brightening to become visible to the unaided eye in December.  Comet Leonard was captured just over a week ago already sporting a green-tinged coma and an extended dust tail. The featured picture was composed from 62 images taken through a moderate-sized telescope -- one set of exposures tracking the comet, while another set tracking the background stars. The exposures were taken from the dark skies above the Eastern Sierra Mountains, near June Lake in California, USA.  Soon after passing near the Earth in mid-December, the comet will shift from northern to southern skies.    APOD Editor (RJN) Online Monday: NASA's Best Space Images (& Videos)
 
-<img src='https://apod.nasa.gov/apod/image/2111/IMG_8522-1_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2111/CometLeonard_Bartlett_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
