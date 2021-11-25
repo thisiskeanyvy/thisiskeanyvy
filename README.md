@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Pleiades: The Seven Sisters Star Cluster :
+## At the Shadow's Edge :
 
-> Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured exposure, taken from Florida, USA, covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Volunteer Opportunity: Someone to Update APOD's RSS Feed
+> Shaped like a cone tapering into space, the Earth's dark central shadow or umbra has a circular cross-section. It's wider than the Moon at the distance of the Moon's orbit though. But during the lunar eclipse of November 18/19, part of the Moon remained just outside the umbral shadow. The successive pictures in this composite of 5 images from that almost total lunar eclipse were taken over a period of about 1.5 hours. The series is aligned to trace part of the cross-section's circular arc, with the central image at maximum eclipse. It shows a bright, thin sliver of the lunar disk still beyond the shadow's curved edge. Of course, even within the shadow the Moon's surface is not completely dark, reflecting the reddish hues of filtered sunlight scattered into the shadow by Earth's atmosphere.   Notable APOD Submissions: Lunar Eclipse of 2021 November 19
 
-<img src='https://apod.nasa.gov/apod/image/2111/PleiadesB_Cannane_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2111/Gout_EclipseCollage-1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
