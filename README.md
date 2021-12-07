@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Space Station Silhouette on the Moon :
+## Ninety Gravitational Wave Spectrograms and Counting :
 
-> What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon last month. The featured composite, taken from Payson, Arizona, USA last month, was intricately composed by combining, in part, many 1/2000-second images from a video of the ISS crossing the Moon. A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the upper left, as well as comparatively rough, light colored terrain known as highlands, and relatively smooth, dark colored areas known as maria.  On-line tools can tell you when the International Space Station will be visible from your area.
+> very time two massive black holes collide, a loud chirping sound is broadcast out into the universe in gravitational waves. Humanity has only had the technology to hear these unusual chirps for the past seven years, but since then we have heard about 90 -- during the first three observing runs. Featured above are the spectrograms -- plots of gravitational-wave frequency versus time -- of these 90 as detected by the giant detectors of LIGO (in the USA), VIRGO (in Europe), and KAGRA (in Japan). The more energy received on Earth from a collision, the brighter it appears on the graphic. Among many science firsts, these gravitational-radiation chirps are giving humanity an unprecedented inventory of black holes and neutron stars, and a new way to measure the expansion rate of our universe. A fourth gravitational wave observing run with increased sensitivity is currently planned to begin in 2022 December.
 
-<img src='https://apod.nasa.gov/apod/image/2112/IssMoon_McCarthy_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/GWaveCatalog_LigoVirgo_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
