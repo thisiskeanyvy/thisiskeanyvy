@@ -14,14 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Total Eclipse of the Sun :
+## Eclipse on a Polar Day :
 
-> Few were able to stand in the Moon's shadow and watch the December 4 total eclipse of the Sun. Determined by celestial mechanics and not geographical boundaries, the narrow path of totality tracked across planet Earth's relatively inaccessible southernmost continent. Still, some enthusiastic and well-insulated eclipse chasers were rewarded with the dazzling spectacle in Antarctica's cold but clear skies. Taken just before the brief totality began, this image from a ground-based telescope inside the edge of the shadow path at Union Glacier catches a glimmer of sunlight near the top of the silhouetted lunar disk. Look closely for the pinkish solar prominences arcing above the Sun's limb. During totality, the magnificent solar corona, the Sun's outer atmosphere, made its much anticipated appearance, seen in the composite view streaming far from the Sun's edge.
-
-<img src='https://apod.nasa.gov/apod/image/2112/SOLARECLIPSE2021FORDISTROHighRes1024.jpg' width="800" height="500"/>
+> During polar day, in Arctic and Antarctic summer, the Sun stays above the horizon for periods of 24 hours or more. Recorded on December 4, this fisheye timelapse image tracks the Sun in multiple frames as it completes a circle in the summer sky above Union Glacier, Antarctica. Of course on that date, Union Glacier's sky did grow dark even though the Sun was above the horizon. Captured during the brief period of totality, an eclipsed Sun is at bottom center of the composite view. Near the edge of the total eclipse path across planet Earth, the Moon's shadow darkens the sky above.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
-| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
+| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
