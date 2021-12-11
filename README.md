@@ -14,11 +14,14 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Eclipse on a Polar Day :
+## Postcard from the South Pole :
 
-> During polar day, in Arctic and Antarctic summer, the Sun stays above the horizon for periods of 24 hours or more. Recorded on December 4, this fisheye timelapse image tracks the Sun in multiple frames as it completes a circle in the summer sky above Union Glacier, Antarctica. Of course on that date, Union Glacier's sky did grow dark even though the Sun was above the horizon. Captured during the brief period of totality, an eclipsed Sun is at bottom center of the composite view. Near the edge of the total eclipse path across planet Earth, the Moon's shadow darkens the sky above.
+> From this vantage point about three quarters of a mile from planet Earth's geographic South Pole, the December 4 eclipse of the Sun was seen as a partial eclipse. At maximum eclipse the New Moon blocked 90 percent of the solar disk. Of course, crews at the South Pole Telescope (left) and BICEP telescope (right) climbed to the roof of Amundsen-Scott station's Dark Sector Laboratory to watch. Centered near the local eclipse maximum, the composite timelapse view features an image of the Sun in cold antarctic skies taken every four minutes. Left to right along the roof line it also features the raised arms of Brandon Amat, Aman Chokshi, Cheng Zhang, James Bevington and Allen Forster.
+
+<img src='https://apod.nasa.gov/apod/image/2112/eclipse_apod1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
+| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
+| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
