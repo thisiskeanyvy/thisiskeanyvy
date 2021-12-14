@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Meteors and Auroras over Iceland :
+## HH 666: Carina Dust Pillar with Jet :
 
-> What's going on behind that mountain? Quite a bit.  First of all, the mountain itself, named Kirkjufell, is quite old and located in western Iceland near the town of  Grundarfjörður.  In front of the steeply-sloped structure lies a fjord that had just begun to freeze when the above image was taken -- in mid-December of 2012. Although quite faint to the unaided eye, the beautiful colors of background aurorae became quite apparent on the 25-second exposure. What makes this image of particular note, though, is that it also captures streaks from the Geminids meteor shower -- meteors that might not have been evident were the aurora much brighter. Far in the distance, on the left, is the band of our Milky Way Galaxy, while stars from our local part of the Milky Way appear spread across the background.  Tonight the Geminids meteor shower peaks again and may well provide sky enthusiasts with their own memorable visual experiences.
+> To some, it may look like a beehive. In reality, the featured image from the Hubble Space Telescope captures a cosmic pillar of dust, over two-light years long, inside of which is Herbig-Haro 666 -- a young star emitting powerful jets. The structure lies within one of our galaxy's largest star forming regions, the Carina Nebula, shining in southern skies at a distance of about 7,500 light-years.  The pillar's layered outline are shaped by the winds and radiation of Carina's young, hot, massive stars, some of which are still forming inside the nebula.  A dust-penetrating view in infrared light better shows the two, narrow, energetic jets blasting outward from a still hidden infant star.   Open Science: Browse 2,600+ codes in the Astrophysics Source Code Library
 
-<img src='https://apod.nasa.gov/apod/image/2112/auroraemeteors_boardman_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/HH666_HubbleOzsarac_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
