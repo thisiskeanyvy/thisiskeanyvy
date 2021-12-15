@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## HH 666: Carina Dust Pillar with Jet :
+## Comet Leonard from Space :
 
-> To some, it may look like a beehive. In reality, the featured image from the Hubble Space Telescope captures a cosmic pillar of dust, over two-light years long, inside of which is Herbig-Haro 666 -- a young star emitting powerful jets. The structure lies within one of our galaxy's largest star forming regions, the Carina Nebula, shining in southern skies at a distance of about 7,500 light-years.  The pillar's layered outline are shaped by the winds and radiation of Carina's young, hot, massive stars, some of which are still forming inside the nebula.  A dust-penetrating view in infrared light better shows the two, narrow, energetic jets blasting outward from a still hidden infant star.   Open Science: Browse 2,600+ codes in the Astrophysics Source Code Library
+> What does Comet Leonard look like from space?  Today's featured image from Origin.Space's Yangwang-1 space telescope shows not only the currently bright comet -- but several other space delights as well. Taken in optical and ultraviolet light, C/2021 A1 (Leonard) is visible with an extended tail near the image center as it appeared five days ago.  The Earth is visible on the lower right, while layers of the Earth's atmosphere glow diagonally from the lower left to the upper right. The trails of two satellites can be seen in front of a myriad of distant stars that dot the background on the upper left. The faint bands of light running diagonally from the lower right to the upper left are auroras. Finally, the image also caught a meteor streaking just below the airglow. To see Comet Leonard yourself from the Earth's surface during the next few days, look toward the western horizon just after sunset or just before sunrise.
 
-<img src='https://apod.nasa.gov/apod/image/2112/HH666_HubbleOzsarac_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/LeonardSpace_Yangwang1_960_annotated.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
