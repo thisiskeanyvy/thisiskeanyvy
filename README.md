@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Comet Leonard from Space :
+## Geminids of the South :
 
-> What does Comet Leonard look like from space?  Today's featured image from Origin.Space's Yangwang-1 space telescope shows not only the currently bright comet -- but several other space delights as well. Taken in optical and ultraviolet light, C/2021 A1 (Leonard) is visible with an extended tail near the image center as it appeared five days ago.  The Earth is visible on the lower right, while layers of the Earth's atmosphere glow diagonally from the lower left to the upper right. The trails of two satellites can be seen in front of a myriad of distant stars that dot the background on the upper left. The faint bands of light running diagonally from the lower right to the upper left are auroras. Finally, the image also caught a meteor streaking just below the airglow. To see Comet Leonard yourself from the Earth's surface during the next few days, look toward the western horizon just after sunset or just before sunrise.
+> Fireflies flash along a moonlit countryside in this scene taken on the night of December 13/14 from southern Uruguay, planet Earth. On that night meteors fell in the partly cloudy skies above during the annual Geminid meteor shower. Frames recorded over a period of 1.5 hours are aligned in the composite image made with the camera facing south. That direction was opposite the shower's radiant toward the north and so the Geminid meteor streaks appear to converge at an antiradiant below the southern horizon. The shower's apparent radiant (and antiradiant) is just due to perspective though. As Earth sweeps through the dust trail of mysterious asteroid 3200 Phaethon, the dust grains that create the Geminid shower meteors are really moving along parallel tracks. They enter Earth's atmosphere traveling at about 22 kilometers per second.
 
-<img src='https://apod.nasa.gov/apod/image/2112/LeonardSpace_Yangwang1_960_annotated.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/geminids_2021_fefo_bouvier1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
