@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Geminids of the South :
+## Geminid of the North :
 
-> Fireflies flash along a moonlit countryside in this scene taken on the night of December 13/14 from southern Uruguay, planet Earth. On that night meteors fell in the partly cloudy skies above during the annual Geminid meteor shower. Frames recorded over a period of 1.5 hours are aligned in the composite image made with the camera facing south. That direction was opposite the shower's radiant toward the north and so the Geminid meteor streaks appear to converge at an antiradiant below the southern horizon. The shower's apparent radiant (and antiradiant) is just due to perspective though. As Earth sweeps through the dust trail of mysterious asteroid 3200 Phaethon, the dust grains that create the Geminid shower meteors are really moving along parallel tracks. They enter Earth's atmosphere traveling at about 22 kilometers per second.
+> An arid expanse of the Tengger Desert in north-central China, planet Earth fills the foreground of this starry scene. A widefield panoramic view, it was recorded shortly after moonset in the local predawn hours of December 14. Pictured in the still dark sky, stars of the northern winter hexagon surround a luminous Milky Way. Seen near the peak of the annual meteor shower, the startling flash of a bright Geminid fireball meteor was also captured on that night. Above the western horizon and just below bright star Capella, its dagger-like trail points back to the meteor shower's radiant in Gemini. Of course, the constellation Gemini is easy to spot. Its twin bright stars, bluish Castor and yellowish Pollux are near top center in the frame.
 
-<img src='https://apod.nasa.gov/apod/image/2112/geminids_2021_fefo_bouvier1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/GeminidFireball_AlvinWu1024c.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
