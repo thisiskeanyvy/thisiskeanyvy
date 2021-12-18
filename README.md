@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Geminid of the North :
+## Stephan's Quintet :
 
-> An arid expanse of the Tengger Desert in north-central China, planet Earth fills the foreground of this starry scene. A widefield panoramic view, it was recorded shortly after moonset in the local predawn hours of December 14. Pictured in the still dark sky, stars of the northern winter hexagon surround a luminous Milky Way. Seen near the peak of the annual meteor shower, the startling flash of a bright Geminid fireball meteor was also captured on that night. Above the western horizon and just below bright star Capella, its dagger-like trail points back to the meteor shower's radiant in Gemini. Of course, the constellation Gemini is easy to spot. Its twin bright stars, bluish Castor and yellowish Pollux are near top center in the frame.
+> The first identified compact galaxy group, Stephan's Quintet is featured in this eye-catching image constructed with data drawn from the extensive Hubble Legacy Archive. About 300 million light-years away, only four of these five galaxies are actually locked in a cosmic dance of repeated close encounters. The odd man out is easy to spot, though. The interacting galaxies, NGC 7319, 7318A, 7318B, and 7317 have an overall yellowish cast. They also tend to have distorted loops and tails, grown under the influence of disruptive gravitational tides. But the predominantly bluish galaxy, NGC 7320, is closer, just 40 million light-years distant, and isn't part of the interacting group. Stephan's Quintet lies within the boundaries of the high flying constellation Pegasus. At the estimated distance of the quartet of interacting galaxies, this field of view spans about 500,000 light-years. But moving just beyond this field, up and to the right, astronomers can identify another galaxy, NGC 7320C, that is also 300 million light-years distant. Including it would bring the interacting quartet back up to quintet status.
 
-<img src='https://apod.nasa.gov/apod/image/2112/GeminidFireball_AlvinWu1024c.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/HUBBLE_NGC7318_PS2_CROP_INSIGHT1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
