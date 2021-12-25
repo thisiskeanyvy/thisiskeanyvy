@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## M1: The Crab Nebula :
+## The Tail of a Christmas Comet :
 
-> The Crab Nebula is cataloged as M1, the first object on Charles Messier's famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star, witnessed by astronomers in the year 1054. This sharp, ground-based telescopic view combines broadband color data with narrowband data that tracks emission from ionized sulfur, hydrogen, and oxygen atoms to explore the tangled filaments within the still expanding cloud. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula's center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab's emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the constellation Taurus.   Launch Update: James Webb Space Telescope
+> The tail of a comet streams across this three degree wide telescopic field of view captured under dark Namibian skies on December 21. In outburst only a few days ago and just reaching naked eye visibility Comet Leonard (C/2021 A1) is this year's brightest comet. Binoculars will make the diffuse comet easier to spot though, close to the western horizon after sunset. Details revealed in the sharp image show the comet's coma with a greenish tinge, and follow the interaction of the comet's ion tail with magnetic fields in the solar wind. After passing closest to Earth on December 12 and Venus on December 18, Comet Leonard is heading toward perihelion, its closest approach to the Sun on January 3rd. Appearing in late December's beautiful evening skies after sunset, Comet Leonard has also become known as 2021's Christmas Comet.   Launch Update: James Webb Space Telescope
 
-<img src='https://apod.nasa.gov/apod/image/2112/Sherick_M1_SHOLRGB_12-5-21a_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/C2021A1_211221_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
