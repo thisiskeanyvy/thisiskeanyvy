@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Tail of a Christmas Comet :
+## James Webb Space Telescope over Earth :
 
-> The tail of a comet streams across this three degree wide telescopic field of view captured under dark Namibian skies on December 21. In outburst only a few days ago and just reaching naked eye visibility Comet Leonard (C/2021 A1) is this year's brightest comet. Binoculars will make the diffuse comet easier to spot though, close to the western horizon after sunset. Details revealed in the sharp image show the comet's coma with a greenish tinge, and follow the interaction of the comet's ion tail with magnetic fields in the solar wind. After passing closest to Earth on December 12 and Venus on December 18, Comet Leonard is heading toward perihelion, its closest approach to the Sun on January 3rd. Appearing in late December's beautiful evening skies Comet Leonard has also become known as 2021's Christmas Comet.   Launch Update: James Webb Space Telescope
+> There's a big new telescope in space. This one, the James Webb Space Telescope (JWST), not only has a mirror over five times larger than Hubble's in area, but can see better in infrared light. The featured picture shows JWST high above the Earth just after being released by the upper stage of an Ariane V rocket, launched yesterday from French Guiana. Over the next month, JWST will move out near the Sun-Earth L2 point where it will co-orbit the Sun with the Earth. During this time and for the next five months, JWST will unravel its segmented mirror and an array of sophisticated scientific instruments -- and test them. If all goes well, JWST will start examining galaxies across the universe and planets orbiting stars across our Milky Way Galaxy in the summer of 2022.   APOD Gallery: Webb Space Telescope Launch
 
-<img src='https://apod.nasa.gov/apod/image/2112/C2021A1_211221_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
