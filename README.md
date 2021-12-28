@@ -14,14 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Comet Leonard behind JWST Launch Plume :
+## Sun Halo over Sweden :
 
-> Which one of these two streaks is a comet? Although they both have comet-like features, the lower streak is the only real comet. This lower streak shows the coma and tail of Comet Leonard, a city-sized block of rocky ice that is passing through the inner Solar System as it continues its looping orbit around the Sun.  Comet Leonard has recently passed its closest to both the Earth and Venus and will round the Sun next week.  The comet, still visible to the unaided eye, has developed a long and changing tail in recent weeks.  In contrast, the upper streak is the launch plume of the Ariane V rocket that lifted the James Webb Space Telescope (JWST) off the Earth two days ago. The featured single-exposure image was taken from Thailand, and the foreground spire is atop a pagoda in Doi Inthanon National Park. JWST, NASA's largest and most powerful space telescope so far, will orbit the Sun near the Earth-Sun L2 point and is scheduled to start science observations in the summer of 2022.    Gallery: Comet Leonard 2021  Gallery: Webb Space Telescope Launch: 2021 December 25
-
-<img src='https://apod.nasa.gov/apod/image/2112/CometJwst_Matipon_1080.jpg' width="800" height="500"/>
+> What's happened to the Sun?  Sometimes it looks like the Sun is being viewed through a giant  lens.  In the featured video, however, there are actually millions of tiny lenses: ice crystals.  Water may freeze in the  atmosphere into small, flat, six-sided, ice crystals.  As these crystals flutter to the ground, much time is spent with their faces flat and parallel to the ground.  An observer may find themselves in the same plane as many of the falling ice crystals near sunrise or sunset.  During this alignment, each crystal can act like a miniature lens, refracting sunlight into our view and creating phenomena like parhelia, the technical term for sundogs.  The featured video was taken in late 2017 on the side of a ski hill at the Vemdalen Ski Resort in central  Sweden. Visible in the center is the most direct image of the Sun, while two bright sundogs glow prominently from both the left and the right.  Also visible is the bright 22 degree halo -- as well as the rarer and much fainter 46 degree halo -- also created by sunlight refracting through atmospheric ice crystals.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
-| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
+| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
