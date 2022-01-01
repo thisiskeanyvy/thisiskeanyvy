@@ -14,11 +14,14 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## JWST on the Road to L2 :
+## The Full Moon of 2021 :
 
-> This timelapse gif tracks the James Webb Space Telescope as it streaks across the stars of Orion on its journey to a destination beyond the Moon. Recorded on December 28, 12 consecutive exposures each 10 minutes long were aligned and combined with a subsequent color image of the background stars to create the animation. About 2.5 days after its December 25 launch, JWST cruised past the altitude of the Moon's orbit as it climbed up the gravity ridge from Earth to reach a halo orbit around L2, an Earth-Sun Lagrange point. Lagrange points are convenient locations in space where the combined gravitational attraction of one massive body (Earth) orbiting another massive body (Sun) is in balance with the centripetal force needed to move along with them. So much smaller masses, like spacecraft, will tend to stay there. One of 5 Lagrange points, L2 is about 1.5 million kilometers from Earth directly along the Earth-Sun line. JWST will arrive at L2 on January 23, 29 days after launch. While relaxing in Earth's surface gravity you can follow the James Webb Space Telescope's progress and complicated deployment online.
+> very Full Moon of 2021 shines in this year-spanning astrophoto project, a composite portrait of the familiar lunar nearside at each brightest lunar phase. Arranged by moonth, the year progresses in stripes beginning at the top. Taken with the same camera and lens the stripes are from Full Moon images all combined at the same pixel scale. The stripes still looked mismatched, but they show that the Full Moon's angular size changes throughout the year depending on its distance from Kolkata, India, planet Earth. The calendar month, a full moon name, distance in kilometers, and angular size is indicated for each stripe. Angular size is given in minutes of arc corresponding to 1/60th of a degree. The largest Full Moon is near a perigee or closest approach in May. The smallest is near an apogee, the most distant Full Moon in December. Of course the full moons of May and November also slid into Earth's shadow during 2021's two lunar eclipses.
+
+<img src='https://apod.nasa.gov/apod/image/2201/MoonstripsAnnotatedIG_crop1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
+| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
+| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
