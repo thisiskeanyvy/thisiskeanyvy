@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Supernova Remnant Simeis 147 :
+## NGC 1566: The Spanish Dancer Spiral Galaxy :
 
-> It's easy to get lost following the intricate, looping, twisting filaments in this detailed image of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240 it goes by the popular nickname, the Spaghetti Nebula. Seen toward the boundary of the constellations Taurus and Auriga, it covers nearly 3 degrees or 6 full moons on the sky. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. This composite includes image data taken through narrow-band filters where reddish emission from ionized hydrogen atoms and doubly ionized oxygen atoms in faint blue-green hues trace the shocked, glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from the massive stellar explosion first reached Earth 40,000 years ago. But the expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star's core.
+> An island universe of billions of stars, NGC 1566 lies about 60 million light-years away in the southern constellation Dorado. Popularly known as the Spanish Dancer galaxy, it's seen face-on from our Milky Way perspective. A gorgeous grand design spiral, this galaxy's two graceful spiral arms span over 100,000 light-years, traced by bright blue star clusters, pinkish starforming regions, and swirling cosmic dust lanes. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies. It likely houses a central supermassive black hole wreaking havoc on surrounding stars, gas, and dust. In this sharp southern galaxy portrait, the spiky stars lie well within the Milky Way.
 
-<img src='https://apod.nasa.gov/apod/image/2201/HOOClassicBinned_ps1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2201/NGC1566LRGBHa-Hanson-SelbyFinal1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
