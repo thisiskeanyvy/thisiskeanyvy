@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Galileo's Europa :
+## A Retreating Thunderstorm at Sunset :
 
-> Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth's own extreme shrimp.
+> What type of cloud is that? This retreating cumulonimbus cloud, more commonly called a thundercloud, is somewhat unusual as it contains the unusual bumpiness of a mammatus cloud on the near end, while simultaneously producing falling rain on the far end. Taken in mid-2013 in southern Alberta, Canada, the cloud is moving to the east, into the distance, as the sun sets in the west, behind the camera. In the featured image, graphic sunset colors cross the sky to give the already photogenic cloud striking orange and pink hues. A darkening blue sky covers the background. Further in the distance, a rising, waxing, gibbous moon is visible on the far right.
 
-<img src='https://apod.nasa.gov/apod/image/2201/PIA19048europa1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2201/thundercloud_dyer_1592.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
