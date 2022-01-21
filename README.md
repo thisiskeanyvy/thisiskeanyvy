@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 7822 in Cepheus :
+## Young Star Jet MHO 2147 :
 
-> Hot, young stars and cosmic pillars of gas and dust seem to crowd into NGC 7822. At the edge of a giant molecular cloud toward the northern constellation Cepheus, the glowing star forming region lies about 3,000 light-years away. Within the nebula, bright edges and dark shapes stand out in this colorful telescopic skyscape. The image includes data from narrowband filters, mapping emission from atomic oxygen, hydrogen, and sulfur into blue, green, and red hues. The emission line and color combination has become well-known as the Hubble palette.  The atomic emission is powered by energetic radiation from the central hot stars. Their powerful winds and radiation sculpt and erode the denser pillar shapes and clear out a characteristic cavity light-years across the center of the natal cloud. Stars could still be forming inside the pillars by gravitational collapse but as the pillars are eroded away, any forming stars will ultimately be cutoff from their reservoir of star stuff. This field of view spans about 40 light-years at the estimated distance of NGC 7822.
+> Laser guide stars and adaptive optics sharpened this stunning ground-based image of stellar jets from the Gemini South Observatory, Chilean Andes, planet Earth. These twin outflows of MHO 2147 are from a young star in formation. It lies toward the central Milky Way and the boundary of the constellations Sagittarius and Ophiuchus at an estimated distance of some 10,000 light-years. At center, the star itself is obscured by a dense region of cold dust. But the infrared image still traces the sinuous jets across a frame that would span about 5 light-years at the system's estimated distance. Driven outward by the young rotating star, the apparent wandering direction of the jets is likely due to precession. Part of a multiple star system, the young star's rotational axis would slowly precess or wobble like a top under the gravitation influence of its nearby companions.
 
-<img src='https://apod.nasa.gov/apod/image/2201/IMG_9447_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2201/noirlab2204a_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
