@@ -14,15 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Rigel and the Witch Head Nebula :
+## Video: Comet Leonard over One Hour :
 
-> By starlight this eerie visage shines in the dark, a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that the witch has fixed her gaze on Orion's bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel's starlight. The blue color of the Witch Head Nebula and of the dust surrounding Rigel is caused not only by Rigel's intense blue starlight but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in Earth's atmosphere are molecules of nitrogen and oxygen. Rigel, the Witch Head Nebula, and gas and dust that surrounds them lie about 800 light-years away.
-
-<img src='https://apod.nasa.gov/apod/image/2201/RigelWitchHead_Mtanous_960.jpg' width="800" height="500"/>
+> Which direction is this comet heading?  Judging by the tail, one might imagine that Comet Leonard is traveling towards the bottom right, but a full 3D analysis shows it traveling almost directly away from the camera.  With this perspective, the dust tail is trailed towards the camera and can only be seen as a short yellow-white glow near the head of the comet.  The bluish ion tail, however, is made up of escaping ions that are forced directly away from the Sun by the solar wind -- but channeled along the Sun's magnetic field lines.  The Sun's magnetic field is quite complex, however, and occasionally solar magnetic reconnection will break the ion tail into knots that are pushed away from the Sun. One such knot is visible in the featured one-hour time-lapse video captured in late December from Thailand.  Comet Leonard is now fading as it heads out of our Solar System.    Gallery:  Notable images submitted to APOD of Comet Leonard in 2021
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
-| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
-| 2022-2023 | [DeepAmandine](https://github.com/BuyWithCrypto/deep-amandine) | Une AGI très sympathique basée sur GPT-3 |
+| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
