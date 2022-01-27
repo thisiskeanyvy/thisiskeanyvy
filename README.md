@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Stars, Dust, and Gas Near Antares :
+## South of Orion :
 
-> Why is the sky near Antares and Rho Ophiuchi so dusty yet colorful?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated from the front by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the lower right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the top left.   The distant globular cluster of stars M4 is visible above and to the right of Antares. These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.
+> South of the large star-forming region known as the Orion Nebula, lies bright blue reflection nebula NGC 1999. At the edge of the Orion molecular cloud complex some 1,500 light-years distant, NGC 1999's illumination is provided by the embedded variable star V380 Orionis. The nebula is marked with a dark sideways T-shape at center right in this telescopic vista that spans about two full moons on the sky. Its dark shape was once assumed to be an obscuring dust cloud seen in silhouette. But infrared data suggest the shape is likely a hole blown through the nebula itself by energetic young stars. In fact, this region abounds with energetic young stars producing jets and outflows with luminous shock waves. Cataloged as Herbig-Haro (HH) objects, named for astronomers George Herbig and Guillermo Haro, the shocks have intense reddish hues. HH1 and HH2 are just below and right of NGC 1999. HH222, also known as the Waterfall nebula, looks like a red gash near top right in the frame. To create the shocks stellar jets push through the surrounding material at speeds of hundreds of kilometers per second.
 
-<img src='https://apod.nasa.gov/apod/image/2201/RhoOphAntares_Cogo_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2201/NGC-1999_1100.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
