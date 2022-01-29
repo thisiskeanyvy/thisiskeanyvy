@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Western Moon, Eastern Sea :
+## The Fornax Cluster of Galaxies :
 
-> The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, taken during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found near top center in this sharp telescopic view, extremely foreshortened along the Moon's western edge. Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the impact basin's concentric circular features are ripples in the lunar crust. But they are a little easier to spot in more direct images of the region taken from lunar orbit. So why is the Eastern Sea at the Moon's western edge? The Mare Orientale lunar feature was named before 1961. That's when the convention labeling east and west on lunar maps was reversed.
+> Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it is almost 20 times more distant than our neighboring Andromeda Galaxy, and only about 10 percent farther than the better known and more populated Virgo Galaxy Cluster. Seen across this two degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. Elliptical galaxies NGC 1399 and NGC 1404 are the dominant, bright cluster members toward the upper left (but not the spiky foreground stars). A standout barred spiral galaxy NGC 1365 is visible on the lower right as a prominent Fornax cluster member.
 
-<img src='https://apod.nasa.gov/apod/image/2201/Mare_Orientale_Nov_27_2021_TGlenn_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2201/FornaxC1_FB1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
