@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Galactic Center in Radio from MeerKAT :
+## Embraced by Sunlight :
 
-> What's happening at the center of our galaxy? It's hard to tell with optical telescopes since visible light is blocked by intervening interstellar dust. In other bands of light, though, such as radio, the galactic center can be imaged and shows itself to be quite an interesting and active place.  The featured picture shows the latest image of our Milky Way's center by the MeerKAT array of 64 radio dishes in South Africa. Spanning four times the angular size of the Moon (2 degrees), the image is impressively vast, deep, and detailed.  Many known sources are shown in clear detail, including many with a prefix of Sgr, since the galactic center is in the direction of the constellation Sagittarius.  In our Galaxy's Center lies Sgr A, found here in the image center, which houses the Milky Way's central supermassive black hole.  Other sources in the image are not as well understood, including the Arc, just to the left of Sgr A, and numerous filamentary threads. Goals for MeerKAT include searching for radio emission from neutral hydrogen emitted in a much younger universe and brief but distant radio flashes.   Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
+> ven though Venus (left) was the brightest planet in the sky it was less than 1/30th the apparent size of the Moon on January 29. But as both rose before the Sun they shared a crescent phase. For a moment their visible disks were each about 12 percent illuminated as they stood above the southeastern horizon. The similar sunlit crescents were captured in these two separate images. Made at different magnifications, each panel is a composite of stacked video frames taken with a small telescope. Venus goes through a range of phases like the Moon as the inner planet wanders from evening sky to morning sky and back again with a period of 584 days. Of course the Moon completes its own cycle of phases, a full lunation, in about 29.5 days.
 
-<img src='https://apod.nasa.gov/apod/image/2202/MwCenter_MeerKATMunoz_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/VenusMoonSamePhase1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
