@@ -14,15 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Embraced by Sunlight :
+## Moons at Twilight :
 
-> ven though Venus (left) was the brightest planet in the sky it was less than 1/30th the apparent size of the Moon on January 29. But as both rose before the Sun they shared a crescent phase. For a moment their visible disks were each about 12 percent illuminated as they stood above the southeastern horizon. The similar sunlit crescents were captured in these two separate images. Made at different magnifications, each panel is a composite of stacked video frames taken with a small telescope. Venus goes through a range of phases like the Moon as the inner planet wanders from evening sky to morning sky and back again with a period of 584 days. Of course the Moon completes its own cycle of phases, a full lunation, in about 29.5 days.
-
-<img src='https://apod.nasa.gov/apod/image/2202/VenusMoonSamePhase1024.jpg' width="800" height="500"/>
+> ven though Jupiter was the only planet visible in the evening sky on February 2, it shared the twilight above the western horizon with the Solar System's brightest moons. In a single exposure made just after sunset, the Solar System's ruling gas giant is at the upper right in this telephoto field-of-view from Cancun, Mexico. The snapshot also captures our fair planet's own natural satellite in its young crescent phase. The Moon's disk looms large, its familiar face illuminated mostly by earthshine. But the four points of light lined-up with Jupiter are Jupiter's own large Galilean moons. Top to bottom are Ganymede, [Jupiter], Io, Europa, and Callisto. Ganymede, Io, and Callisto are physically larger than Earth's Moon while water world Europa is only slightly smaller.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
-| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
-| 2022-2023 | [DeepAmandine](https://github.com/BuyWithCrypto/deep-amandine) | Une AGI très sympathique basée sur GPT-3 |
+| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
