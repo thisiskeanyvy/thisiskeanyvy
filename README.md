@@ -14,11 +14,15 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moons at Twilight :
+## Symbiotic R Aquarii :
 
-> ven though Jupiter was the only planet visible in the evening sky on February 2, it shared the twilight above the western horizon with the Solar System's brightest moons. In a single exposure made just after sunset, the Solar System's ruling gas giant is at the upper right in this telephoto field-of-view from Cancun, Mexico. The snapshot also captures our fair planet's own natural satellite in its young crescent phase. The Moon's disk looms large, its familiar face illuminated mostly by earthshine. But the four points of light lined-up with Jupiter are Jupiter's own large Galilean moons. Top to bottom are Ganymede, [Jupiter], Io, Europa, and Callisto. Ganymede, Io, and Callisto are physically larger than Earth's Moon while water world Europa is only slightly smaller.
+> Variable star R Aquarii is actually an interacting binary star system, two stars that seem to have a close symbiotic relationship. Centered in this space-based optical/x-ray composite image it lies about 710 light years away. The intriguing system consists of a cool red giant star and hot, dense white dwarf star in mutual orbit around their common center of mass. With binoculars you can watch as R Aquarii steadily changes its brightness over the course of a year or so. The binary system's visible light is dominated by the red giant, itself a Mira-type long period variable star. But material in the cool giant star's extended envelope is pulled by gravity onto the surface of the smaller, denser white dwarf, eventually triggering a thermonuclear explosion, blasting material into space. Astronomers have seen such outbursts over recent decades. Evidence for much older outbursts is seen in these spectacular structures spanning almost a light-year as observed by the Hubble Space Telescope (in red and blue). Data from the Chandra X-ray Observatory (in purple) shows the X-ray glow from shock waves created as a jet from the white dwarf strikes surrounding material.
+
+<img src='https://apod.nasa.gov/apod/image/2202/archives_raquarii.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
+| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
+| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
+| 2022-2023 | [DeepAmandine](https://github.com/BuyWithCrypto/deep-amandine) | Une AGI très sympathique basée sur GPT-3 |
