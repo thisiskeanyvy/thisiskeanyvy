@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 4651: The Umbrella Galaxy :
+## Aurora and Light Pillars over Norway :
 
-> It's raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured image was captured by the Canada-France-Hawaii Telescope (CFHT) in Hawaii, USA.  The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation Coma Berenices.   Almost Hyperspace: Random APOD Generator
+> Which half of this sky is your favorite? On the left, the night sky is lit up by particles expelled from the Sun that later collided with Earth's upper atmosphere — creating bright auroras.  On the right, the night glows with ground lights reflected by millions of tiny ice crystals falling from the sky — creating  light pillars.  And in the center, the astrophotographer presents your choices. The light pillars are vertical columns because the fluttering ice-crystals are mostly flat to the ground, and their colors are those of the ground lights. The auroras cover the sky and ground in the green hue of glowing oxygen, while their transparency is clear because you can see stars right through them. Distant stars dot the background, including bright stars from the iconic constellation of Orion.  The featured image was captured in a single exposure two months ago near Kautokeino, Norway.   Favorite sky half: Left half (aurora) | Right half (light pillars)
 
-<img src='https://apod.nasa.gov/apod/image/2202/NGC4651_CFHT_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/AuroraPillars_Correia_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
