@@ -14,11 +14,15 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Eta Car: 3D Model of the Most Dangerous Star Known :
+## T Tauri and Hind's Variable Nebula :
 
-> What's the most dangerous star near earth?  Many believe it's Eta Carinae, a binary star system about 100 times the mass of the Sun, just 10,000 light years from earth.  Eta Carinae is a ticking time bomb, set to explode as a supernova in only a few million years, when it may bathe the earth in dangerous gamma rays.  The star suffered a notorious outburst in the 1840s when it became the brightest star in the southern sky, only to fade to obscurity within decades.  The star was not destroyed, but lies hidden behind a thick, expanding, double-lobed structure called the Homunculus which now surrounds the binary.  Studies of this ejecta provide forensic clues about the explosion.  Using observations from NASA satellites we can now visualize the 3D distribution of the shrapnel, all the way from the infrared, through optical and UV, to the outermost shell of million-degree material, visible only in X-rays.
+> The star with an orange tint near top center in this dusty telescopic frame is T Tauri, prototype of the class of T Tauri variable stars.  Next to it (right) is a yellow cosmic cloud historically known as Hind's Variable Nebula (NGC 1555). About 650 light-years away, at the boundary of the local bubble and the Taurus molecular cloud, both star and nebula are seen to vary significantly in brightness but not necessarily at the same time, adding to the mystery of the intriguing region. T Tauri stars are now generally recognized as young (less than a few million years old), sun-like stars still in the early stages of formation. To further complicate the picture, infrared observations indicate that T Tauri itself is part of a multiple system and suggest that the associated Hind's Nebula may also contain a very young stellar object. The well-composed image spans about 8 light-years at the estimated distance of T Tauri.
+
+<img src='https://apod.nasa.gov/apod/image/2202/NGC1555texas2021_1094.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
 |---   |---     |---          |
-| 2021-2022 | [DrWho Labs](https://github.com/drwholabs) | Développement de logiciels et labo de test |
+| 2021-2022 | [Ngrok Web Tunnel](https://github.com/thisiskeanyvy/ngrok-web-manager) | Interface graphique web pour gérer les tunnels Ngrok |
+| 2021-2022 | [BuyWithCrypto](https://github.com/BuyWithCrypto) | Un moyen de payer en cryptomonnaie sur des marketplaces |
+| 2022-2023 | [DeepAmandine](https://github.com/BuyWithCrypto/deep-amandine) | Une AGI très sympathique basée sur GPT-3 |
