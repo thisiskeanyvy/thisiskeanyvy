@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## IC 342: The Hidden Galaxy in Camelopardalis :
+## Aurora by Moonlight :
 
-> Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing pink star forming regions along spiral arms that wind far from the galaxy's core. IC 342 may have undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.
+> The ice was singing as light from a bright gibbous Moon cast shadows across this frozen lake, about 20 kilometers north of Stockholm, Sweden, planet Earth. In the alluring night skyscape captured on February 10, shimmering auroral curtains of light dance in the evening sky. On that northern night nature's performance included the auroral displays fostered by a minor geomagnetic storm. Stormy space weather was the result of a coronal mass ejection, erupting from a solar prominence days earlier and brushing our fair planet's magnetosphere.
 
-<img src='https://apod.nasa.gov/apod/image/2202/IC342Feller1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/auroralakeFeb10_Heden.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
