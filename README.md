@@ -14,11 +14,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Aurora by Moonlight :
+## Earth at Night :
 
-> The ice was singing as light from a bright gibbous Moon cast shadows across this frozen lake, about 20 kilometers north of Stockholm, Sweden, planet Earth. In the alluring night skyscape captured on February 10, shimmering auroral curtains of light dance in the evening sky. On that northern night nature's performance included the auroral displays fostered by a minor geomagnetic storm. Stormy space weather was the result of a coronal mass ejection, erupting from a solar prominence days earlier and brushing our fair planet's magnetosphere.
+> This is what the Earth looks like at night.  Can you find your favorite country or city?  Surprisingly, city lights make this task quite possible.  Human-made lights highlight particularly developed or populated areas of the Earth's surface, including the seaboards of Europe, the eastern United States, and Japan.  Many large cities are located near rivers or oceans so that they can exchange goods cheaply by boat.  Particularly dark areas include the central parts of South America, Africa, Asia, and Australia. The featured image, nicknamed Black Marble, is actually a composite of hundreds of pictures remade in 2016 from data taken by the orbiting Suomi NPP satellite.
 
-<img src='https://apod.nasa.gov/apod/image/2202/auroralakeFeb10_Heden.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/EarthAtNight2016_SuomiNPP_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
