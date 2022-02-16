@@ -7,7 +7,6 @@
 [![twitter](https://img.shields.io/twitter/follow/thisiskeanyvy?style=social)](https://twitter.com/thisiskeanyvy)
 [![github](https://img.shields.io/github/followers/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy?tab=followers)
 [![github likes](https://img.shields.io/github/stars/thisiskeanyvy?style=social)](https://github.com/thisiskeanyvy)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=thisiskeanyvy.thisiskeanyvy)
 
 ![bienvenue sur mon github](https://thisiskeanyvy-hosting.pages.dev/banner.gif)
 
