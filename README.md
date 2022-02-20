@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Peculiar Galaxies of Arp 273 :
+## Aurora Over White Dome Geyser :
 
-> The spiky stars in the foreground of this backyard telescopic frame are well within our own Milky Way Galaxy. But the two eye-catching galaxies lie far beyond the Milky Way, at a distance of over 300 million light-years. Their distorted appearance is due to gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), the galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Nearby, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and approaching the Milky Way. The peculiar galaxies of Arp 273 may offer an analog of their far future encounter. Repeated galaxy encounters on a cosmic timescale can ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.
+> Sometimes both heaven and Earth erupt. Colorful auroras erupted unexpectedly a few years ago, with green aurora appearing near the horizon and brilliant bands of red aurora blooming high overhead.  A bright Moon lit the foreground of this picturesque scene, while familiar stars could be seen far in the distance.  With planning, the careful astrophotographer shot this image mosaic in the field of White Dome Geyser in Yellowstone National Park in the western USA. Sure enough, just after midnight, White Dome erupted -- spraying a stream of water and vapor many meters into the air. Geyser water is heated to steam by scalding magma several kilometers below, and rises through rock cracks to the surface. About half of all known geysers occur in Yellowstone National Park. Although the geomagnetic storm that caused the auroras subsided within a day, eruptions of White Dome Geyser continue about every 30 minutes.
 
-<img src='https://apod.nasa.gov/apod/image/2202/JasonGuenzelARP273.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/geyseraurora_howell_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
