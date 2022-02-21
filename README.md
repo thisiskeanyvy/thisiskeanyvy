@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Aurora Over White Dome Geyser :
+## Barred Spiral Galaxy NGC 6217 :
 
-> Sometimes both heaven and Earth erupt. Colorful auroras erupted unexpectedly a few years ago, with green aurora appearing near the horizon and brilliant bands of red aurora blooming high overhead.  A bright Moon lit the foreground of this picturesque scene, while familiar stars could be seen far in the distance.  With planning, the careful astrophotographer shot this image mosaic in the field of White Dome Geyser in Yellowstone National Park in the western USA. Sure enough, just after midnight, White Dome erupted -- spraying a stream of water and vapor many meters into the air. Geyser water is heated to steam by scalding magma several kilometers below, and rises through rock cracks to the surface. About half of all known geysers occur in Yellowstone National Park. Although the geomagnetic storm that caused the auroras subsided within a day, eruptions of White Dome Geyser continue about every 30 minutes.
+> Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 6217, featured here, was captured in spectacular detail in this image taken by the Advanced Camera for Surveys on the orbiting Hubble Space Telescope in 2009. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 6217, which spans about 30,000 light years across and can be found toward the constellation of the Little Bear (Ursa Minor).   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, French, French (Canada), German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, Turkish, and  Ukrainian
 
-<img src='https://apod.nasa.gov/apod/image/2202/geyseraurora_howell_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/Ngc6217_Hubble_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
