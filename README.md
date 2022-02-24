@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Orion over Green Bank :
+## Beautiful Albireo AB :
 
-> What will the huge Green Bank Telescope discover tonight? Pictured, the Robert C. Byrd Green Bank Telescope (GBT) on the lower right is the largest fully-pointable single-dish radio telescope in the world. With a central dish larger than a football field, the GBT is nestled in the hills of West Virginia, USA in a radio quiet zone where the use of cell phones, WiFi emitters, and even microwave ovens are limited. The GBT explores our universe not only during the night -- but during the day, too, since the daytime sky is typically dark in radio waves.  Taken in late January, the featured image was planned for months to get the setting location of Orion just right.  The image is a composite of a foreground shot taken over a kilometer away from the GBT, and a background shot built up of long exposures during the previous night. The deep background image of Orion is fitting because the GBT is famous for, among many discoveries, mapping the unusual magnetic field in the Orion Molecular Cloud Complex.
+> Beta Cygni is a single bright star to the naked eye. About 420 light-years away it marks the foot of the Northern Cross, famous asterism in the constellation Cygnus. But a view through the eyepiece of a small telescope will transform it into a beautiful double star, a treasure of the night sky in blue and gold. Beta Cygni is also known as Albireo, designated Albireo AB to indicate its two bright component stars. Their visually striking color difference is illustrated in this telescopic snapshot, along with their associated visible spectrum of starlight shown in insets to the right. Albireo A, top inset, shows the spectrum of a K-type giant star, cooler than the Sun and emitting most of its energy at yellow and red wavelengths. Below, Albireo B has the spectrum of a main sequence star much hotter than the Sun, emitting more energy in blue and violet. Albireo A is known to be a binary star, two stars together orbiting a common center of mass, though the two stars are too close together to be seen separately with a small telescope. Well-separated Albireo A and B most likely represent an optical double star and not a physical binary system because the two components have clearly different measured motions through space.
 
-<img src='https://apod.nasa.gov/apod/image/2202/GreenBankOrion_Green_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
