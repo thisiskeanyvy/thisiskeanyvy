@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Beautiful Albireo AB :
+## Perseverance Sol 354 :
 
-> Beta Cygni is a single bright star to the naked eye. About 420 light-years away it marks the foot of the Northern Cross, famous asterism in the constellation Cygnus. But a view through the eyepiece of a small telescope will transform it into a beautiful double star, a treasure of the night sky in blue and gold. Beta Cygni is also known as Albireo, designated Albireo AB to indicate its two bright component stars. Their visually striking color difference is illustrated in this telescopic snapshot, along with their associated visible spectrum of starlight shown in insets to the right. Albireo A, top inset, shows the spectrum of a K-type giant star, cooler than the Sun and emitting most of its energy at yellow and red wavelengths. Below, Albireo B has the spectrum of a main sequence star much hotter than the Sun, emitting more energy in blue and violet. Albireo A is known to be a binary star, two stars together orbiting a common center of mass, though the two stars are too close together to be seen separately with a small telescope. Well-separated Albireo A and B most likely represent an optical double star and not a physical binary system because the two components have clearly different measured motions through space.
+> This Navcam mosaic from Perseverance looks out over the car-sized rover's deck, across the floor of Jezero crater on Mars. Frames used to construct the mosaic view were captured on mission sol 354. That corresponds to Earth calendar date February 17, 2022, nearly one Earth year after the rover's landing. With a mass of over 1,000 kilograms, six-wheeled Perseverance is the heaviest rover to touch down on Mars. During its first year of exploration the rover has collected six (so far) rock core samples for later return to planet Earth, served as the base station for Ingenuity, the first helicopter on Mars, and tested MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment), converting some of the Red Planet’s thin, carbon dioxide-rich atmosphere into oxygen.
 
-<img src='https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/PerseveranceSol354Nav1_1br2_KenKremer1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
