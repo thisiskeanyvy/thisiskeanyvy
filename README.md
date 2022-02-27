@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Nearby Spiral Galaxy NGC 4945 :
+## Earthrise 1: Historic Image Remastered :
 
-> Large spiral galaxy NGC 4945 is seen nearly edge-on in this cosmic galaxy close-up. It's almost the size of our Milky Way Galaxy. NGC 4945's own dusty disk, young blue star clusters, and pink star forming regions stand out in the colorful telescopic frame. About 13 million light-years distant toward the expansive southern constellation Centaurus, NGC 4945 is only about six times farther away than Andromeda, the nearest large spiral galaxy to the Milky Way. Though this galaxy's central region is largely hidden from view for optical telescopes, X-ray and infrared observations indicate significant high energy emission and star formation in the core of NGC 4945. Its obscured but active nucleus qualifies the gorgeous island universe as a Seyfert galaxy and home to a central supermassive black hole.
+> "Oh my God! Look at that picture over there! Here's the Earth coming up. Wow is that pretty!" Soon after that pronouncement, 50 years ago today, one of the most famous images ever taken was snapped from the orbit of the Moon. Now known as "Earthrise", the iconic image shows the Earth rising above the limb of the Moon, as taken by the crew of Apollo 8.  But the well-known Earthrise image was actually the  second image taken of the Earth rising above the lunar limb -- it was just the first in color.  With modern digital technology, however, the real first Earthrise image -- originally in black and white -- has now been remastered to have the combined resolution and color of the first three images.  Behold! The featured image is a close-up of the picture that Apollo 8 astronaut Bill Anders was talking about. Thanks to modern technology and human ingenuity, now we can all see it. (Historical note: A different historic black & white image of the Earth setting behind the lunar limb was taken by the robotic Lunar Orbiter 1 two years earlier.)
 
-<img src='https://apod.nasa.gov/apod/image/2202/NGC4945-Dietmar-Eric-crop1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2202/Earthrise1_Apollo8AndersWeigang_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
