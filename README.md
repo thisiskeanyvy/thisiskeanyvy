@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Record Prominence Imaged by Solar Orbiter :
+## Spiral Galaxy NGC 2841 :
 
-> What's happened to our Sun?  Last month, it produced the largest prominence ever imaged together with a complete solar disk. The record image, featured, was captured in ultraviolet light by the Sun-orbiting Solar Orbiter spacecraft. A quiescent solar prominence is a cloud of hot gas held above the Sun's surface by the Sun's magnetic field.  This solar prominence was huge -- spanning a length rivaling the diameter of the Sun itself. Solar prominences may erupt unpredictably and expel hot gas into the Solar System via a Coronal Mass Ejection (CME).  When a CME strikes the Earth and its magnetosphere, bright auroras may occur. This prominence did produce a CME, but it was directed well away from the Earth. Although surely related to the Sun's changing magnetic field, the energy mechanism that creates and sustains a solar prominence remains a topic of research.
+> A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This deep view of the gorgeous island universe was captured during 32 clear nights in November, December 2021 and January 2022. It shows off a striking yellow nucleus, galactic disk, and faint outer regions.  Dust lanes, small star-forming regions, and young star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way. X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.
 
-<img src='https://apod.nasa.gov/apod/image/2203/SunEruption_SolarOrbiter_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/NGC2841_20220114_72H_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
