@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Lion in Orion :
+## Moon in Inverted Colors :
 
-> Yes, but can you see the lion? A deep exposure shows the famous dark indentation that looks like a horse's head, visible just left and below center, and known unsurprisingly as the Horsehead Nebula.  The Horsehead Nebula (Barnard 33) is part of a vast complex of dark absorbing dust and bright glowing gas.  To bring out details of the  Horsehead's pasture, an astrophotographer artistically combined light accumulated for over 20 hours in hydrogen (orange), oxygen (blue), and sulfur (green). The resulting spectacular picture captured from Raachine, Lebanon, details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The featured composition brings up another pareidolic animal icon -- that of a lion's head -- in the expansive orange colored gas above the horse's head.  The Flame Nebula is visible just to the left of the Horsehead.  The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.
+> Which moon is this? It's Earth's moon -- but in inverted colors. Here, the pixel values corresponding to light and dark areas have been translated in reverse, or inverted, producing a false-color representation reminiscent of a black and white photographic negative.  However, this is an inverted color image -- where the muted colors of the moon are real but digitally exaggerated before inversion.  Normally bright rays from the large crater Tycho dominate the southern (bottom) features as easily followed dark green lines emanating from the 85-kilometer diameter impact site.  Normally dark lunar mare appear light and silvery.  The image was acquired in Southend-on-Sea, England, UK.  Historically, astronomical images recorded on photographic plates were directly examined on inverted-color negatives because it helped the eye pick out faint details.
 
-<img src='https://apod.nasa.gov/apod/image/2203/HorseFlameLion_Mahfoud_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/InvertedMoon_Glawdzin_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
