@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moon in Inverted Colors :
+## A Flower-Shaped Rock on Mars :
 
-> Which moon is this? It's Earth's moon -- but in inverted colors. Here, the pixel values corresponding to light and dark areas have been translated in reverse, or inverted, producing a false-color representation reminiscent of a black and white photographic negative.  However, this is an inverted color image -- where the muted colors of the moon are real but digitally exaggerated before inversion.  Normally bright rays from the large crater Tycho dominate the southern (bottom) features as easily followed dark green lines emanating from the 85-kilometer diameter impact site.  Normally dark lunar mare appear light and silvery.  The image was acquired in Southend-on-Sea, England, UK.  Historically, astronomical images recorded on photographic plates were directly examined on inverted-color negatives because it helped the eye pick out faint details.
+> It is one of the more unusual rocks yet found on Mars. Smaller than a penny, the rock has several appendages that make it look, to some, like a flower. Although it would be a major discovery if the rock was truly a fossilized ancient Martian flower, there are less spectacular -- and currently preferred -- explanations for its unusual structure.  One theory that has emerged is that the rock is a type of concretion created by minerals deposited by water in cracks or divisions in existing rock. These concretions can be compacted together, can be harder and denser than surrounding rock, and can remain even after the surrounding rock erodes away.  The flower structure may also be caused by crystal clusters. The small rock, named Blackthorn Salt, has similarities to previously imaged Martian pebbles. The featured image was taken by the Curiosity rover on Mars in late February.  Scientists will continue to study data and images taken of this -- and similar -- surprising Martian rocks.    Review: Last Year in Space Pictures
 
-<img src='https://apod.nasa.gov/apod/image/2203/InvertedMoon_Glawdzin_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/FlowerRock_Curiosity_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
