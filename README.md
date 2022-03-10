@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Flower-Shaped Rock on Mars :
+## Globular Star Cluster 47 Tuc :
 
-> It is one of the more unusual rocks yet found on Mars. Smaller than a penny, the rock has several appendages that make it look, to some, like a flower. Although it would be a major discovery if the rock was truly a fossilized ancient Martian flower, there are less spectacular -- and currently preferred -- explanations for its unusual structure.  One theory that has emerged is that the rock is a type of concretion created by minerals deposited by water in cracks or divisions in existing rock. These concretions can be compacted together, can be harder and denser than surrounding rock, and can remain even after the surrounding rock erodes away.  The flower structure may also be caused by crystal clusters. The small rock, named Blackthorn Salt, has similarities to previously imaged Martian pebbles. The featured image was taken by the Curiosity rover on Mars in late February.  Scientists will continue to study data and images taken of this -- and similar -- surprising Martian rocks.    Review: Last Year in Space Pictures
+> Globular star cluster 47 Tucanae is a jewel of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked-eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
 
-<img src='https://apod.nasa.gov/apod/image/2203/FlowerRock_Curiosity_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/NGC104_TL_PS1_INSIGHT1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
