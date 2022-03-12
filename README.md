@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## When Rainbows Smile :
+## Point Reyes Milky Way :
 
-> Want to see a rainbow smile? Look near the zenith (straight up) when the sun is low in the sky and you might. This example of an ice halo known as a circumzenithal arc was captured above a palm tree top from Ragusa, Sicily on February 24. The vividly colorful arcs are often called smiling rainbows because of their upside down curvature and colors. For circumzenithal arcs the zenith is at the center and red is on the outside, compared to rainbows whose arcs bend toward the horizon after a downpour. True rainbows are formed by water droplets refracting the sunlight to produce a spectrum of colors, though. Circumzenithal arcs are the product of refraction and reflection in flat hexagonal ice crystals, like the ice crystals that create sundogs, formed in high thin clouds.
+> Northern winter constellations and a long arc of the Milky Way are setting in this night skyscape looking toward the Pacific Ocean from Point Reyes on planet Earth's California coast. Sirius, alpha star of Canis Major, is prominent below the starry arc toward the left. Orion's yellowish Betelgeuse, Aldebaran in Taurus, and the blue tinted Pleiades star cluster also find themselves between Milky Way and northwestern horizon near the center of the scene. The nebulae visible in the series of exposures used to construct this panoramic view were captured in early March, but are just too faint to be seen with the unaided eye. On that northern night their expansive glow includes the reddish semi-circle of Barnard's Loop in Orion and NGC 1499 above and right of the Pleiades, also known as the California Nebula.
 
-<img src='https://apod.nasa.gov/apod/image/2203/ArcoCircumzenitale_1024c.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/PointReyesMilkyWayDanZafra1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
