@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Point Reyes Milky Way :
+## Colorful Airglow Bands Surround Milky Way :
 
-> Northern winter constellations and a long arc of the Milky Way are setting in this night skyscape looking toward the Pacific Ocean from Point Reyes on planet Earth's California coast. Sirius, alpha star of Canis Major, is prominent below the starry arc toward the left. Orion's yellowish Betelgeuse, Aldebaran in Taurus, and the blue tinted Pleiades star cluster also find themselves between Milky Way and northwestern horizon near the center of the scene. The nebulae visible in the series of exposures used to construct this panoramic view were captured in early March, but are just too faint to be seen with the unaided eye. On that northern night their expansive glow includes the reddish semi-circle of Barnard's Loop in Orion and NGC 1499 above and right of the Pleiades, also known as the California Nebula.
+> Why would the sky glow like a giant repeating rainbow?  Airglow.  Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  Red airglow likely originates from OH molecules about 87-kilometers high, excited by ultraviolet light from the Sun, while orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  While driving near Keluke Lake in Qinghai Provence in China a few years ago, the photographer originally noticed mainly the impressive central band of the Milky Way Galaxy.  Stopping to photograph it, surprisingly, the resulting sensitive camera image showed airglow bands to be quite prominent and span the entire sky. The featured image has been digitally enhanced to make the colors more vibrant.
 
-<img src='https://apod.nasa.gov/apod/image/2203/PointReyesMilkyWayDanZafra1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/AirglowRings_Wang_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
