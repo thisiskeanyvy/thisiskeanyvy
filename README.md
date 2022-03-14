@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Colorful Airglow Bands Surround Milky Way :
+## Star Formation in the Eagle Nebula :
 
-> Why would the sky glow like a giant repeating rainbow?  Airglow.  Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  Red airglow likely originates from OH molecules about 87-kilometers high, excited by ultraviolet light from the Sun, while orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  While driving near Keluke Lake in Qinghai Provence in China a few years ago, the photographer originally noticed mainly the impressive central band of the Milky Way Galaxy.  Stopping to photograph it, surprisingly, the resulting sensitive camera image showed airglow bands to be quite prominent and span the entire sky. The featured image has been digitally enhanced to make the colors more vibrant.
+> Where do stars form?  One place, star forming regions known as "EGGs", are being uncovered at the end of this giant pillar of gas and dust in the Eagle Nebula (M16).  Short for evaporating gaseous globules, EGGs are dense regions of mostly molecular hydrogen gas that fragment and gravitationally collapse to form stars.  Light from the hottest and brightest of these new stars heats the end of the pillar and causes further evaporation of gas and dust -- revealing yet more EGGs and more young stars.  This featured picture was created from exposures spanning over 30 hours with the Earth-orbiting Hubble Space Telescope in 2014, and digitally processed with modern software by experienced volunteers in Argentina. Newborn stars will gradually destroy their birth pillars over the next 100,000 years or so -- if a supernova doesn't destroy them first.
 
-<img src='https://apod.nasa.gov/apod/image/2203/AirglowRings_Wang_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/Pillars_HstBibillo_1097.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
