@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Road to the Stars :
+## The Observable Universe :
 
-> Pictured -- a very scenic road to the stars.  The road approaches La Silla Observatory in Chile, with the ESO's 3.6-meter telescope just up ahead. To the left are some futuristic-looking support structures for the planned BlackGEM telescopes, an array of optical telescopes that will help locate optical counterparts to gravitational waves detections by LIGO and other detectors.  But there is much more. Red airglow illuminates the night sky on the right, while the central band of our Milky Way Galaxy slants across the image center. Jupiter can be seen just above the band near the image center, while Saturn is visible just above the 3.6-meter telescope dome. The two largest satellite galaxies of our Milky Way Galaxy, the LMC and SMC, are seen on the far right. The featured image panorama was built up from multiple 15-second exposures that were captured on 2019 June 30.  Two days later, La Silla experienced a rare total eclipse of the Sun.
+> How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as "the universe" where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Available: High res image version with readable annotations | Clickable annotation version
 
-<img src='https://apod.nasa.gov/apod/image/2203/Road2Stars_EsoHoralek_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/VisUni_WikiBudassi_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
