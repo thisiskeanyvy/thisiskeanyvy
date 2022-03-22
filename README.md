@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Sky in 2021 :
+## A Whale of an Aurora over Swedish Forest :
 
-> What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 minutes during 2021, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined to create the featured keogram, with January at the top, December at the bottom, and the middle of the night running vertically just left of center. What do we see?  Most obviously, the daytime sky is mostly blue, while the nighttime sky is mostly black.  The twelve light bands crossing the night sky are caused by the glow of the Moon. The thinnest part of the black hourglass shape occurs during the summer solstice when days are the longest, while the thickest part occurs at the winter solstice. Yesterday was an equinox -- when night and day were equal -- and the northern-spring equinox from one year ago can actually be located in the keogram -- about three-quarters of the way up.    Follow APOD on Instagram in: English, Indonesian, Persian, Portuguese or Taiwanese
+> What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun earlier this month, throwing a cloud of fast-moving electrons, protons, and ions toward the Earth. Part of this cloud impacted our Earth's magnetosphere and, bolstered by a sudden gap, resulted in spectacular auroras being seen at some high northern latitudes. Featured here is a particularly photogenic auroral corona captured above a forest in Sweden from a scenic perch overlooking the city of Östersund. To some,  this shimmering green glow of recombining atmospheric oxygen might appear like a large whale, but feel free to share what it looks like to you.  The unusually quiet Sun of the past few years has now passed. As our Sun now approaches a solar maximum in its 11-year solar magnetic cycle, dramatic auroras like this are sure to continue.    Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
 
-<img src='https://apod.nasa.gov/apod/image/2203/YearOfSky_Bassa_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/WhaleAurora_Strand_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
