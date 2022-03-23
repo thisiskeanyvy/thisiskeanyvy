@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Whale of an Aurora over Swedish Forest :
+## The Bubble Nebula from Hubble :
 
-> What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun earlier this month, throwing a cloud of fast-moving electrons, protons, and ions toward the Earth. Part of this cloud impacted our Earth's magnetosphere and, bolstered by a sudden gap, resulted in spectacular auroras being seen at some high northern latitudes. Featured here is a particularly photogenic auroral corona captured above a forest in Sweden from a scenic perch overlooking the city of Östersund. To some,  this shimmering green glow of recombining atmospheric oxygen might appear like a large whale, but feel free to share what it looks like to you.  The unusually quiet Sun of the past few years has now passed. As our Sun now approaches a solar maximum in its 11-year solar magnetic cycle, dramatic auroras like this are sure to continue.    Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
+> Massive stars can blow bubbles.  The featured image shows perhaps the most famous of all star-bubbles, NGC 7635, also known simply as The Bubble Nebula. Although it looks delicate, the 7-light-year diameter bubble offers evidence of violent processes at work. Above and left of the Bubble's center is a hot, O-type star, several hundred thousand times more luminous and some 45-times more massive than the Sun. A fierce stellar wind and intense radiation from that star has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula and associated cloud complex lie a mere 7,100 light-years away toward the boastful constellation Cassiopeia. This sharp, tantalizing view of the cosmic bubble is a reprocessed composite of previously acquired Hubble Space Telescope image data.   Birthday Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-<img src='https://apod.nasa.gov/apod/image/2203/WhaleAurora_Strand_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/Bubble_HubbleOzsarac_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
