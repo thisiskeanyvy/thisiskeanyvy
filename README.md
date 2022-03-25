@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Arp 78: Peculiar Galaxy in Aries :
+## The Medusa Nebula :
 
-> Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is over 100,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait from the large Gemini North telescope near the summit of Maunakea, Hawaii, planet Earth. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's spiral arm is likely pumped-up by galactic-scale gravitational tidal interactions The close companion galaxy responsible is NGC 770, located off the upper right of this frame. But more distant background galaxies are clearly visible in the cosmic field of view.
+> Braided and serpentine filaments of glowing gas suggest this nebula's popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa's transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend above and left of the bright crescent region. The Medusa Nebula is estimated to be over 4 light-years across.
 
-<img src='https://apod.nasa.gov/apod/image/2203/noirlab2209a_ngc772_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2203/Medusa_Nebula_141_x_180s.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
