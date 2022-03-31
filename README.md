@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Animation: Odd Radio Circles :
+## Exploring the Antennae :
 
-> What do you call a cosmic puzzle that no one expected to see?  In this case, Odd Radio Circles, aka ORCs.  ORC-1 typifies the enigmatic five objects, only visible at radio frequencies, that were serendipitously discovered in 2019 using the new Australian SKA Pathfinder radio array.  The final image in the featured video uses 2021 data from the South African MeerKAT array to reveal more detail.  The radio data, assigned turquoise colors, are combined with a Dark Energy Survey optical/IR map.  The animated artist’s illustration explores just one idea about the ORCs’ origins.  If two supermassive black holes merge in the center of a galaxy, the associated shockwaves could generate rings of radio radiation.  These grow to fill the video frame.  The video zooms out so the expansion the ORC can be tracked until it is about a million light-years across.  Fortunately, the up-coming Square Kilometer Array can help test this and other promising scenarios.
+> Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image, an accumulation of 88 hours of exposure captured during 2012-2021, follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.
+
+<img src='https://apod.nasa.gov/apod/image/2203/Arp244-LRGB1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
