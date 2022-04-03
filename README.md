@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Nova Scotia Northern Lights :
+## CMB Dipole: Speeding Through the Universe :
 
-> This almost otherworldly display of northern lights was captured in clear skies during the early hours of March 31 from 44 degrees north latitude, planet Earth. In a five second exposure the scene looks north from Martinique Beach Provincial Park in Nova Scotia, Canada. Stars of the W-shaped constellation Cassiopeia shine well above the horizon, through the red tint of the higher altitude auroral glow. Auroral activity was anticipated by skywatchers alerted to the possibility of stormy space weather by Sun-staring spacecraft. The predicted geomagnetic storm was sparked as a coronal mass ejection, launched from prolific solar active region 2975, impacted our fair planet's magnetosphere.
+> Our Earth is not at rest.  The Earth moves around the Sun.  The Sun orbits the center of the Milky Way Galaxy.  The Milky Way Galaxy orbits in the Local Group of Galaxies.  The Local Group falls toward the Virgo Cluster of Galaxies.  But these speeds are less than the speed that all of these objects together move relative to the cosmic microwave background radiation (CMBR).  In the featured all-sky map from the COBE satellite in 1993, microwave light in the Earth's direction of motion appears blueshifted and hence hotter, while microwave light on the opposite side of the sky is redshifted and colder.  The map indicates that the Local Group moves at about 600 kilometers per second relative to this primordial radiation.  This high speed was initially unexpected and its magnitude is still unexplained.  Why are we moving so fast?  What is out there?
 
-<img src='https://apod.nasa.gov/apod/image/2204/Z62_5747-Edit1090.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2204/CmbDipole_cobe_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
