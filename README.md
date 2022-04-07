@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Earendel: A Star in the Early Universe :
+## Messier 24: Sagittarius Star Cloud :
 
-> Is Earendel the farthest star yet discovered? This scientific possibility started when the Hubble Space Telescope observed a huge cluster of galaxies. The gravitational lens effect of this cluster was seen to magnify and distort a galaxy far in the background. This distorted background galaxy -- so far away it has a redshift of 6.2 -- appears in the featured image as a long red string, while beads on that string are likely to be star clusters.   The galaxy cluster lens creates a line of maximum magnification line where superposed background objects may appear magnified many thousands of times. On the intersection between the galaxy line and the maximum magnification line is one "bead" which shows evidence of originating from a single bright star in the early universe -- now named Earendel. Future investigations may include more imaging by Hubble to see how Earendel's brightness varies, and, quite possibly, by the new James Webb Space Telescope when it becomes operational later this year.  Earendel's  great distance exceeds that of any known stable star -- although the star that exploded creating GRB 090423 had a redshift of 8.2.
+> Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. When you gaze at the star cloud with binoculars or small telescope you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars fill this gorgeous starscape. Covering over 3 degrees or the width of 6 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 just above center, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
 
-<img src='https://apod.nasa.gov/apod/image/2204/LensedStar_Hubble_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2204/M24_APOD_GabrielRodriguesSantosAPOD1100.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
