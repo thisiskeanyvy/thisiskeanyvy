@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Messier 24: Sagittarius Star Cloud :
+## Hale-Bopp: The Great Comet of 1997 :
 
-> Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. When you gaze at the star cloud with binoculars or small telescope you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars fill this gorgeous starscape. Covering over 3 degrees or the width of 6 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 just above center, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+> Only twenty-five years ago, Comet Hale-Bopp rounded the Sun and offered a dazzling spectacle in planet Earth's night skies. Digitized from the original astrophoto on 35mm color slide film, this classic image of the Great Comet of 1997 was recorded a few days after its perihelion passage on April 1, 1997. Made with a camera and telephoto lens piggy-backed on a small telescope, the 10 minute long, hand-guided exposure features the memorable tails of Hale-Bopp, a whitish dust tail and blue ion tail. Here, the ion tail extends well over ten degrees across the northern sky. In all, Hale-Bopp was reported as visible to the naked eye from late May 1996 through September 1997. Also known as C/1995 O1, Hale-Bopp is recognized as one of the most compositionally pristine comets to pass through the inner Solar System. A visitor from the distant Oort cloud, the comet's next perihelion passage should be around the year 4380 AD. Do you remember Hale-Bopp?
 
-<img src='https://apod.nasa.gov/apod/image/2204/M24_APOD_GabrielRodriguesSantosAPOD1100.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2204/HaleBoppSeip_c1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
