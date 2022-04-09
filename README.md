@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Hale-Bopp: The Great Comet of 1997 :
+## Mars-Saturn Conjunction :
 
-> Only twenty-five years ago, Comet Hale-Bopp rounded the Sun and offered a dazzling spectacle in planet Earth's night skies. Digitized from the original astrophoto on 35mm color slide film, this classic image of the Great Comet of 1997 was recorded a few days after its perihelion passage on April 1, 1997. Made with a camera and telephoto lens piggy-backed on a small telescope, the 10 minute long, hand-guided exposure features the memorable tails of Hale-Bopp, a whitish dust tail and blue ion tail. Here, the ion tail extends well over ten degrees across the northern sky. In all, Hale-Bopp was reported as visible to the naked eye from late May 1996 through September 1997. Also known as C/1995 O1, Hale-Bopp is recognized as one of the most compositionally pristine comets to pass through the inner Solar System. A visitor from the distant Oort cloud, the comet's next perihelion passage should be around the year 4380 AD. Do you remember Hale-Bopp?
+> Fainter stars in the zodiacal constellation Capricornus are scattered near the plane of the ecliptic in this field of view. The two brightest ones at center aren't stars at all though, but the planets Mars and Saturn. Taken on the morning of April 4, the telescopic snapshot captured their tantalizing close conjunction in a predawn sky, the pair of planets separated by only about 1/3 of a degree. That's easily less than the apparent width of a Full Moon. Can you tell which planet is which? If you guessed Mars is the redder one , you'd be right. Above Mars, slightly fainter Saturn still shines with a paler yellowish tinge in reflected sunlight.  Even at the low magnification, Saturn's largest and brightest moon Titan can be spotted hugging the planet very closely on the left.
 
-<img src='https://apod.nasa.gov/apod/image/2204/HaleBoppSeip_c1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2204/mars_saturn_2022_04_04dp1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
