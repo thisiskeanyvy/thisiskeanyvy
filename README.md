@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Space Station Crosses a Busy Sun :
+## N11: Star Clouds of the LMC :
 
-> Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot several times a year from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken earlier this month from Beijing, China with perfect timing.  This image series was later combined with separate images taken at nearly the same time but highlighting the texture and activity on the busy Sun. The solar activity included numerous gaseous prominences seen around the edge, highlighted in red, filaments seen against the Sun's face, and a dark sunspot.
+> Massive stars, abrasive winds, mountains of dust, and energetic light sculpt one of the largest and most picturesque regions of star formation in the Local Group of Galaxies.  Known as N11, the region is visible on the upper right of many images of its home galaxy, the Milky Way neighbor known as the Large Magellanic Cloud (LMC).  The featured image was taken for scientific purposes by the Hubble Space Telescope and reprocessed for artistry.  Although the section imaged above is known as NGC 1763, the entire N11 emission nebula is second in LMC size only to the Tarantula Nebula.  Compact globules of dark dust housing emerging young stars are also visible around the image.  A recent study of variable stars in the LMC with Hubble has helped to recalibrate the distance scale of the  observable universe, but resulted in a slightly different scale than found using the pervasive cosmic microwave background.   Astrophysicists: Browse 2,700+ codes in the Astrophysics Source Code Library
 
-<img src='https://apod.nasa.gov/apod/image/2204/IssSunspot_Letian_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2204/N11_HubbleLake_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
