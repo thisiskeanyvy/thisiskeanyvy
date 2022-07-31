@@ -10,14 +10,14 @@
 
 ![bienvenue sur mon github](https://thisiskeanyvy-hosting.pages.dev/banner.gif)
 
-# Mes Statistiques Github :
+## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Messier 96 :
+## Starburst Galaxy M94 from Hubble :
 
-> Spiral arms seem to swirl around the core of Messier 96 in this colorful, detailed portrait of a beautiful island universe. Of course M96 is a spiral galaxy, and counting the faint arms extending beyond the brighter central region it spans 100 thousand light-years or so. That's about the size of our own Milky Way. M96 is known to be 38 million light-years distant, a dominant member of the Leo I galaxy group. Background galaxies and smaller Leo I group members can be found by examining the picture. The most intriguing one is itself a spiral galaxy seen nearly edge on behind the outer spiral arm near the 1 o'clock position from center. Its bright central bulge cut by its own dark dust clouds, the edge-on background spiral appears to be about 1/5 the size of M96. If that background galaxy is similar in actual size to M96, then it would be about 5 times farther away.
+> Why does this galaxy have a ring of bright blue stars?  Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the Hunting Dogs (Canes Venatici). A popular target for Earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years across M94's central region. The featured close-up highlights the galaxy's compact, bright nucleus, prominent inner dust lanes, and the remarkable bluish ring of young massive stars. The ring stars are all likely less than 10 million years old, indicating that M94 is a starburst galaxy that is experiencing an epoch of rapid star formation from inspiraling gas. The circular ripple of blue stars is likely a wave propagating outward, having been triggered by the gravity and rotation of a oval matter distributions. Because M94 is relatively nearby, astronomers can better explore details of its starburst ring.
 
-<img src='https://apod.nasa.gov/apod/image/2204/M_96_LRGB_CDK_1000_8April2022HansonSelbyFinal1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
