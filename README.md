@@ -10,7 +10,7 @@
 
 ![bienvenue sur mon github](https://thisiskeanyvy-hosting.pages.dev/banner.gif)
 
-## Mes Statistiques Github :
+# Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
 ## Messier 96 :
