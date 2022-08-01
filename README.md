@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Starburst Galaxy M94 from Hubble :
+## Mountains of Dust in the Carina Nebula :
 
-> Why does this galaxy have a ring of bright blue stars?  Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the Hunting Dogs (Canes Venatici). A popular target for Earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years across M94's central region. The featured close-up highlights the galaxy's compact, bright nucleus, prominent inner dust lanes, and the remarkable bluish ring of young massive stars. The ring stars are all likely less than 10 million years old, indicating that M94 is a starburst galaxy that is experiencing an epoch of rapid star formation from inspiraling gas. The circular ripple of blue stars is likely a wave propagating outward, having been triggered by the gravity and rotation of a oval matter distributions. Because M94 is relatively nearby, astronomers can better explore details of its starburst ring.
+> It's stars versus dust in the Carina Nebula and the stars are winning. More precisely, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed. Located in the Carina Nebula and known informally as Mystic Mountain, these pillar's appearance is dominated by the dark dust even though it is composed mostly of clear hydrogen gas. Dust pillars such as these are actually much thinner than air and only appear as mountains due to relatively small amounts of opaque interstellar dust.  About 7,500 light-years distant, the featured image was taken with the Hubble Space Telescope and highlights an interior region of Carina which spans about three light years. Within a few million years, the stars will likely win out completely and the entire dust mountain will evaporate.
 
-<img src='https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
