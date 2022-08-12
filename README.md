@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Perseids and MAGIC :
+## Portrait of the Eagle Nebula :
 
-> On August 11, 2021 a multi-mirror, 17 meter-diameter MAGIC telescope reflected this starry night sky from the Roque de los Muchachos European Northern Observatory on the Canary Island of La Palma. MAGIC stands for Major Atmospheric Gamma Imaging Cherenkov. The telescopes can see the brief flashes of optical light produced in particle air showers as high-energy gamma rays impact the Earth's upper atmosphere. To the dark-adapted eye the mirror segments offer a tantalizing reflection of stars and nebulae along the plane of our Milky Way galaxy. But directly behind the segmented mirror telescope, low on the horizon, lies the constellation Perseus. And on that date the dramatic composite nightscape also captured meteors streaming from the radiant of the annual Perseid meteor shower. This year the Perseid shower activity will again peak around August 13 but perseid meteors will have to compete with the bright light of a Full Moon.
+> A star cluster around 2 million years young surrounded by natal clouds of dust and glowing gas, Messier 16 (M16) is also known as The Eagle Nebula. This beautifully detailed image of the region adopts the colorful Hubble palette and includes cosmic sculptures made famous in Hubble Space Telescope close-ups of the starforming complex. Described as elephant trunks or Pillars of Creation, dense, dusty columns rising near the center are light-years in length but are gravitationally contracting to form stars. Energetic radiation from the cluster stars erodes material near the tips, eventually exposing the embedded new stars. Extending from the ridge of bright emission left of center is another dusty starforming column known as the Fairy of Eagle Nebula. M16 lies about 7,000 light-years away, an easy target for binoculars or small telescopes in a nebula rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake). As framed, this telescopic portrait of the Eagle Nebula is about 70 light-years across.
 
-<img src='https://apod.nasa.gov/apod/image/2208/MagicPerseid001_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/M16_final_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
