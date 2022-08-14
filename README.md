@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Herschel Crater on Mimas :
+## 4000 Exoplanets :
 
-> Mimas, small 400 kilometer-diameter moon of Saturn, is host to 130 kilometer-diameter Herschel crater, one of the larger impact craters in the entire Solar System. The robotic Cassini spacecraft orbiting Saturn in 2010 recorded this startling view of small moon and big crater while making a 10,000-kilometer record close pass by the diminutive icy world. Shown in contrast-enhanced false color, the image data reveal more clearly that Herschel's landscape is colored slightly differently from heavily cratered terrain nearby.  The color difference could yield surface composition clues to the violent history of Mimas. Of course, an impact on Mimas any larger than the one that created the 130-kilometer Herschel might have destroyed the small moon of Saturn.
-
-<img src='https://apod.nasa.gov/apod/image/2208/PIA12572_1200.jpg' width="800" height="500"/>
+> Over 4000 planets are now known to exist outside our Solar System. Known as exoplanets, this milestone was passed last month, as recorded by NASA's Exoplanet Archive. The featured video highlights these exoplanets in sound and light, starting chronologically from the first confirmed detection in 1992 and continuing into 2019.  The entire night sky is first shown compressed with the central band of our Milky Way Galaxy making a giant U.  Exoplanets detected by slight jiggles in their parents-star's colors (radial velocity) appear in pink, while those detected by slight dips in their parent star's brightness (transit) are shown in purple. Further, those exoplanets imaged directly appear in orange, while those detected by gravitationally magnifying the light of a background star (microlensing) are shown in green.  The faster a planet orbits its parent star, the higher the accompanying tone played. The retired Kepler satellite has discovered about half of these first 4000 exoplanets in just one region of the sky, while the TESS mission is on track to find even more, all over the sky, orbiting the brightest nearby stars.  Finding exoplanets not only helps humanity to better understand the potential prevalence of life elsewhere in the universe, but also how our Earth and Solar System were formed.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
