@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Saturn: 1993 - 2022 :
+## Stardust and Comet Tails :
 
-> Saturn is the most distant planet of the Solar System easily visible to the unaided eye. With this extraordinary, long-term astro-imaging project begun in 1993, you can follow the ringed gas giant for one Saturn year as it wanders once around the ecliptic plane, finishing a single orbit around the Sun by 2022. Constructed from individual images made over 29 Earth years, the split panorama is centered along the ecliptic and crossed by the plane of our Milky Way galaxy. Saturn's position in 1993 is at the right side, upper panel in the constellation Capricornus and progresses toward the left. It returns to the spot in Capricornus at left in the lower panel in 2022. The consistent imaging shows Saturn appears slightly brighter during the years 2000-2005 and 2015-2019, periods when its beautiful rings were tilted more face-on to planet Earth.
+> Heading for its closest approach to the Sun, or perihelion, on December 19 comet C/2017 K2 (PanSTARRS) remains a sight for telescopic observers as it sweeps through planet Earth's skies in the constellation Scorpius. The comet currently sports a greenish coma, long whitish dust tail, and short ion tail in this deep image from August 18. The 2x3 degree wide field of view includes part of the dusty nebula IC 4592 reflecting blue starlight. Also known as the Blue Horsehead Nebula, IC 4592 is about 400 light-years distant while the comet is just under 17 light-minutes away. First spotted at a distance well beyond the orbit of Saturn C/2017 K2 is on its maiden voyage to the inner solar system, a pristine visitor from the remote Oort cloud.
 
-<img src='https://apod.nasa.gov/apod/image/2208/Saturn1993-2022Lb1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/C2017K2_220818_1050.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
