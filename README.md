@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Stardust and Comet Tails :
+## The Spinning Pulsar of the Crab Nebula :
 
-> Heading for its closest approach to the Sun, or perihelion, on December 19 comet C/2017 K2 (PanSTARRS) remains a sight for telescopic observers as it sweeps through planet Earth's skies in the constellation Scorpius. The comet currently sports a greenish coma, long whitish dust tail, and short ion tail in this deep image from August 18. The 2x3 degree wide field of view includes part of the dusty nebula IC 4592 reflecting blue starlight. Also known as the Blue Horsehead Nebula, IC 4592 is about 400 light-years distant while the comet is just under 17 light-minutes away. First spotted at a distance well beyond the orbit of Saturn C/2017 K2 is on its maiden voyage to the inner solar system, a pristine visitor from the remote Oort cloud.
+> At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gasses. The supernova explosion was witnessed on planet Earth in the year 1054.   Explore Your Universe: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2208/C2017K2_220818_1050.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/Crab_HubbleChandraSpitzer_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
