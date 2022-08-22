@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Spinning Pulsar of the Crab Nebula :
+## Earth's Recent Climate Spiral :
 
-> At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gasses. The supernova explosion was witnessed on planet Earth in the year 1054.   Explore Your Universe: Random APOD Generator
-
-<img src='https://apod.nasa.gov/apod/image/2208/Crab_HubbleChandraSpitzer_1080.jpg' width="800" height="500"/>
+> Is our Earth warming? Compared to the past 250 million years, the Earth is currently enduring a relative cold spell, possibly about four degrees Celsius below average.  Over the past 120 years, though, data indicate that the average global temperature of the Earth has increased by nearly one degree Celsius.  The featured visualization video depicts Earth's recent global warming in graphic terms. The depicted temperatures are taken from the Goddard Institute for Space Studies' Surface Temperature Analysis. Already noticeable by many, Earth's recent warming trend is causing sea levels to rise, precipitation patterns to change, and pole ice to melt.  Few now disagree that recent global warming is occurring, and the Intergovernmental Panel on Climate Change (IPCC) has concluded that we humans have created a warming surge that is likely to continue.  A continuation could impact many local agricultures and even the global economy.  Although there seems to be no simple solutions, geoengineering projects that might help include artificial cloud creation to reduce the amount of sunlight heating the Earth's surface.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
