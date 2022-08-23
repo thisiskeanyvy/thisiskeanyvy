@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Earth's Recent Climate Spiral :
+## Meteor & Milky Way over the Mediterranean :
 
-> Is our Earth warming? Compared to the past 250 million years, the Earth is currently enduring a relative cold spell, possibly about four degrees Celsius below average.  Over the past 120 years, though, data indicate that the average global temperature of the Earth has increased by nearly one degree Celsius.  The featured visualization video depicts Earth's recent global warming in graphic terms. The depicted temperatures are taken from the Goddard Institute for Space Studies' Surface Temperature Analysis. Already noticeable by many, Earth's recent warming trend is causing sea levels to rise, precipitation patterns to change, and pole ice to melt.  Few now disagree that recent global warming is occurring, and the Intergovernmental Panel on Climate Change (IPCC) has concluded that we humans have created a warming surge that is likely to continue.  A continuation could impact many local agricultures and even the global economy.  Although there seems to be no simple solutions, geoengineering projects that might help include artificial cloud creation to reduce the amount of sunlight heating the Earth's surface.
+> Careful planning made this a nightscape to remember. First, the night itself was chosen to occur during the beginning of this year's Perseid Meteor Shower.  Next, the time of night was chosen to be before the bright Moon would rise and dominate the night sky's brightness. The picturesque foreground was selected to be a rocky beach of the Mediterranean Sea in Le Dramont, France, with, at the time, île d’Or island situated near the ominously descending central band of our Milky Way Galaxy.  Once everything was set and with the weather cooperating, all of the frames for this seemingly surreal nightscape were acquired within 15 minutes. What you can't see is that, on this night, the astrophotographer brought along his father who, although unskilled in modern sky-capture techniques, once made it a point to teach his child about the sky.    Perseid Meteor Shower 2022 Gallery: Notable Submissions to APOD
+
+<img src='https://apod.nasa.gov/apod/image/2208/MeteorGalaxy_Looten_1000.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
