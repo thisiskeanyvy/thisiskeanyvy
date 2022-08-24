@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Meteor & Milky Way over the Mediterranean :
+## The Cartwheel Galaxy from Webb :
 
-> Careful planning made this a nightscape to remember. First, the night itself was chosen to occur during the beginning of this year's Perseid Meteor Shower.  Next, the time of night was chosen to be before the bright Moon would rise and dominate the night sky's brightness. The picturesque foreground was selected to be a rocky beach of the Mediterranean Sea in Le Dramont, France, with, at the time, île d’Or island situated near the ominously descending central band of our Milky Way Galaxy.  Once everything was set and with the weather cooperating, all of the frames for this seemingly surreal nightscape were acquired within 15 minutes. What you can't see is that, on this night, the astrophotographer brought along his father who, although unskilled in modern sky-capture techniques, once made it a point to teach his child about the sky.    Perseid Meteor Shower 2022 Gallery: Notable Submissions to APOD
+> To some, it looks like a wheel of a cart. In fact, because of its outward appearance, the presence of a central galaxy, and its connection with what looks like the spokes of a wheel, the galaxy on the right is known as the Cartwheel Galaxy. To others, however, it looks like a complicated interaction between galaxies awaiting explanation. Along with the two galaxies on the left, the Cartwheel is part of a group of galaxies about 500 million light years away in the constellation Sculptor.  The large galaxy's rim spans over 100,000 light years and is composed of star forming regions filled with extremely bright and massive stars.  The Cartwheel's ring-like shape is the result of gravitational disruption caused by a smaller galaxy passing through a large one, compressing the interstellar gas and dust and causing a star formation wave to move out like a ripple across the surface of a pond. The featured recent image of the Cartwheel Galaxy by the Webb Space Telescope reveals new details not only about where stars are forming, but also about activity near the galaxy's central black hole.   Teachers & Students: Ideas for utilizing APOD in the classroom
 
-<img src='https://apod.nasa.gov/apod/image/2208/MeteorGalaxy_Looten_1000.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/Cartwheel_Webb_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
