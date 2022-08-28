@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## IC 5146: The Cocoon Nebula :
+## Perijove 11: Passing Jupiter :
 
-> Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Climbing high in northern summer night skies, it's located some 4,000 light years away toward the constellation Cygnus the Swan. Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 29 hour long integration with a small telescope from Ayr, Ontario, Canada resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.
-
-<img src='https://apod.nasa.gov/apod/image/2208/IC5146JenkinsAB3_1100.jpg' width="800" height="500"/>
+> Here comes Jupiter! NASA's robotic spacecraft Juno is continuing on its highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno has passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belt of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.   Teachers & Students: Ideas for utilizing APOD in the classroom
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
