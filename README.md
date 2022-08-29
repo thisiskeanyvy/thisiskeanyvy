@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Perijove 11: Passing Jupiter :
+## The Horsehead Nebula Region without Stars :
 
-> Here comes Jupiter! NASA's robotic spacecraft Juno is continuing on its highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno has passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belt of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.   Teachers & Students: Ideas for utilizing APOD in the classroom
+> The famous Horsehead Nebula in Orion is not alone.  A deep exposure shows that the dark familiar shaped indentation, visible just right of center, is part of a vast complex of absorbing dust and glowing gas. The featured spectacular picture details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The Flame Nebula is visible in orange just to the Horsehead's left. To highlight the dust and gas, most of the stars have been digitally removed, although a notable exception is Alnitak, just above the Flame Nebula, which is the rightmost star in Orion's famous belt of three aligned stars. The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.   NASA Coverage: Artemis I Mission to the Moon  Teachers & Students: Ideas for utilizing APOD in the classroom
+
+<img src='https://apod.nasa.gov/apod/image/2208/Horsehead_Chatzifrantzis_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
