@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Horsehead Nebula Region without Stars :
+## Jupiter from the Webb Space Telescope :
 
-> The famous Horsehead Nebula in Orion is not alone.  A deep exposure shows that the dark familiar shaped indentation, visible just right of center, is part of a vast complex of absorbing dust and glowing gas. The featured spectacular picture details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The Flame Nebula is visible in orange just to the Horsehead's left. To highlight the dust and gas, most of the stars have been digitally removed, although a notable exception is Alnitak, just above the Flame Nebula, which is the rightmost star in Orion's famous belt of three aligned stars. The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.   NASA Coverage: Artemis I Mission to the Moon  Teachers & Students: Ideas for utilizing APOD in the classroom
+> This new view of Jupiter is illuminating. High-resolution infrared images of Jupiter from the new James Webb Space Telescope (Webb) reveal, for example, previously unknown differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. Large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over 6 meters across making it the largest astronomical telescope ever launched -- with 15 times more light-collecting area than Hubble.
 
-<img src='https://apod.nasa.gov/apod/image/2208/Horsehead_Chatzifrantzis_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/Jupiter2_WebbSchmidt_1080_annotated.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
