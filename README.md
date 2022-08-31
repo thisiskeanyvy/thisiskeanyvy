@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Jupiter from the Webb Space Telescope :
+## Siccar Point on Mars :
 
-> This new view of Jupiter is illuminating. High-resolution infrared images of Jupiter from the new James Webb Space Telescope (Webb) reveal, for example, previously unknown differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. Large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over six meters across making it the largest astronomical telescope ever launched -- with over six times more light-collecting area than Hubble.
+> What created this unusual hill on Mars? No one is sure.  A good outlook to survey the surrounding area, Siccar Point stands out from its surroundings in Gale Crater. The unusual mound was visited by the robotic Curiosity rover exploring Mars late last year. Siccar Point not only has a distinctive shape, it has dark rocks above lighter rocks.  The apparent much younger age of the dark rocks indicates a time-break in the usual geological ordering of rock layers -- by a process yet unknown. The Martian hill is named for Siccar Point on Earth, a place in Scotland itself distinctive as a junction between two different rock layers.  Curiosity continues to explore Gale crater on Mars, looking for clues of ancient life. Simultaneously, 2300 kilometers away, its sister rover Perseverance explores Jezero crater, there assisted by the flight-capable scout Ingenuity.
 
-<img src='https://apod.nasa.gov/apod/image/2208/Jupiter2_WebbSchmidt_1080_annotated.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2208/SiccarPoint_CuriosityGill_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
