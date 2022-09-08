@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Tarantula Stars R136 from Webb :
+## North America and the Pelican :
 
-> Near the center of a nearby star-forming region lies a massive cluster containing some of the largest and hottest stars known.  Collectively known as star cluster NGC 2070, these stars are part of the vast Tarantula Nebula and were captured in two kinds of infrared light by the new Webb Space Telescope.  The main image shows the group of stars at NGC 2070's center -- known as R136 -- in near-infrared, light just a bit too red for humans to see. In contrast, the rollover image captures the cluster center in mid-infrared light, light closer to radio waves.  Since R136's brightest stars emit more of their light in the near infrared, they are much more prominent on that image. This LMC cluster's massive stars emit particle winds and energetic light that are evaporating the gas cloud from which they formed. The Webb images, released yesterday, shows details of R136 and its surroundings that have never been seen before, details that are helping humanity to a better understanding of how all stars are born, evolve and die.
+> Fans of our fair planet might recognize the outlines of these cosmic clouds. On the left, bright emission outlined by dark, obscuring dust lanes seems to trace a continental shape, lending the popular name North America Nebula to the emission region cataloged as NGC 7000. To the right, just off the North America Nebula's east coast, is IC 5070, whose avian profile suggests the Pelican Nebula.  The two bright nebulae are about 1,500 light-years away, part of the same large and complex star forming region, almost as nearby as the better-known Orion Nebula. At that distance, the 3 degree wide field of view would span 80 light-years. This careful cosmic portrait uses narrowband images combined to highlight the bright ionization fronts and the characteristic glow from atomic hydrogen, and oxygen gas. These nebulae can be seen with binoculars from a dark location.  Look northeast of bright star Deneb in Cygnus the Swan, soaring high in the northern summer night sky.
 
-<img src='https://apod.nasa.gov/apod/image/2209/TarantulaNearIr_Webb_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/NGC7000_NB_2022_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
