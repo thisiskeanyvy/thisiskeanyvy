@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Perseverance in Jezero Crater's Delta :
+## Analemma over the Callanish Stones :
 
-> The Perseverance rover's Mastcam-Z captured images to create this mosaic on August 4, 2022. The car-sized robot was continuing its exploration of the fan-shaped delta of a river that, billions of years ago, flowed into Jezero Crater on Mars. Sedimentary rocks preserved in Jezero's delta are considered one of the best places on Mars to search for potential signs of ancient microbial life and sites recently sampled by the rover, dubbed Wildcat Ridge and Skinner Ridge, are at lower left and upper right in the frame. The samples taken from these areas were sealed inside ultra-clean sample tubes, ultimately intended for return to Earth by future missions. Starting with the Pathfinder Mission and Mars Global Surveyor in 1997, the last 25 years of a continuous robotic exploration of the Red Planet has included orbiters, landers, rovers, and a helicopter from planet Earth
+> If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A more visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. This coming Friday at 1:04 am (UT) -- Thursday in the Americas -- is the equinox ("equal night"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   Explore Your Universe: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2209/PIA24924_1045.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/CallanishAnalemma_Petricca_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
