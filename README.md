@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Star Trails and Lightning over the Pyrenees :
+## Star Forming Region NGC 3582 without Stars :
 
-> The beauty in this image comes in layers. On the bottom layer is the picturesque village of Manlleu in Barcelona, Spain.  The six-minute exposure makes car lights into streaks. The next layer is a mountain -- Serra de Bellmunt -- of Europe's famous Pyrenees. Next up is a tremendous lightning storm emanating from a classically-shaped anvil cloud. The long exposure allowed for the capture of many intricate lightning bolts.  Finally, at the top and furthest in the distance are stars.  Here, the multi-minute exposure made stars into trails.  The trailing effect is caused by the rotation of the Earth, and the curvature of the trails indicates their distance from the north spin pole of the Earth above. Taken after sunset in early June, the lightning storm soon moved off.  The stars, though, will continue to circle the pole for as long as the Earth spins -- surely billions of years into the future.
+> What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  By digitally removing the stars, this re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-<img src='https://apod.nasa.gov/apod/image/2209/LightningStarTrails_Llimos_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/NGC3576_Willocks_960_Starless.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
