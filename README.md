@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Star Forming Region NGC 3582 without Stars :
+## The Horsehead Nebula in Infrared from Hubble :
 
-> What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  By digitally removing the stars, this re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> While drifting through the cosmos, a magnificent interstellar dust cloud became sculpted by stellar winds and radiation to assume a recognizable shape.  Fittingly named the Horsehead Nebula, it is embedded in the vast and complex Orion Nebula (M42).  A potentially rewarding but difficult object to view personally with a small telescope, the featured gorgeously detailed image was taken in infrared light by the orbiting Hubble Space Telescope.  The dark molecular cloud, roughly 1,500 light years distant, is cataloged as Barnard 33 and is seen above primarily because it is backlit by the nearby massive star Sigma Orionis. The Horsehead Nebula will slowly shift its apparent shape over the next few million years and will eventually be destroyed by high energy starlight.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-<img src='https://apod.nasa.gov/apod/image/2209/NGC3576_Willocks_960_Starless.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
