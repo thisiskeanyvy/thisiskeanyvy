@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Horsehead Nebula in Infrared from Hubble :
+## NGC 7331 Close Up :
 
-> While drifting through the cosmos, a magnificent interstellar dust cloud became sculpted by stellar winds and radiation to assume a recognizable shape.  Fittingly named the Horsehead Nebula, it is embedded in the vast and complex Orion Nebula (M42).  A potentially rewarding but difficult object to view personally with a small telescope, the featured gorgeously detailed image was taken in infrared light by the orbiting Hubble Space Telescope.  The dark molecular cloud, roughly 1,500 light years distant, is cataloged as Barnard 33 and is seen above primarily because it is backlit by the nearby massive star Sigma Orionis. The Horsehead Nebula will slowly shift its apparent shape over the next few million years and will eventually be destroyed by high energy starlight.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. This Hubble Space Telescope close-up spans some 40,000 light-years. The galaxy's magnificent spiral arms feature dark obscuring dust lanes, bright bluish clusters of massive young stars, and the telltale reddish glow of active star forming regions. The bright yellowish central regions harbor populations of older, cooler stars. Like the Milky Way, a supermassive black hole lies at the core of spiral galaxy NGC 7331.
 
-<img src='https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/potw1805bc_ngc7331.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
