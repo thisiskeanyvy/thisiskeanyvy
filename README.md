@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Ringed Ice Giant Neptune :
+## September Sunrise Shadows :
 
-> Ringed, ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view the planet's dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune's absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune's largest moon Triton is brighter than Neptune in reflected sunlight and is seen at upper left sporting the Webb's characteristic diffraction spikes. Including Triton, seven of Neptune's 14 known moons can be identified in the field of view. Neptune's faint rings are striking in this new space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.
+> The defining astronomical moment for this September's equinox was on Friday, September 23, 2022 at 01:03 UTC, when the Sun crossed the celestial equator moving south in its yearly journey through planet Earth's sky. That marked the beginning of fall for our fair planet in the northern hemisphere and spring in the southern hemisphere, when day and night are nearly equal around the globe.  Of course, if you celebrate the astronomical change of seasons by watching a sunrise you can also look for crepuscular rays. The shadows cast by clouds can have a dramatic appearance in the twilight sky during any sunrise or sunset. Due to perspective, the parallel shadows will seem to point back to the rising Sun and a place due east on your horizon near the equinox date. Taken on September 15, this sunrise sea and skyscape captured crepuscular rays in the sky and watery specular reflections from the Mediterranean coast near the village of Petacciato, Italy.
+
+<img src='https://apod.nasa.gov/apod/image/2209/DSCF4968_PS_Lioce-1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
