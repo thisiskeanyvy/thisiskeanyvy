@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Fairy of Eagle Nebula :
+## All the Water on Planet Earth :
 
-> The dust sculptures of the Eagle Nebula are evaporating.  As powerful starlight whittles away these cool cosmic mountains, the statuesque pillars that remain might be imagined as mythical beasts.  Featured here is one of several striking dust pillars of the Eagle Nebula that might be described as a gigantic alien fairy.   This fairy, however, is ten light years tall and spews radiation much hotter than common fire. The greater Eagle Nebula, M16, is actually a giant evaporating shell of gas and dust inside of which is a growing cavity filled with a spectacular stellar nursery currently forming an open cluster of stars.  This great pillar, which is about 7,000 light years away, will likely evaporate away in about 100,000 years.  The featured image is in scientifically re-assigned colors and was taken by the Earth-orbiting Hubble Space Telescope.
+> How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.
 
-<img src='https://apod.nasa.gov/apod/image/2209/FairyPillar_Hubble_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/WaterlessEarth2_woodshole_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
