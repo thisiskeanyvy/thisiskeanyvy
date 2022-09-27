@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## All the Water on Planet Earth :
+## DART: Impact on Asteroid Dimorphos :
 
-> How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.
-
-<img src='https://apod.nasa.gov/apod/image/2209/WaterlessEarth2_woodshole_960.jpg' width="800" height="500"/>
+> Could humanity deflect an asteroid headed for Earth? Yes.  Deadly impacts from large asteroids have happened before in Earth's past, sometimes causing mass extinctions of life. To help protect our Earth from some potential future impacts, NASA tested a new planetary defense mechanism yesterday by crashing the robotic Double Asteroid Redirection Test (DART) spacecraft into Dimorphos, a small asteroid spanning about 170-meters across. As shown in the featured video, the impact was a success. Ideally, if impacted early enough, even the kick from a small spacecraft can deflect a large asteroid enough to miss the Earth.  In the video, DART is seen in a time-lapse video first passing larger Didymos, on the left, and then approaching the smaller Dimorphos. Although the video ends abruptly with DART's crash, observations monitoring the changed orbit of Dimorphos -- from spacecraft and telescopes around the world -- have just begun.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
