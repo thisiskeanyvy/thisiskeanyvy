@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## DART: Impact on Asteroid Dimorphos :
+## A Furious Sky over Mount Shasta :
 
-> Could humanity deflect an asteroid headed for Earth? Yes.  Deadly impacts from large asteroids have happened before in Earth's past, sometimes causing mass extinctions of life. To help protect our Earth from some potential future impacts, NASA tested a new planetary defense mechanism yesterday by crashing the robotic Double Asteroid Redirection Test (DART) spacecraft into Dimorphos, a small asteroid spanning about 170-meters across. As shown in the featured video, the impact was a success. Ideally, if impacted early enough, even the kick from a small spacecraft can deflect a large asteroid enough to miss the Earth.  In the video, DART is seen in a time-lapse video first passing larger Didymos, on the left, and then approaching the smaller Dimorphos. Although the video ends abruptly with DART's crash, observations monitoring the changed orbit of Dimorphos -- from spacecraft and telescopes around the world -- have just begun.
+> Is the sky angry with Mount Shasta? According to some ancient legends, the spirits of above and below worlds fight there, sometimes quite actively during eruptions of this enormous volcano in California, USA.  Such drama can well be imagined in this deep sky image taken in late June. Evident above the snow-covered peak is the central band of our Milky Way Galaxy, on the left, and a picturesque sky toward the modern constellations of Scorpius and Ophiuchus, above and to the right.  The bright orange star Antares and the colorful rho Ophiuchi cloud complex are visible just to the right of Mount Shasta, while the red emission nebula surrounding the star zeta Ophiuchi appears on the top right.  The static earth image in the featured composite was taken during the blue hour, while a two-panel panorama tracking the background sky was taken later that night with the same camera and from the same location. Within a few million years, Antares, some stars in the rho Ophiuchi system, and zeta Ophiuchi will all likely explode as supernovas.
+
+<img src='https://apod.nasa.gov/apod/image/2209/ShastaSky_Rohner_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
