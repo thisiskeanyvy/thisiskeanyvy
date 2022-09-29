@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Furious Sky over Mount Shasta :
+## DART Asteroid Impact from Space :
 
-> Is the sky angry with Mount Shasta? According to some ancient legends, the spirits of above and below worlds fight there, sometimes quite actively during eruptions of this enormous volcano in California, USA.  Such drama can well be imagined in this deep sky image taken in late June. Evident above the snow-covered peak is the central band of our Milky Way Galaxy, on the left, and a picturesque sky toward the modern constellations of Scorpius and Ophiuchus, above and to the right.  The bright orange star Antares and the colorful rho Ophiuchi cloud complex are visible just to the right of Mount Shasta, while the red emission nebula surrounding the star zeta Ophiuchi appears on the top right.  The static earth image in the featured composite was taken during the blue hour, while a two-panel panorama tracking the background sky was taken later that night with the same camera and from the same location. Within a few million years, Antares, some stars in the rho Ophiuchi system, and zeta Ophiuchi will all likely explode as supernovas.
+> Fifteen days before impact, the DART spacecraft deployed a small companion satellite to document its historic planetary defense technology demonstration. Provided by the Italian Space Agency, the Light Italian CubeSat for Imaging Asteroids, aka LICIACube, recorded this image of the event's aftermath. A cloud of ejecta is seen near the right edge of the frame captured only minutes following DART's impact with target asteroid Dimorphos while LICIACube was about 80 kilometers away. Presently about 11 million kilometers from Earth, 160 meter diameter Dimorphos is a moonlet orbiting 780 meter diameter asteroid Didymos. Didymos is seen off center in the LICIACube image. Over the coming weeks, ground-based telescopic observations will look for a small change in Dimorphos' orbit around Didymos to evaluate how effectively the DART impact deflected its target.
 
-<img src='https://apod.nasa.gov/apod/image/2209/ShastaSky_Rohner_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/liciacube_leia_l0_1664234215_00000_01_c.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
