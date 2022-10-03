@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Supernova Cannon Expels Pulsar J0002 :
+## Jupiter's Europa from Spacecraft Juno :
 
-> What could shoot out a neutron star like a cannon ball? A supernova.  About 10,000 years ago, the supernova that created the nebular remnant CTB 1 not only destroyed a massive star but blasted its newly formed neutron star core -- a pulsar -- out into the Milky Way Galaxy.  The pulsar, spinning 8.7 times a second, was discovered using downloadable software Einstein@Home searching through data taken by NASA's orbiting Fermi Gamma-Ray Observatory.  Traveling over 1,000 kilometers per second, the pulsar PSR J0002+6216 (J0002 for short) has already left the supernova remnant CTB 1, and is even fast enough to leave our Galaxy. Pictured, the trail of the pulsar is visible extending to the lower left of the supernova remnant.  The featured image is a combination of radio images from the VLA and DRAO radio observatories, as well as data archived from NASA's orbiting IRAS infrared observatory. It is well known that supernovas can act as cannons, and even that pulsars can act as cannonballs -- what is not known is how supernovas do it.
+> What mysteries might be solved by peering into this crystal ball?  In this case, the ball is actually a moon of Jupiter, the crystals are ice, and the moon is not only dirty but cracked beyond repair.  Nevertheless, speculation is rampant that oceans exist under Europa's fractured ice-plains that could support life.  Europa, roughly the size of Earth's Moon, is pictured here in an image taken a few days ago when the Jupiter-orbiting robotic spacecraft Juno passed within 325 kilometers of its streaked and shifting surface. Underground oceans are thought likely because Europa undergoes global flexing due to its changing gravitational attraction with Jupiter during its slightly elliptical orbit, and this flexing heats the interior. Studying Juno's close-up images may further humanity's understanding not only of Europa and the early Solar System but also of the possibility that life exists elsewhere in the universe.
 
-<img src='https://apod.nasa.gov/apod/image/2210/CannonSupernova_English_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2210/Europa_JunoLuck_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
