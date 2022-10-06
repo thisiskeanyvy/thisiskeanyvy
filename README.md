@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Expanding Plume from DART's Impact :
+## NGC 4631: The Whale Galaxy :
 
-> What happens if you crash a spaceship into an asteroid? In the case of NASA's DART spaceship and the small asteroid Dimorphos, as happened last week, you get quite a plume. The goal of the planned impact was planetary protection -- to show that the path of an asteroid can be slightly altered, so that, if done right, a big space rock will miss the Earth. The high brightness of the plume, though, was unexpected by many, and what it means remains a topic of research. One possibility is that 170-meter wide Dimorphos is primarily a rubble pile asteroid and the collision dispersed some of the rubble in the pile.  The featured time-lapse video covers about 20 minutes and was taken from the Les Makes Observatory on France's Reunion Island, off the southeast coast of southern Africa.  One of many Earth-based observatories following the impact, the initial dot is primarily Dimorphos's larger companion: asteroid Didymos. 	 Most recently, images show that the Didymos - Dimorphos system has developed comet-like tails.    DART Impact on Dimorphos: Notable images submitted to APOD
+> NGC 4631 is a big beautiful spiral galaxy. Seen edge-on, it lies only 25 million light-years away in the well-trained northern constellation Canes Venatici. The galaxy's slightly distorted wedge shape suggests to some a cosmic herring and to others its popular moniker, The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this sharp color image, the galaxy's yellowish core, dark dust clouds, bright blue star clusters, and red star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627 is just above the Whale Galaxy. Faint star streams seen in deep images are the remnants of small companion galaxies disrupted by repeated encounters with the Whale in the distant past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in X-rays.
+
+<img src='https://apod.nasa.gov/apod/image/2210/ngc4631_sherick1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
