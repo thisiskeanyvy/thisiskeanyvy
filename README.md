@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 4631: The Whale Galaxy :
+## In Ganymede's Shadow :
 
-> NGC 4631 is a big beautiful spiral galaxy. Seen edge-on, it lies only 25 million light-years away in the well-trained northern constellation Canes Venatici. The galaxy's slightly distorted wedge shape suggests to some a cosmic herring and to others its popular moniker, The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this sharp color image, the galaxy's yellowish core, dark dust clouds, bright blue star clusters, and red star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627 is just above the Whale Galaxy. Faint star streams seen in deep images are the remnants of small companion galaxies disrupted by repeated encounters with the Whale in the distant past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in X-rays.
+> At opposition, opposite the Sun in Earth's sky, late last month Jupiter is also approaching perihelion, the closest point to the Sun in its elliptical orbit, early next year. That makes Jupiter exceptionally close to our fair planet, currently resulting in excellent views of the Solar System's ruling gas giant. On September 27, this sharp image of Jupiter was recorded with a small telescope from a backyard in Florence, Arizona. The stacked video frames reveal the massive world bounded by planet girdling winds. Dark belts and light zones span the gas giant, along with rotating oval storms and its signature Great Red Spot. Galilean moon Ganymede is below and right in the frame. The Solar System's largest moon and its shadow are in transit across the southern Jovian cloud tops.
 
-<img src='https://apod.nasa.gov/apod/image/2210/ngc4631_sherick1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2210/JovianEclipse1024c.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
