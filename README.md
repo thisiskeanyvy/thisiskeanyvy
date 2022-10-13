@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Ou4: The Giant Squid Nebula :
+## Dust Shells around WR 140 from Webb :
 
-> A mysterious squid-like cosmic cloud, this nebula is very faint, but also very large in planet Earth's sky. In the image, composed with 30 hours of narrowband image data, it spans nearly three full moons toward the royal constellation Cepheus. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue-green emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, a more recent investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.
+> What are those strange rings? Rich in dust, the rings are likely 3D shells -- but how they were created remains a topic of research.  Where they were created is well known: in a binary star system that lies about 6,000 light years away toward the constellation of the Swan (Cygnus) -- a system dominated by the Wolf-Rayet star WR 140.  Wolf-Rayet stars are massive, bright, and known for their tumultuous winds. They are also known for creating and dispersing heavy elements such as carbon  which is a building block of interstellar dust. The other star in the binary is also bright and massive -- but not as active.  The two great stars joust in an oblong orbit as they approach each other about every eight years. When at closest approach, the X-ray emission from the system increases, as, apparently, does the dust expelled into space -- creating another shell.  The featured infrared image by the new Webb Space Telescope resolves greater details and more dust shells than ever before.
 
-<img src='https://apod.nasa.gov/apod/image/2210/SquidFinal3smaller1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2209/WR140_WebbSchmidt_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
