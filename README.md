@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Pillars of Creation :
+## Andromeda in Southern Skies :
 
-> A now famous picture from the Hubble Space Telescope featured these star forming columns of cold gas and dust light-years long inside M16, the Eagle Nebula, dubbed the Pillars of Creation. This James Webb Space Telescope NIRCam image expands Hubble's exploration of that region in greater detail and depth inside the iconic stellar nursery. Particularly stunning in Webb's near infrared view is the telltale reddish emission from knots of material undergoing gravitational collapse to form stars within the natal clouds. The Eagle Nebula is some 6,500 light-years distant. The larger bright emission nebula is itself an easy target for binoculars or small telescopes. M16 lies along the plane of our Milky Way galaxy in a nebula rich part of the sky, toward the split constellation Serpens Cauda (the tail of the snake).
+> Looking north from southern New Zealand, the Andromeda Galaxy never gets more than about five degrees above the horizon. As spring comes to the southern hemisphere, in late September Andromeda is highest in the sky around midnight though. In a single 30 second exposure this telephoto image tracked the stars to capture the closest large spiral galaxy from Mount John Observatory as it climbed just over the rugged peaks of the south island's Southern Alps. In the foreground, stars are reflected in the still waters of Lake Alexandrina. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, usually visible to the unaided eye as a small, faint, fuzzy patch. But this clear, dark sky and long exposure reveal the galaxy's greater extent in planet Earth's night, spanning nearly 6 full moons.
 
-<img src='https://apod.nasa.gov/apod/image/2210/stsci-pillarsofcreation1280c.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2210/andromeda-over-alps1100.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
