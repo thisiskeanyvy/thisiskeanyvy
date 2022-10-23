@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 1499: The California Nebula :
+## Milky Way and Zodiacal Light over Australian Pinnacles :
 
-> Drifting through the Orion Arm of the spiral Milky Way Galaxy, this cosmic cloud by chance echoes the outline of California on the west coast of the United States. Our own Sun also lies within the Milky Way's Orion Arm, only about 1,500 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. The California Nebula shines with the telltale reddish glow characteristic of hydrogen atoms recombining with long lost electrons. The electrons have been stripped away, ionized by energetic starlight. Most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot star Xi Persei just to the right of the nebula.  A popular target for astrophotographers, this deep image reveals the glowing nebula, obscuring dust, and stars across a 3 degree wide field of view. The California nebula lies toward the constellation Perseus, not far from the Pleiades.
+> What strange world is this? Earth. In the foreground of the featured image are the Pinnacles, unusual rock spires in Nambung National Park in Western Australia. Made of ancient sea shells (limestone), how these human-sized picturesque spires formed remains a topic of research.  The picturesque panorama was taken in 2017 September.   A ray of zodiacal light, sunlight reflected by dust grains orbiting between the planets in the Solar System, rises from the horizon near the image center. Arching across the top is the central band of our Milky Way Galaxy. The planets Jupiter and Saturn, as well as several famous stars are also visible in the background night sky.
 
-<img src='https://apod.nasa.gov/apod/image/2210/20221011NGC1499CaliforniaNebula1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2210/ZodiacalPinnacles_Zhang_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
