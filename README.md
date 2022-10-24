@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Milky Way and Zodiacal Light over Australian Pinnacles :
+## Clouds Around Galaxy Andromeda :
 
-> What strange world is this? Earth. In the foreground of the featured image are the Pinnacles, unusual rock spires in Nambung National Park in Western Australia. Made of ancient sea shells (limestone), how these human-sized picturesque spires formed remains a topic of research.  The picturesque panorama was taken in 2017 September.   A ray of zodiacal light, sunlight reflected by dust grains orbiting between the planets in the Solar System, rises from the horizon near the image center. Arching across the top is the central band of our Milky Way Galaxy. The planets Jupiter and Saturn, as well as several famous stars are also visible in the background night sky.
+> What are those red clouds surrounding the Andromeda galaxy? This galaxy, M31, is often imaged by planet Earth-based astronomers. As the nearest large spiral galaxy, it is a familiar sight with dark dust lanes, bright yellowish core, and spiral arms traced by clouds of bright blue stars.  A mosaic of well-exposed broad and narrow-band image data, this deep portrait of our neighboring island universe offers strikingly unfamiliar features though, faint reddish clouds of glowing ionized hydrogen gas in the same wide field of view. Most of the ionized hydrogen clouds surely lie in the foreground of the scene, well within our Milky Way Galaxy. They are likely associated with the pervasive, dusty interstellar cirrus clouds scattered hundreds of light-years above our own galactic plane. Some of the clouds, however, occur right in the Andromeda galaxy itself, and some in M110, the small galaxy just below.
 
-<img src='https://apod.nasa.gov/apod/image/2210/ZodiacalPinnacles_Zhang_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2210/M31Clouds_Fryhover_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
