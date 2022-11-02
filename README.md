@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 6357: The Lobster Nebula :
+## A Partial Eclipse of an Active Sun :
 
-> Why is the Lobster Nebula forming some of the most massive stars known? No one is yet sure.  Cataloged as NGC 6357, the Lobster Nebula houses the open star cluster Pismis 24 near its center -- a home to unusually bright and massive stars.  The overall red glow near the inner star forming region results from the emission of ionized hydrogen gas.   The surrounding nebula, featured here, holds a complex tapestry of gas, dark dust, stars still forming, and newly born stars.  The intricate patterns are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity.  The image was taken with DOE's Dark Energy Camera on the 4-meter Blanco Telescope at the Cerro Tololo Inter-American Observatory in Chile. NGC 6357 spans about 400 light years and lies about 8,000 light years away toward the constellation of the Scorpion.
-
-<img src='https://apod.nasa.gov/apod/image/2211/Lobster_Blanco_960.jpg' width="800" height="500"/>
+> Watch for three things in this unusual eclipse video.  First, watch for a big dark circle to approach from the right to block out more and more of the Sun. This dark circle is the Moon, and the video was made primarily to capture this partial solar eclipse last week. Next, watch a large solar prominence hover and shimmer over the Sun's edge. A close look will show that part of it is actually falling back to the Sun. The prominence is made of hot plasma that is temporarily held aloft by the Sun's changing magnetic field. Finally, watch the Sun's edge waver. What is wavering is a dynamic carpet of hot gas tubes rising and falling through the Sun's chromosphere -- tubes known as spicules. The entire 4-second time-lapse video covers a time of about ten minutes, although the Sun itself is expected to last another 5 billion years.   Partial Solar Eclipse in October 2022: Notable Submissions to APOD
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
