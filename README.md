@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Blood Moon, Ice Giant :
+## Eclipse in the City :
 
-> On November 8 the Full Moon turned blood red as it slid through Earth's shadow in a beautiful total lunar eclipse. During totality it also passed in front of, or occulted, outer planet Uranus for eclipse viewers located in parts of northern America and Asia. For a close-up and wider view these two images were taken just before the occultation began, captured with different telescopes and cameras from the same roof top in Shanghai, China. Normally very faint compared to a Full Moon, the tiny, pale, greenish disk of the distant ice giant is just to the left of the Moon's edge and about to disappear behind the darkened, red lunar limb. Though only visible from certain locations across planet Earth, lunar occultations of planets are fairly common. But for this rare "lunar eclipse occultation" to take place, at the time of the total eclipse the outer planet had to be both at opposition and very near the ecliptic plane to fall in line with Sun, Earth, and Moon.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador
+> A darker Moon sets over Manhattan in this night skyscape. The 16 frame composite was assembled from consecutive exposures recorded during the November 8 total lunar eclipse. In the timelapse sequence stars leave short trails above the urban skyline, while the Moon remains immersed in Earth's shadow. But the International Space Station was just emerging from the shadow into the sunlit portion of its low Earth orbit. As seen from New York City, the visible streak of this ISS flyover starts near a star in Taurus and tracks right to left, through the belt of Orion and over Sirius, alpha star of Canis Major. Gaps along the bright trail of the fast moving orbital outpost (and an aircraft flying closer to the horizon) mark the time between individual exposures in the sequence. The trail of bright planet Mars is at the top of the frame. Pleiades star cluster trails are high over the eclipsed Moon and Empire State Building.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador
 
-<img src='https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2211/StanHondaTLE-ISS1108annotated1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
