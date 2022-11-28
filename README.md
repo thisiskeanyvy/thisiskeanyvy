@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Supernumerary Rainbows over New Jersey :
+## Leonid Meteors Through Orion :
 
-> Yes, but can your rainbow do this?  After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows.  Over the course of a next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot.  Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across.  Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this experience with a friend.  The meteor shower depicted was the 2022 Leonids which peaked earlier this month, and the view is from Hainan, China looking out over the South China Sea. Meteor streaks captured over a few hours were isolated and added to a foreground image recorded earlier.  From this place and time, Leonid meteors that trace back to the constellation of Leo were seen streaking across other constellations including Orion. The bright red planet Mars appears near the top of the image. Bonding over their love of astronomy, the two pictured meteor enthusiasts, shown celebrating their common birthday this month, are now married.
 
-<img src='https://apod.nasa.gov/apod/image/2211/SupernumeraryRainbows_Entwistle_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2211/Leonids2022_Hongyang_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
