@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Leonid Meteors Through Orion :
+## The Gum Nebula Supernova Remnant :
 
-> Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this experience with a friend.  The meteor shower depicted was the 2022 Leonids which peaked earlier this month, and the view is from Hainan, China looking out over the South China Sea. Meteor streaks captured over a few hours were isolated and added to a foreground image recorded earlier.  From this place and time, Leonid meteors that trace back to the constellation of Leo were seen streaking across other constellations including Orion. The bright red planet Mars appears near the top of the image. Bonding over their love of astronomy, the two pictured meteor enthusiasts, shown celebrating their common birthday this month, are now married.
+> Because the Gum Nebula is the closest supernova remnant, it is actually hard to see.  Spanning 40 degrees across the sky, the nebula appears so large and faint that it is easily lost in the din of a bright and complex background.  The Gum Nebula is highlighted nicely in red emission toward the right of the featured wide-angle, single-image photograph taken in late May. Also visible in the frame are the Atacama Desert in Chile in the foreground, the Carina Nebula in the plane of our Milky Way galaxy running diagonally down from the upper left, and the neighboring Large Magellanic Cloud (LMC) galaxy. The Gum Nebula is so close that we are much nearer the front edge than the back edge, each measuring 450 and 1500 light years respectively.  The complicated nebula lies in the direction of the constellations of Puppis and Vela.  Oddly, much remains unknown about the Gum Nebula, including the timing and even number of supernova explosions that formed it.
 
-<img src='https://apod.nasa.gov/apod/image/2211/Leonids2022_Hongyang_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2211/Gum_Lima_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
