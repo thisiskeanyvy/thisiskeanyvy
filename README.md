@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Video: Powers of Ten :
+## Pleiades: The Seven Sisters Star Cluster :
 
-> How different does the universe look on very small scales?  On very large scales? The most famous short science film of its generation gives breathtaking comparisons. That film, Powers of Ten, originally created in the 1960s, has been officially posted to YouTube and embedded here.  From a picnic blanket near Chicago out past the Virgo Cluster of Galaxies, every ten seconds the film zooms out to show a square a factor of ten times larger on each side. The 9-minute video then reverses, zooming back in a factor of ten every two seconds and ends up inside a single proton. The Powers of Ten sequence is actually based on the book Cosmic View by Kees Boeke in 1957, as is a similar but mostly animated film Cosmic Zoom that was also created in the late 1960s. The changing perspectives are so enthralling and educational that sections have been recreated using more modern computerized techniques, including the first few minutes of the movie Contact. Ray and husband Charles Eames, the film's creators, were known as quite visionary spirits and even invented their own popular chair.
+> Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 11-hour exposure, taken from the Siding Spring Observatory in Australia, covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+
+<img src='https://apod.nasa.gov/apod/image/2212/Pleiades_Estes_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
