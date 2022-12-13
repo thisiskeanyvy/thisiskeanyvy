@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## An Unusual Globule in IC 1396 :
+## An Artful Sky over Lofoten Islands :
 
-> Is there a monster in IC 1396?  Known to some as the Elephant's Trunk Nebula, parts of gas and dust clouds of this star formation region may appear to take on foreboding forms, some nearly human.  The only real monster here, however, is a bright young star too far from Earth to hurt us.  Energetic light from this star is eating away the dust of the dark cometary globule near the top of the featured image.  Jets and winds of particles emitted from this star are also pushing away ambient gas and dust.  Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a much larger region on the sky than shown here, with an apparent width of more than 10 full moons.
+> Can the night sky be both art and science? If so, perhaps the featured image is an example. The digital panorama was composed of 10 landscape and 10 sky images all taken on the same night, from the same location, and with the same camera.  Iconic features in the image have been artfully brightened, and the ground nearby was artfully illuminated. Visible in the foreground is the creative photographer anchoring an amazing view from the rugged Lofoten Islands of Norway, two months ago, by holding a lamp. Far in the distance are three prominent arches: our Milky Way Galaxy on the left, while a scientifically-unusual double-arced aurora is documented on the right. A meteor is highlighted between them. Other notable skylights include, left to right, the Andromeda Galaxy, the planet Jupiter, the star Vega, and the stars that compose the Big Dipper asterism.
 
-<img src='https://apod.nasa.gov/apod/image/2212/IC1396_Miller_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/SkyArt_Cobianchi_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
