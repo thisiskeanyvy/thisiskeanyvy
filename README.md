@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Lunar Dust and Duct Tape :
+## Full Moon, Full Mars :
 
-> Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, the history of constant micrometeorite bombardment has blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem
+> On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America.  Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened just before sunrise. The tantalizing spectacle was recorded in this telescopic timelapse sequence of exposures. It took about an hour for the Red Planet to disappear behind the lunar disk and then reappear as a warm-hued full Moon, the last full Moon of 2022, sank toward the western horizon. The next lunar occultation of bright planet Mars will be in the new year on January 3, when the Moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The January 3 occultation of Mars will be visible from parts of the South Atlantic, southern Africa, and the Indian Ocean.
 
-<img src='https://apod.nasa.gov/apod/image/2212/AS17-137-20979_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
