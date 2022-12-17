@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Geminid :
+## Apollo 17 VIP Site Anaglyph :
 
-> Returning from beyond the Moon, on December 11 the Orion spacecraft entered Earth's atmosphere at almost 11 kilometers per second. That's half the speed of the grain of dust that created this long fireball meteor when it entered the atmosphere on December 13, near the peak of the annual Geminid meteor shower. As our fair planet makes its yearly pass through the dust trail of mysterious asteroid 3200 Phaethon, the parallel tracks of all Geminid meteors appear to radiate from a point in the constellation Gemini. But the twin stars of Gemini hide just behind the trees on the left in this night skyscape from the beautiful Blue Moon Valley, Yunnan, China. Reflected in the still waters of the mountain lake, stars of the constellation Orion are rising near center. Captured before moonrise, dazzling Mars is still the brightest celestial beacon in the scene.
+> Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.
 
-<img src='https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_1024v.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
