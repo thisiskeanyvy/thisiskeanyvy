@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Apollo 17 VIP Site Anaglyph :
+## 25 Brightest Stars in the Night Sky :
 
-> Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.
+> Do you know the names of some of the brightest stars? It's likely that you do, even though some bright stars have names so old they date back to near the beginning of written language. Many world cultures have their own names for the brightest stars, and it is culturally and historically important to remember them.  In the interest of clear global communication, however, the International Astronomical Union (IAU) has begun to designate standardized star names.  Featured here in true color are the 25 brightest stars in the night sky, currently as seen by humans, coupled with their IAU-recognized names. Some star names have interesting meanings, including Sirius ("the scorcher" in Latin), Vega ("falling" in Arabic), and Antares ("rival to Mars" in Greek). You are likely even familiar with the name of at least one star too dim to make this list: Polaris.    Almost Hyperspace: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_1024v.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
