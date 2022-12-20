@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Tadpole Nebula in Gas and Dust :
+## Thor's Helmet :
 
-> What's causing the commotion in the Tadpole Nebula? Star formation.  Dusty emission in the Tadpole Nebula, IC 410, lies about 12,000 light-years away in the northern constellation of the Charioteer (Auriga). The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright newly formed cluster stars are seen all around the star-forming nebula.  Notable on the lower-right of the featured image are two relatively dense streamers of material trailing away from the nebula's central regions. Potentially sites of ongoing star formation in IC 410, these cosmic tadpole shapes are about 10 light-years long. The image was processed highlighting the emission from sulfur (red), hydrogen (green), and oxygen (blue) gas -- but with the stars digitally removed.
+> Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.    Almost Hyperspace: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2212/Tadpoles_Stocks_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/Thor_Rochford_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
