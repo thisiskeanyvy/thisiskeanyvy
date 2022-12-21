@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Thor's Helmet :
+## Sun Halo at Sixty-three Degrees North :
 
-> Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.    Almost Hyperspace: Random APOD Generator
+> Happy Solstice! Today is the December solstice, marking an astronomical beginning of summer in the southern hemisphere and winter in the north. On its yearly trek through planet Earth's skies, at this solstice the Sun reaches its southern most declination, 23.5 degrees south, at 21:48 UTC. About 4 days ago the Sun was near this seasonal southern limit and so only just above the horizon at local noon over Ostersund in central Sweden. This view looking over the far northern lakeside city finds the midday Sun with a beautiful solar ice halo. Naturally occurring atmospheric ice crystals can produce the tantalizing halo displays, refracting and reflecting the sunlight through their hexagonal geometry.  Still, with the Sun low and near the horizon in the clear sky, likely sources of the ice crystals producing this intense halo are snow cannons. Operating at a local ski area, the snowmaking machines create a visible plume at the top of the nearby island Froson toward the right side of the panorama.
 
-<img src='https://apod.nasa.gov/apod/image/2212/Thor_Rochford_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
