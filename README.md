@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Sun Halo at Sixty-three Degrees North :
+## NGC 1365: Majestic Island Universe :
 
-> Happy Solstice! Today is the December solstice, marking an astronomical beginning of summer in the southern hemisphere and winter in the north. On its yearly trek through planet Earth's skies, at this solstice the Sun reaches its southern most declination, 23.5 degrees south, at 21:48 UTC. About 4 days ago the Sun was near this seasonal southern limit and so only just above the horizon at local noon over Ostersund in central Sweden. This view looking over the far northern lakeside city finds the midday Sun with a beautiful solar ice halo. Naturally occurring atmospheric ice crystals can produce the tantalizing halo displays, refracting and reflecting the sunlight through their hexagonal geometry.  Still, with the Sun low and near the horizon in the clear sky, likely sources of the ice crystals producing this intense halo are snow cannons. Operating at a local ski area, the snowmaking machines create a visible plume at the top of the nearby island Froson toward the right side of the panorama.
+> Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This impressively sharp color image shows the intense, reddish star forming regions near the ends of central bar and along the spiral arms, with details of the obscuring dust lanes cutting across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.
 
-<img src='https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
