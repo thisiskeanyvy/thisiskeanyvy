@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Geminids and the Mittens :
+## NGC 6164: Dragon's Egg Nebula and Halo :
 
-> Asteroid 3200 Phaethon's annual gift to planet Earth always arrives in December. Otherwise known as the Geminid meteor shower, the source of the meteroid stream is dust shed along the orbit of the mysterious asteroid. Near the December 13/14 peak of the shower's activity, geminid meteors are captured in this night skyscape, composited from 22 images of starry sky taken before the moon rose over Monument Valley in the American southwest. The bright stars near the position of the shower's radiant are the constellation Gemini's twin stars Castor (blue) and Pollux (yellow). As Earth sweeps through the dusty stream, the parallel meteor trails appear to radiate from a point on the sky in Gemini due to perspective, and so the yearly shower is named for the constellation. From the camera's perspective, this view of three prominent buttes across Monument Valley also suggests appropriate names for two of them. The third one is called Merrick Butte.
+> The star at the center created everything.  Known as the Dragon's Egg, this star -- a rare, hot, luminous O-type star some 40 times as massive as the Sun -- created not only the complex nebula (NGC 6164) that immediately surrounds it, but also the encompassing blue halo. Its name is derived, in part, from the region's proximity to the picturesque NGC 6188, known as the fighting Dragons of Ara. In another three to four million years the massive star will likely end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry making it similar in appearance to more common planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in blue in this deep telescopic image of the region. Expanding into the surrounding interstellar medium, the material in the blue halo was likely expelled from an earlier active phase of the O-star. NGC 6164 lies 4,200 light-years away in the southern constellation of the Carpenter's Square (Norma).
 
-<img src='https://apod.nasa.gov/apod/image/2212/J7A6402-Edit-copy-sharpened1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
