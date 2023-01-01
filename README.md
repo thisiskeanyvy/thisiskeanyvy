@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moon over Makemake :
+## The Largest Rock in our Solar System :
 
-> Makemake (sounds like MAH-kay MAH-kay), second brightest dwarf planet of the Kuiper belt, has a moon. Nicknamed MK2, Makemake's moon reflects sunlight with a charcoal-dark surface, about 1,300 times fainter than its parent body. Still, in 2016 it was spotted in Hubble Space Telescope observations intended to search for faint companions with the same technique used to find the small satellites of Pluto. Just as for Pluto and its satellites, further observations of Makemake and orbiting moon will measure the system's mass and density and allow a broader understanding of the distant worlds. About 160 kilometers (100 miles) across compared to Makemake's 1,400 kilometer diameter, MK2's relative size and contrast are shown in this artist's vision. An imagined scene of an unexplored frontier of the Solar System, it looks back from a spacecraft's vantage as the dim Sun shines along the Milky Way. Of course, the Sun is over 50 times farther from Makemake than it is from planet Earth.
+> There, that dot on the right, that's the largest rock known in our Solar System. It is larger than every known asteroid, moon, and comet nucleus.  It is larger than any other local rocky planet.  This rock is so large its gravity makes it into a large ball that holds heavy gases near its surface.  (It used to be the largest known rock of any type until the recent discoveries of large dense planets orbiting other stars.)  The Voyager 1 spacecraft took the featured picture -- famously called Pale Blue Dot -- of this giant space rock in 1990 from the outer Solar System.  Today, this rock starts another orbit around its parent star, for roughly the 5 billionth time, spinning over 350 times during each trip.  Happy Gregorian Calendar New Year to all inhabitants of this rock we call Earth.
 
-<img src='https://apod.nasa.gov/apod/image/2212/Makemakemoon100mile.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
