@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Largest Rock in our Solar System :
+## After Sunset Planet Parade :
 
-> There, that dot on the right, that's the largest rock known in our Solar System. It is larger than every known asteroid, moon, and comet nucleus.  It is larger than any other local rocky planet.  This rock is so large its gravity makes it into a large ball that holds heavy gases near its surface.  (It used to be the largest known rock of any type until the recent discoveries of large dense planets orbiting other stars.)  The Voyager 1 spacecraft took the featured picture -- famously called Pale Blue Dot -- of this giant space rock in 1990 from the outer Solar System.  Today, this rock starts another orbit around its parent star, for roughly the 5 billionth time, spinning over 350 times during each trip.  Happy Gregorian Calendar New Year to all inhabitants of this rock we call Earth.
+> Look up tonight and see a whole bunch of planets. Just after sunset, looking west, planets Venus, Saturn, Jupiter and Mars will all be simultaneously visible. Listed west to east, this planetary lineup will have Venus nearest the horizon, but setting shortly after the Sun.  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  Taken late last month, the featured image captured all of these planets and more: the Moon and planet Mercury were also simultaneously visible.  Below visibility were the planets Neptune and Uranus, making this a nearly all-planet panorama. In the foreground are hills around the small village of Gökçeören, Kaş, Turkey, near the Mediterranean coast.  Bright stars Altair, Fomalhaut, and Aldebaran are also prominent, as well as the Pleiades star cluster. Venus will rise higher in the sky at sunset as January continues, but Saturn will descend.
 
-<img src='https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
