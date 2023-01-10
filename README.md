@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Tails of Comet ZTF :
+## NGC 2264: The Cone Nebula :
 
-> Comet ZTF may become visible to the unaided eye. Discovered early last year, this massive snowball has been brightening as it approaches the Sun and the Earth. C/2022 E3 (ZTF) will be closest to the Sun later this week, at which time it may become visible even without binoculars to northern observers with a clear and dark sky. As they near the Sun, comet brightnesses are notoriously hard to predict, though. In the featured image taken last week in front of a picturesque star field, three blue ion tails extend to the upper right, likely the result of a variable solar wind on ions ejected by the icy comet nucleus.  The comet's white dust tail is visible to the upper left and much shorter. The green glow is the comet's coma, caused by glowing carbon gas. Comet ZTF is expected to pass nearest the Earth in early February, after which it should dim dramatically.   Discovery + Outreach: Graduate student research position open for APOD
+> Stars are forming in the gigantic dust pillar called the Cone Nebula. Cones, pillars, and majestic flowing shapes abound in stellar nurseries where clouds of gas and dust are sculpted by energetic winds from newborn stars. The Cone Nebula, a well-known example, lies within the bright galactic star-forming region NGC 2264. The featured image of the Cone was captured recently combining 24-hours of exposure with a half-meter telescope at the El Sauce Observatory in Chile. Located about 2,500 light-years away toward the constellation of the Unicorn (Monoceros), the Cone Nebula's conical pillar extends about 7 light-years. The massive star NGC 2264 IRS, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image.  The Cone Nebula's reddish veil is produced by glowing hydrogen gas.    Discovery + Outreach: Graduate student research position open for APOD
 
-<img src='https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
