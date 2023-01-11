@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 2264: The Cone Nebula :
+## Spiral Aurora over Iceland :
 
-> Stars are forming in the gigantic dust pillar called the Cone Nebula. Cones, pillars, and majestic flowing shapes abound in stellar nurseries where clouds of gas and dust are sculpted by energetic winds from newborn stars. The Cone Nebula, a well-known example, lies within the bright galactic star-forming region NGC 2264. The featured image of the Cone was captured recently combining 24-hours of exposure with a half-meter telescope at the El Sauce Observatory in Chile. Located about 2,500 light-years away toward the constellation of the Unicorn (Monoceros), the Cone Nebula's conical pillar extends about 7 light-years. The massive star NGC 2264 IRS, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image.  The Cone Nebula's reddish veil is produced by glowing hydrogen gas.    Discovery + Outreach: Graduate student research position open for APOD
+> The scene may look like a fantasy, but it's really Iceland. The rock arch is named Gatklettur and located on the island's northwest coast. Some of the larger rocks in the foreground span a meter across. The fog over the rocks is really moving waves averaged over long exposures.  The featured image is a composite of several foreground and background shots taken with the same camera and from the same location on the same night last November.  The location was picked for its picturesque foreground, but the timing was planned for its colorful background: aurora. The spiral aurora, far behind the arch, was one of the brightest seen in the astrophotographer's life.  The coiled pattern was fleeting, though, as auroral patterns waved and danced for hours during the cold night.  Far in the background were the unchanging stars, with Earth's rotation causing them to appear to slowly circle the sky's northernmost point near Polaris.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-<img src='https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/RockyArchAurora_Pellegrini_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
