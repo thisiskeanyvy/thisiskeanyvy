@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moon Enhanced :
+## Unexpected Clouds Toward the Andromeda Galaxy :
 
-> Our Moon doesn't really look like this.  Earth's Moon, Luna, doesn't naturally show this rich texture, and its colors are more subtle. But this digital creation is based on reality.  The featured image is a composite of multiple images and enhanced to bring up real surface features.  The enhancements, for example, show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history.  The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon's real composition, are changed and exaggerated.  Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum.  Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.
+> Why are there oxygen-emitting arcs near the direction of the Andromeda galaxy? No one is sure. The gas arcs, shown in blue, were discovered and first confirmed by amateur astronomers just last year. The two main origin hypotheses for the arcs are that they really are close to Andromeda (M31), or that they are just coincidentally placed gas filaments in our Milky Way galaxy.  Adding to the mystery is that arcs were not seen in previous deep images of M31 taken primarily in light emitted by hydrogen, and that other, more distant galaxies have not been generally noted as showing similar oxygen-emitting structures.  Dedicated amateurs using commercial telescopes made this discovery because, in part, professional telescopes usually investigate angularly small patches of the night sky, whereas these arcs span several times the angular size of the full moon.  Future observations -- both in light emitted by oxygen and by other elements -- are sure to follow.
 
-<img src='https://apod.nasa.gov/apod/image/2301/MoonEnhanced_Mirza_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
