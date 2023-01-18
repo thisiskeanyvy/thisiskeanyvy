@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Unexpected Clouds Toward the Andromeda Galaxy :
+## MACS0647: Gravitational Lensing of the Early Universe by Webb :
 
-> Why are there oxygen-emitting arcs near the direction of the Andromeda galaxy? No one is sure. The gas arcs, shown in blue, were discovered and first confirmed by amateur astronomers just last year. The two main origin hypotheses for the arcs are that they really are close to Andromeda (M31), or that they are just coincidentally placed gas filaments in our Milky Way galaxy.  Adding to the mystery is that arcs were not seen in previous deep images of M31 taken primarily in light emitted by hydrogen, and that other, more distant galaxies have not been generally noted as showing similar oxygen-emitting structures.  Dedicated amateurs using commercial telescopes made this discovery because, in part, professional telescopes usually investigate angularly small patches of the night sky, whereas these arcs span several times the angular size of the full moon.  Future observations -- both in light emitted by oxygen and by other elements -- are sure to follow.
+> Gravitational lensing by the galaxy cluster MACS0647 -- in which the massive foreground cluster distorts and lenses the light emitted by distant background galaxies along the line of sight — is on vivid display here in this recent multi-color infrared image from the James Webb Space Telescope (JWST).  In particular, the background source MACS0647-JD is seen to be lensed three times by the cluster.  When first discovered with the Hubble Space Telescope, MACS0647-JD was observed as an amorphous blob.  With Webb though, this single source is revealed to be a pair or small group of galaxies.  The colors of the MACS0647-JD objects are different as well -- indicating differences potentially in the age or dust content of these galaxies.  These new images provide rare examples of galaxies in an era only a few 100 million years after the Big Bang.   Explore Your Universe: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
