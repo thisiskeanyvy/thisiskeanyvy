@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Colliding Spiral Galaxies of Arp 274 :
+## LHS 475 b: Earth-Sized Exoplanet :
 
-> Two galaxies are squaring off in Virgo and here are the latest pictures.  When two galaxies collide, the stars that compose them usually do not. This is because galaxies are mostly empty space and, however bright, stars only take up only a small fraction of that space. But during the collision, one galaxy can rip the other apart gravitationally, and dust and gas common to both galaxies does collide. If the two galaxies merge, black holes that likely resided in each galaxy center may eventually merge. Because the distances are so large, the whole thing takes place in slow motion -- over hundreds of millions of years. Besides the two large spiral galaxies, a smaller third galaxy is visible on the far left of the featured image of Arp 274, also known as NGC 5679. Arp 274 spans about 200,000 light years across and lies about 400 million light years away toward the constellation of Virgo.   Night Sky Network webinar: APOD editor to review best space images of 2022
+> If you could stand on exoplanet LHS 475 b, what might you see? No one knows for sure but pictured here is an interesting guess made by an Earth-based artificial intelligence (AI) engine. The existence of the exoplanet was indicated in data taken by the Earth-orbiting TESS satellite but confirmed and further investigated only this year by the near-Earth Sun-orbiting James Webb Space Telescope. What is known for sure is that LHS 475 b has a mass very similar to our Earth and closely orbits a small red star about 40 light years away. The featured AI-illustrated guess depicts a plausibly rugged Earth-like landscape replete with molten lava and with the central red star rising in the distance. Webb data does not as yet reveal, however, whether LHS 475 b has an atmosphere. One of Webb’s science objectives is to follow up previous discoveries of distant exoplanets to better discern their potential for developing life.    Comet ZTF Gallery: Notable Submissions to APOD
 
-<img src='https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
