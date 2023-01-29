@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Comet ZTF over Mount Etna :
+## Barnard 68: Dark Molecular Cloud :
 
-> Comet-like plumes are blowing over the volcanic peaks of Mount Etna in this wintry mountain-and-skyscape from planet Earth. The stacked and blended combination of individual exposures recorded during the cold night of January 23, also capture naked-eye Comet ZTF just above Etna's snowy slopes. Of course increasing sunlight and the solar wind are responsible for the comet's greenish coma and broad dusty tail. This weekend Comet ZTF is dashing across northern skies between north star Polaris and the Big Dipper. From a dark site you can only just spot it as a fuzzy patch though. That's still an impressive achievement if you consider you are gazing at a visitor from the distant Oort cloud with your own eyes. But binoculars or a small telescope will make for an even more enjoyable view of this Comet ZTF in the coming days.   Comet ZTF Gallery: Notable Submissions to APOD
+> Where did all the stars go?  What used to be considered a hole in the sky is now known to astronomers as a dark molecular cloud.  Here, a high concentration of dust and molecular gas absorb practically all the visible light emitted from background stars.  The eerily dark surroundings help make the interiors of molecular clouds some of the coldest and most isolated places in the universe.  One of the most notable of these dark absorption nebulae is a cloud toward the constellation Ophiuchus known as Barnard 68, pictured here.  That no stars are visible in the center indicates that Barnard 68 is relatively nearby, with measurements placing it about 500 light-years away and half a light-year across.  It is not known exactly how molecular clouds like Barnard 68 form, but it is known that these clouds are themselves likely places for new stars to form. In fact, Barnard 68 itself has been found likely to collapse and form a new star system. It is possible to look right through the cloud in infrared light.   Postcards from the Universe 2022: APOD Year in Review
 
-<img src='https://apod.nasa.gov/apod/image/2301/C2022E3ZTFMountEtna1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2301/barnard68v2_vlt_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
