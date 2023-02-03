@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Reflections on the 1970s :
+## Polaris and the Trail of Comet ZTF :
 
-> The 1970s are are sometimes ignored by astronomers. For example, this beautiful grouping of reflection nebulae in Orion - NGC 1977, NGC 1975, and NGC 1973 - is usually overlooked in favor of the substantial glow from the nearby stellar nursery better known as the Orion Nebula. Found along Orion's sword just north of the bright Orion Nebula complex, these reflection nebulae are also associated with Orion's giant molecular cloud about 1,500 light-years away, but are dominated by the characteristic blue color of interstellar dust reflecting light from hot young stars. In this sharp color image a portion of the Orion Nebula appears along the bottom border with the cluster of reflection nebulae at picture center. NGC 1977 stretches across the field just below center, separated from NGC 1973 (above right) and NGC 1975 (above left) by dark regions laced with faint red emission from hydrogen atoms. Taken together, the dark regions suggest the popular moniker, the Running Man Nebula. At the estimated distance of Orion's dusty molecular cloud this running man would be about 15 light-years across.
+> Stars trace concentric arcs around the North Celestial Pole in this three hour long night sky composite, recorded with a digital camera fixed to a tripod on January 31, near Àger, Lleida, Spain. On that date Comet C/2022 E3 (ZTF) was near its northernmost declination in planet Earth's sky. That put the comet about 10 degrees from Earth's North Celestial Pole making the comet's position circumpolar, always above the horizon, from all locations on planet Earth at more than 10 degrees northern latitude. In the startrail image, the extension of Earth's axis of rotation into space is at the left. North star Polaris traces the short, bright, concentric arc less than a degree from the North Celestial Pole. The trail of Comet ZTF is indicated at the right, its apparent motion mostly reflecting Earth's rotation like the stars. But heading for its closest approach to planet Earth on February 1, the comet is also moving significantly with respect to the background stars. The diffuse greenish trail of Comet ZTF is an almost concentric arc mingled with startrails as it sweeps through the long-necked constellation Camelopardalis.
 
-<img src='https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/C2022E3(ZTF)Circumpolarv2comentada1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
