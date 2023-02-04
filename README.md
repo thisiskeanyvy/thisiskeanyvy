@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Polaris and the Trail of Comet ZTF :
+## NGC 2626 along the Vela Molecular Ridge :
 
-> Stars trace concentric arcs around the North Celestial Pole in this three hour long night sky composite, recorded with a digital camera fixed to a tripod on January 31, near Àger, Lleida, Spain. On that date Comet C/2022 E3 (ZTF) was near its northernmost declination in planet Earth's sky. That put the comet about 10 degrees from Earth's North Celestial Pole making the comet's position circumpolar, always above the horizon, from all locations on planet Earth at more than 10 degrees northern latitude. In the startrail image, the extension of Earth's axis of rotation into space is at the left. North star Polaris traces the short, bright, concentric arc less than a degree from the North Celestial Pole. The trail of Comet ZTF is indicated at the right, its apparent motion mostly reflecting Earth's rotation like the stars. But heading for its closest approach to planet Earth on February 1, the comet is also moving significantly with respect to the background stars. The diffuse greenish trail of Comet ZTF is an almost concentric arc mingled with startrails as it sweeps through the long-necked constellation Camelopardalis.
+> Centered in this colorful cosmic canvas, NGC 2626 is a beautiful, bright, blue reflection nebula in the southern Milky Way. Next to an obscuring dust cloud and surrounded by reddish hydrogen emission from large H II region RCW 27 it lies within a complex of dusty molecular clouds known as the Vela Molecular Ridge. NGC 2626 is itself a cloud of interstellar dust reflecting blue light from the young hot embedded star visible within the nebula. But astronomical explorations reveal many other young stars and associated nebulae in the star-forming region. NGC 2626 is about 3,200 light-years away. At that distance this telescopic field of view would span about 30 light-years along the Vela Molecular Ridge.
 
-<img src='https://apod.nasa.gov/apod/image/2302/C2022E3(ZTF)Circumpolarv2comentada1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/NGC_2626_CDK_700_II_20_Jan_2023_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
