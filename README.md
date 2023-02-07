@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## In the Heart of the Rosette Nebula :
+## A Comet and Two Dippers :
 
-> In the heart of the Rosette Nebula lies a bright cluster of stars that lights up the nebula.  The stars of NGC 2244 formed from the surrounding gas only a few million years ago.  The featured image taken in mid-January using multiple exposures and very specific colors of Sulfur (shaded red), Hydrogen (green), and Oxygen (blue), captures the central region in tremendous detail. A hot wind of particles streams away from the cluster stars and contributes to an already complex menagerie of gas and dust filaments while slowly evacuating the cluster center.  The Rosette Nebula's center measures about 50 light-years across, lies about 5,200 light-years away, and is visible with binoculars towards the constellation of the Unicorn (Monoceros).   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> Can you still see the comet?  Yes. Even as C/2022 E3 (ZTF) fades, there is still time to see it if you know where and when to look. Geometrically, Comet ZTF has passed its closest to both the Sun and the Earth and is now headed back to the outer Solar System. Its orbit around the Sun has it gliding across the northern sky all month, after passing near Polaris and both the Big and Little Dippers last month. Pictured, Comet ZTF was photographed between the two dippers in late January while sporting an ion tail that extended over 10 degrees. Now below naked-eye visibility, Comet ZTF can be found with binoculars or a small telescope and a good sky map.  A good time to see the comet over the next week is after the Sun sets -- but before the Moon rises. The comet will move nearly in front of Mars in a few days   Comet ZTF Gallery: Notable Submissions to APOD
 
-<img src='https://apod.nasa.gov/apod/image/2302/Rosette_Insley_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
