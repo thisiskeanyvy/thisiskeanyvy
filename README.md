@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Nacreous Clouds over Lapland :
+## ZTF meets ATLAS :
 
-> Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from Kilpisjärvi, Finland. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured looking south at 69 degrees north latitude at sunset on January 24.  A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds can diffract sunlight even after sunset and just before the dawn.
+> Fading as it races across planet Earth's northern skies comet C/2022 E3 (ZTF) shares this telescopic frame with comet C/2022 U2 (ATLAS). Captured on the night of February 6 from a garden observatory in Germany's Bavarian Forest, the starry field of view toward the constellation Auriga spans about 2.5 degrees. Discovered by sky survey projects in 2022 (the Zwicky Transient Facility and the Asteroid Terrestrial-impact Last Alert System) these long-period comets are outbound, reaching perihelion just last month. The much fainter comet ATLAS made its closest approach to our fair planet on January 29 at a distance of about 4.6 light-minutes, compared to a mere 2.4 light-minutes for comet ZTF on February 2. This comet ATLAS lacks the well-developed tails of the formerly naked-eye comet ZTF. But both comets sport greenish tinted comas, emission from diatomic carbon molecules fluorescing in sunlight. Continuing its dash across planet Earth's sky, the good-binocular comet ZTF will appear close to bright planet Mars tonight.
 
-<img src='https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
