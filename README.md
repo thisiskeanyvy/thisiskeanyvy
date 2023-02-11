@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## ZTF meets ATLAS :
+## Magellanic Clouds over Chile :
 
-> Fading as it races across planet Earth's northern skies comet C/2022 E3 (ZTF) shares this telescopic frame with comet C/2022 U2 (ATLAS). Captured on the night of February 6 from a garden observatory in Germany's Bavarian Forest, the starry field of view toward the constellation Auriga spans about 2.5 degrees. Discovered by sky survey projects in 2022 (the Zwicky Transient Facility and the Asteroid Terrestrial-impact Last Alert System) these long-period comets are outbound, reaching perihelion just last month. The much fainter comet ATLAS made its closest approach to our fair planet on January 29 at a distance of about 4.6 light-minutes, compared to a mere 2.4 light-minutes for comet ZTF on February 2. This comet ATLAS lacks the well-developed tails of the formerly naked-eye comet ZTF. But both comets sport greenish tinted comas, emission from diatomic carbon molecules fluorescing in sunlight. Continuing its dash across planet Earth's sky, the good-binocular comet ZTF will appear close to bright planet Mars tonight.
+> The two prominent clouds in this Chilean Atacama Desert skyscape captured on January 21 actually lie beyond our Milky Way galaxy.  Known as the Large and the Small Magellanic Clouds they are so named for the 16th century Portuguese explorer Ferdinand Magellan, leader of the first circumnavigation of planet Earth. Famous jewels of southern hemisphere skies, they are the brightest satellite galaxies of the Milky Way. The larger cloud is some 160,000 light-years, and the smaller 210,000 light-years distant. While both are irregular dwarf galaxies in their own right, they exhibit central barred structures in the deep wide-angle view. Wide and deep exposures also reveal faint dusty galactic cirrus nebulae and the imprints of gravitational tidal interactions between the Large and Small Magellanic Clouds.
 
-<img src='https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/magellanic1200.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
