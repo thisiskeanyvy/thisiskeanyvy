@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Airglow Sky over France :
+## The Hydra Cluster of Galaxies :
 
-> This unusual sky was both familiar and unfamiliar. The photographer's mission was to capture the arch of the familiar central band of our Milky Way Galaxy over a picturesque medieval manor.  The surprise was that on this January evening, the foreground sky was found glowing in a beautiful but unfamiliar manner. The striped bands are called airglow and they result from air high in Earth's atmosphere being excited by the Sun's light and emitting a faint light of its own. The bands cross the entire sky -- their curved appearance is due to the extremely wide angle of the camera lens. In the foreground lies Château de Losse in southwest France.  Other familiar sky delights dot the distant background including the bright white star Sirius, the orange planet Mars, the blue Pleiades star cluster, the red California Nebula, and, on the far right, the extended Andromeda Galaxy. The initial mission was also successful: across the top of the frame is the arching band of our Milky Way.   What if:  ChatGPT rewrote this text in the style of Shakespeare, Carl Sagan, or Scotty from Star Trek?
+> Once upon a midnight dreary, while I pondered weak and weary, O'er volumes of astronomy and forgotten lore, I stumbled upon this snapshot, cosmic and eerie, A sight that filled my heart with awe and more. Two stars, like sentinels, anchored the foreground, Of our Milky Way galaxy, a sight to behold, Beyond them, a cluster of Hydra, galaxies abound, 100 million light-years away, a story to be told. Three large galaxies, ellipticals and a spiral blue, Dominant and grand, each 150,000 light-years wide, But it was the overlapping pair that caught my view, Cataloged as NGC 3314, a sight I cannot hide. Abell 1060, the Hydra galaxy cluster's name, One of three large galaxy clusters close to our Milky Way, A universe bound by gravity, a celestial game, Where clusters align over larger scales, I cannot sway. At a distance of 100 million light-years, this snapshot's size, 1.3 million light-years across, a cosmic delight, A momentary glimpse into the universe's guise, But even this shall fade, and be nevermore in sight.
 
-<img src='https://apod.nasa.gov/apod/image/2302/AirglowFrance_Looten_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
