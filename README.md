@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Saturn's Iapetus: Moon with a Strange Surface :
+## Zodiacal Ray with Venus and Jupiter :
 
-> What would make a moon look like a walnut?  A strange ridge that circles Saturn's moon Iapetus's equator, visible near the bottom of the featured image, makes it appear similar to a popular edible nut.  The origin of the ridge remains unknown, though, with hypotheses including ice that welled up from below, a ring that crashed down from above, and structure left over from its formation perhaps 100 million years ago. Also strange is that about half of Iapetus is so dark that it can nearly disappear when viewed from Earth, while the rest is, reflectively, quite bright. Observations show that the degree of darkness of the terrain is strangely uniform, as if a dark coating was somehow recently applied to an ancient and highly cratered surface.  Last, several large impact basins occur around Iapetus, with a 400-kilometer wide crater visible near the image center, surrounded by deep cliffs that drop sharply to the crater floor.  The featured image was taken by the Saturn-orbiting Cassini spacecraft during a flyby of Iapetus at the end of 2004.
+> What's causing that unusual ray of light extending from the horizon? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently after sunset or before sunrise and is called zodiacal light.  The dust was emitted mostly from faint Jupiter-family comets and slowly spirals into the Sun. The featured HDR image, acquired in mid-February from the Sierra Nevada National Park in Spain, captures the glowing band of zodiacal light going right in front of the bright evening planets Jupiter (upper) and Venus (lower). Emitted from well behind the zodiacal light is a dark night sky that prominently includes the Pleiades star cluster. Jupiter and Venus are slowly switching places in the evening sky, and just in the next few days nearing their closest angular approach.
 
-<img src='https://apod.nasa.gov/apod/image/2302/iapetus_cassini_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
