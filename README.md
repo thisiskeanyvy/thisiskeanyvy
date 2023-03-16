@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Jupiter and Venus Converge over Germany :
+## Millions of Stars in Omega Centauri :
 
-> This was a sky to show the kids. Early this month the two brightest planets in the night sky, Jupiter and Venus, appeared to converge. At their closest, the two planets were separated by only about the angular width of the full moon. The spectacle occurred just after sunset and was seen and photographed all across planet Earth. The displayed image was taken near to the time of closest approach from Wiltingen, Germany, and features the astrophotographer, spouse, and their two children.  Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  Jupiter and Venus have passed and now appear increasingly far apart. Similar planetary convergence opportunities will eventually arise.  In a few months, for example, Mars and Venus will appear to congregate just as the Sun sets.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
+> Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. Omega Centauri's red giant stars (with a yellowish hue) are easy to pick out in this sharp, color telescopic view.
 
-<img src='https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
