@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Equinox at the Pyramid of the Feathered Serpent :
+## M1: The Expanding Crab Nebula :
 
-> To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. Tomorrow marks another equinox -- not only at Temple of Kukulcán, but all over planet Earth.
-
-<img src='https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg' width="800" height="500"/>
+> Are your eyes good enough to see the Crab Nebula expand?  The Crab Nebula is cataloged as M1, the first on Charles Messier's famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, an expanding cloud of debris from the explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across today, the nebula is still expanding at a rate of over 1,000 kilometers per second. Over the past decade, its expansion has been documented in this stunning time-lapse movie. In each year from 2008 to 2022, an image was produced with the same telescope and camera from a remote observatory in Austria. The sharp, processed frames even reveal the dynamic energetic emission surrounding the rapidly spinning pulsar at the center.  The Crab Nebula lies about 6,500 light-years away toward the constellation of the Bull (Taurus).
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
