@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## M57: The Ring Nebula from Hubble :
+## The Galactic Center Radio Arc :
 
-> It was noticed hundreds of years ago by stargazers who could not understand its unusual shape.  It looked like a ring on the sky. Except for the rings of Saturn, the Ring Nebula (M57) may be the most famous celestial circle. We now know what it is, and that its iconic shape is due to our lucky perspective. The recent mapping of the expanding nebula's 3-D structure, based in part on this clear Hubble image,indicates that the nebula is a relatively dense, donut-like ring wrapped around the middle of an (American) football-shaped cloud of glowing gas. Our view from planet Earth looks down the long axis of the football, face-on to the ring. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from the dying, once sun-like star, now a tiny pinprick of light seen at the nebula's center. Intense ultraviolet light from the hot central star ionizes atoms in the gas. The Ring Nebula is about one light-year across and 2,500 light-years away.
+> What causes this unusual curving structure near the center of our Galaxy? The long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.  The Radio Arc is connected to the Galactic Center by strange curving filaments known as the Arches.  The bright radio structure at the bottom right surrounds a black hole at the Galactic Center and is known as Sagittarius A*.  One origin hypothesis holds that the Radio Arc and the Arches have their geometry because they contain hot plasma flowing along lines of a constant magnetic field.  Images from NASA's Chandra X-ray Observatory appear to show this plasma colliding with a nearby cloud of cold gas.
 
-<img src='https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
