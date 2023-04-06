@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Rubin's Galaxy :
+## Terran 1 Burns Methalox :
 
-> In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe.
+> Relativity's Terran 1 Rocket is mostly 3D-printed. It burns a cryogenic rocket fuel composed of liquid methane and liquid oxygen (methalox). In this close-up of a Terran 1 launch on the night of March 22 from Cape Canaveral, icy chunks fall through the stunning frame as intense blue exhaust streams from its nine Aeon 1 engines. In a largely successful flight the inovative rocket achieved main engine cutoff and stage separation but fell short of orbit after an anomaly at the beginning of its second stage flight. Of course this Terran 1 rocket was never intended to travel to Mars. Still, the methane and liquid oxygen components of its methalox fuel can be made solely from materials found on the Red Planet. Methalox manufactured on Mars could be used as fuel for rockets returning to planet Earth.
 
-<img src='https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
