@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Rigel Wide :
+## M100: A Grand Design Spiral Galaxy :
 
-> Brilliant, blue, supergiant star Rigel marks the foot of Orion the Hunter in planet Earth's night. Designated Beta Orionis, it's at the center of this remarkably deep and wide field of view.  Rigel's blue color indicates that it is much hotter than its rival supergiant in Orion the yellowish Betelgeuse (Alpha Orionis), though both stars are massive enough to eventually end their days as core collapse supernovae. Some 860 light-years away, Rigel is hotter than the Sun too and extends to about 74 times the solar radius. That's about the size of the orbit of Mercury. In the 10 degree wide frame toward the nebula rich constellation, the Orion Nebula is at the upper left. To the right of Rigel and illuminated by its brilliant blue starlight lies the dusty Witch Head Nebula. Rigel is part of a multiple star system, though its companion stars are much fainter.
+> Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  It is a large galaxy of over 100 billion stars with well-defined spiral arms that is similar to our own Milky Way Galaxy.  One of the brightest members of the Virgo Cluster of galaxies, M100 (alias NGC 4321) is 56 million light-years distant toward the constellation of Berenice's Hair (Coma Berenices).  This Hubble Space Telescope image of M100 was taken with the Wide Field Camera 3 and accentuates bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Studies of variable stars in M100 have played an important role in determining the size and age of the Universe.
 
-<img src='https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2304/M100_HubbleWfc3_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
