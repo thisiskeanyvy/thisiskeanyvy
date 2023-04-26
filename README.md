@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Northern Lights over Southern Europe :
+## The Moon through the Arc de Triomphe :
 
-> Did you see an aurora over the past two nights? Many people who don't live in Earth's far north did.  Reports of aurora came in not only from northern locales in the USA as Alaska, but as far south as Texas and Arizona. A huge auroral oval extended over Europe and Asia, too. Pictured, an impressively red aurora was captured last night near the town of Cáceres in central Spain. Auroras were also reported in parts of southern Spain. The auroras resulted from a strong Coronal Mass Event (CME) that occurred on the Sun a few days ago. Particles from the CME crossed the inner Solar System before colliding with the Earth's magnetosphere.  From there, electrons and protons spiraled down the Earth's northern magnetic field lines and collided with oxygen and nitrogen in Earth's atmosphere, causing picturesque auroral glows. Our unusually active Sun may provide future opportunities to see the northern lights in southern skies.
+> Was this a lucky shot? Although many amazing photographs are taken by someone who just happened to be in the right place at the right time, this image took skill and careful planning. First was the angular scale: if you shoot too close to the famous Arc de Triomphe in  Paris, France, the full moon will appear too small.  Conversely, if you shoot from too far away, the moon will appear  too large and not fit inside the Arc. Second is timing: the Moon only appears centered inside the Arc for small periods of time -- from this distance less than a minute. Other planned features include lighting, relative brightness, height, capturing a good foreground, and digital processing.  And yes, there is some luck involved -- for example, the sky must be clear. This time, the planning was successful, bringing two of humanity's most famous icons photographically together for all to enjoy.   Today's adventure link: Click "Paris" (above)
 
-<img src='https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
