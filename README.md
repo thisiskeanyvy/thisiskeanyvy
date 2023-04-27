@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Moon through the Arc de Triomphe :
+## The Tarantula Nebula from SuperBIT :
 
-> Was this a lucky shot? Although many amazing photographs are taken by someone who just happened to be in the right place at the right time, this image took skill and careful planning. First was the angular scale: if you shoot too close to the famous Arc de Triomphe in  Paris, France, the full moon will appear too small.  Conversely, if you shoot from too far away, the moon will appear  too large and not fit inside the Arc. Second is timing: the Moon only appears centered inside the Arc for small periods of time -- from this distance less than a minute. Other planned features include lighting, relative brightness, height, capturing a good foreground, and digital processing.  And yes, there is some luck involved -- for example, the sky must be clear. This time, the planning was successful, bringing two of humanity's most famous icons photographically together for all to enjoy.   Today's adventure link: Click "Paris" (above)
-
-<img src='https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_960.jpg' width="800" height="500"/>
+> The Tarantula Nebula, also known as 30 Doradus, is more than a thousand light-years in diameter, a giant star forming region within nearby satellite galaxy the Large Magellanic Cloud. About 160 thousand light-years away, it's the largest, most violent star forming region known in the whole Local Group of galaxies. The cosmic arachnid is near the center of this spectacular image taken during the flight of SuperBIT (Super Pressure Balloon Imaging Telescope), NASA's balloon-borne 0.5 meter telescope now floating near the edge of space. Within the well-studied Tarantula (NGC 2070), intense radiation, stellar winds and supernova shocks from the central young cluster of massive stars, cataloged as R136, energize the nebular glow and shape the spidery filaments. Around the Tarantula are other star forming regions with young star clusters, filaments, and blown-out bubble-shaped clouds. SuperBIT's wide field of view spans over 2 degrees or 4 full moons in the southern constellation Dorado.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
