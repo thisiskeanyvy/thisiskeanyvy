@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Milky Way over Egyptian Desert :
+## Fomalhaut's Dusty Debris Disk :
 
-> For ten years the stargazer dreamed of taking a picture like this. The dreamer knew that the White Desert National Park in Egypt's Western Desert is a picturesque place hosting numerous chalk formations sculpted into surreal structures by a sandy wind. The dreamer knew that the sky above could be impressively dark on a clear moonless night, showing highlights such as the central band of our Milky Way Galaxy in impressive color and detail. So the dreamer invited an even more experienced astrophotographer to spend three weeks together in the desert and plan the composite images that needed to be taken and processed to create the dream image.  Over three days in mid-March, the base images were taken, all with the same camera and from the same location.  The impressive result is featured here, with the dreamer -- proudly wearing a traditional Bedouin galabyia -- pictured in the foreground.
-
-<img src='https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_960.jpg' width="800" height="500"/>
+> Fomalhaut is a bright star, a 25 light-year voyage from planet Earth in the direction of the constellation Piscis Austrinus. Astronomers first noticed Fomalhaut's excess infrared emission in the 1980s. Space and ground-based telescopes have since identified the infrared emission's source as a disk of dusty debris surrounding the hot, young star related to the ongoing formation of a planetary system.  But this sharp infrared image from the James Webb Space Telescope's MIRI camera reveals details of Fomalhaut's debris disk never before seen, including a large dust cloud in the outer ring that is possible evidence for colliding bodies, and an inner dust disk and gap likely shaped and maintained by embedded but unseen planets. An image scale bar in au or astronomical units, the average Earth-Sun distance, appears at the lower left. Fomalhaut's outer circumstellar dust ring lies at about twice the distance of our own Solar System's Kuiper Belt of small icy bodies and debris beyond the orbit of Neptune.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
