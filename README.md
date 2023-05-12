@@ -13,9 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Fomalhaut's Dusty Debris Disk :
+## Halley Dust, Mars Dust, and Milky Way :
 
-> Fomalhaut is a bright star, a 25 light-year voyage from planet Earth in the direction of the constellation Piscis Austrinus. Astronomers first noticed Fomalhaut's excess infrared emission in the 1980s. Space and ground-based telescopes have since identified the infrared emission's source as a disk of dusty debris, evidence for a planetary system surrounding the hot, young star.  But this sharp infrared image from the James Webb Space Telescope's MIRI camera reveals details of Fomalhaut's debris disk never before seen, including a large dust cloud in the outer ring that is possible evidence for colliding bodies, and an inner dust disk and gap likely shaped and maintained by embedded but unseen planets. An image scale bar in au or astronomical units, the average Earth-Sun distance, appears at the lower left. Fomalhaut's outer circumstellar dust ring lies at about twice the distance of our own Solar System's Kuiper Belt of small icy bodies and debris beyond the orbit of Neptune.
+> Grains of cosmic dust streaked through night skies in early May. Swept up as planet Earth plowed through the debris streams left behind by periodic Comet Halley, the annual meteor shower is known as the Eta Aquarids. This year, the Eta Aquarids peak was visually hampered by May's bright Full Moon, though. But early morning hours surrounding last May's shower of Halley dust were free of moonlight interference. In exposures recorded between April 28 and May 8 in 2022, this composited image shows nearly 90 Eta Aquarid meteors streaking from the shower's radiant in Aquarius over San Pedro de Atacama, Chile. The central Milky Way arcs above in the southern hemisphere's predawn skies. The faint band of light rising from the horizon is Zodiacal light, caused by dust scattering sunlight near our Solar System's ecliptic plane. Along the ecliptic and entrained in the Zodiacal glow are the bright planets Venus, Jupiter, Mars, and Saturn.  Of course Mars itself has recently been found to be a likely source of the dust along the ecliptic responsible for creating Zodiacal light.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
