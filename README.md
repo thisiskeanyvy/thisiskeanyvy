@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Halley Dust, Mars Dust, and Milky Way :
+## Apollo 17: The Crescent Earth :
 
-> Grains of cosmic dust streaked through night skies in early May. Swept up as planet Earth plowed through the debris streams left behind by periodic Comet Halley, the annual meteor shower is known as the Eta Aquarids. This year, the Eta Aquarids peak was visually hampered by May's bright Full Moon, though. But early morning hours surrounding last May's shower of Halley dust were free of moonlight interference. In exposures recorded between April 28 and May 8 in 2022, this composited image shows nearly 90 Eta Aquarid meteors streaking from the shower's radiant in Aquarius over San Pedro de Atacama, Chile. The central Milky Way arcs above in the southern hemisphere's predawn skies. The faint band of light rising from the horizon is Zodiacal light, caused by dust scattering sunlight near our Solar System's ecliptic plane. Along the ecliptic and entrained in the Zodiacal glow are the bright planets Venus, Jupiter, Mars, and Saturn.  Of course Mars itself has recently been found to be a likely source of the dust along the ecliptic responsible for creating Zodiacal light.
+> Our fair planet sports a curved, sunlit crescent against the black backdrop of space in this stunning photograph. From the unfamiliar perspective, the Earth is small and, like a telescopic image of a distant planet, the entire horizon is completely within the field of view. Enjoyed by crews on board the International Space Station, only much closer views of the planet are possible from low Earth orbit. Orbiting the planet once every 90 minutes, a spectacle of clouds, oceans, and continents scrolls beneath them with the partial arc of the planet's edge in the distance. But this digitally restored image presents a view so far only achieved by 24 humans, Apollo astronauts who traveled to the Moon and back again between 1968 and 1972. The original photograph, AS17-152-23420, was taken by the homeward bound crew of Apollo 17, on December 17, 1972. For now it is the last picture of Earth from this planetary perspective taken by human hands.
+
+<img src='https://apod.nasa.gov/apod/image/2305/AS17-152-23420_Ord1024c.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
