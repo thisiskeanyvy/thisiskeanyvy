@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Curly Spiral Galaxy M63 :
+## Galileo's Europa :
 
-> A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint, arcing star streams far into the galaxy's halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including faint dwarf galaxies, which could contribute to M63's star streams in the next few billion years.
+> Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth's own extreme shrimp.
 
-<img src='https://apod.nasa.gov/apod/image/2305/m63_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2305/PIA19048europa1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
