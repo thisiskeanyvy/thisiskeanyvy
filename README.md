@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Color the Universe :
+## Elephant's Trunk and Caravan :
 
-> Wouldn't it be fun to color in the universe?  If you think so, please accept this famous astronomical illustration as a preliminary substitute.  You, your friends, your parents or children, can print it out or even color it digitally.  While coloring, you might be interested to know that even though this illustration has appeared in numerous places over the past 100 years, the actual artist remains unknown.  Furthermore, the work has no accepted name -- can you think of a good one?  The illustration, first appearing in a book by Camille Flammarion in 1888, is frequently used to show that humanity's present concepts are susceptible to being supplanted by greater truths.
+> Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Seen on the left the cosmic elephant's trunk, also known as vdB 142, is over 20 light-years long. This detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons. Of course the dark shapes below and to the right of the outstretched Elephant's Trunk, are known to some as The Caravan.
 
-<img src='https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2306/ic1396ASI294large_1030.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
