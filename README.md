@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## M15: Dense Globular Star Cluster :
+## Sunset to Sunrise over the Baltic Sea :
 
-> Messier 15 is an immense swarm of over 100,000 stars. A 13 billion year old relic of the early formative years of our galaxy it's one of about 170 globular star clusters that still roam the halo of the Milky Way. Centered in this sharp reprocessed Hubble image, M15 lies some 35,000 light-years away toward the constellation Pegasus. Its diameter is about 200 light-years, but more than half its stars are packed into the central 10 light-years or so, making one of the densest concentrations of stars known. Hubble-based measurements of the increasing velocities of M15's central stars are evidence that a massive black hole resides at the center of the dense cluster. M15 is also known to harbour a planetary nebula. Called Pease 1 (aka PN Ps 1), it can be seen in this image as a small blue blob below and just right of center.
+> This serene view from the coast of Sweden looks across the Baltic sea and compresses time, presenting the passage of one night in a single photograph. From sunset to sunrise, moonlight illuminates the creative sea and skyscape. Fleeting clouds, fixed stars, and flowing northern lights leave their traces in planet Earth's sky. To construct the timelapse image, 3296 video frames were recorded on the night of June's Full Moon between 7:04pm and 6:35am local time. As time progresses from left to right, a single column of pixels was taken from the corresponding individual frame and combined in sequence into a single digital image 3296 pixels wide.  Happy Birthday APOD
 
-<img src='https://apod.nasa.gov/apod/image/2306/M15-3_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image600.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
