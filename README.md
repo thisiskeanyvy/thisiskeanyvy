@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Three Sun Paths :
+## Stars and Dust across Corona Australis :
 
-> Does the Sun follow the same path every day? No.  The Sun's path changes during the year, tracing a longer route during the summer than the winter. Pictured here, the Sun's arc was captured from noon to sunset on three days,  from highest in the sky to lowest: summer solstice, equinox, and winter solstice.  The images were taken near Gatto Corvino Village in Sicily, Italy in 2020 and 2021. The path and time the Sun spends in the sky is more important in determining the season than how close the Earth is to the Sun.  In fact, the Earth is closest to the Sun in January, during northern winter.  Today is a solstice, so today the Sun is taking its longest path of the year across the sky in Earth's  northern hemisphere, but the shortest path in the southern hemisphere.
+> Cosmic dust clouds cross a rich field of stars in this telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Part of a sprawling molecular cloud complex this star forming region is a mere 500 light-years away. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula. The 2 degree wide frame would span 15 light-years at the clouds' estimated distance. Mixed with bright nebulosities the dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation. Large dark nebula Bernes 157 is on the left. To its right are a group of pretty reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. Their characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The more compact NGC 6729 surrounds young variable star R Coronae Australis. Just below it, filamentary arcs and loops are identified as Herbig Haro objects associated with energetic newborn stars. In fact, at the heart of this area lies the Coronet Cluster, one of the nearest and most active star forming regions.
 
-<img src='https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2306/corona_aus1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
