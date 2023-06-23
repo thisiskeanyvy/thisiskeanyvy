@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Stars and Dust across Corona Australis :
+## Giant Galaxies in Pavo :
 
-> Cosmic dust clouds cross a rich field of stars in this telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Part of a sprawling molecular cloud complex this star forming region is a mere 500 light-years away. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula. The 2 degree wide frame would span 15 light-years at the clouds' estimated distance. Mixed with bright nebulosities the dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation. Large dark nebula Bernes 157 is on the left. To its right are a group of pretty reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. Their characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The more compact NGC 6729 surrounds young variable star R Coronae Australis. Just below it, filamentary arcs and loops are identified as Herbig Haro objects associated with energetic newborn stars. In fact, at the heart of this area lies the Coronet Cluster, one of the nearest and most active star forming regions.
+> Over 500,000 light years across, NGC 6872 (top right) is a truly enormous barred spiral galaxy, at least 5 times the size of our own very large Milky Way. The appearance of this giant galaxy's distorted and stretched out spiral arms suggests the magnificent wings of a giant bird. Of course its popular moniker is the Condor galaxy. It lies about 200 million light-years distant toward the southern constellation Pavo, the Peacock. Lined with star-forming regions, the distorted spiral arms are due to NGC 6872's gravitational interaction with the nearby smaller galaxy IC 4970, seen just above the giant galaxy's core. The Pavo galaxy group's dominant giant elliptical galaxy, NGC 6876 is below and left of the soaring Condor galaxy.
 
-<img src='https://apod.nasa.gov/apod/image/2306/corona_aus1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
