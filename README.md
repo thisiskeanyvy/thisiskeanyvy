@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Three Galaxies in Draco :
+## Milky Way and Aurora over Antarctica :
 
-> This tantalizing trio of galaxies sometimes called the Draco Group, is located in the northern constellation of (you guessed it) Draco, the Dragon. From left to right are face-on spiral NGC 5985, elliptical galaxy NGC 5982, and edge-on spiral NGC 5981, all found within this single telescopic field of view that spans a little more than the width of the full moon. While the group is far too small to be a galaxy cluster, and has not been catalogued as a compact galaxy group, the three galaxies all do lie roughly 100 million light-years from planet Earth. Not as well known as other tight groupings of galaxies, the contrast in visual appearance still makes this triplet an attractive subject for astroimagers. On close examination with spectrographs, the bright core of striking spiral NGC 5985 shows prominent emission in specific wavelengths of light, prompting astronomers to classify it as a Seyfert, a type of active galaxy. This impressively deep exposure hints at a faint dim halo along with sharp-edged shells surrounding elliptical NGC 5982, evidence of past galactic mergers. It also reveals many even more distant background galaxies.
+> It was one of the better skies of this long night. In parts of Antarctica, not only is it winter, but the Sun can spend weeks below the horizon. At China's Zhongshan Station, people sometimes venture out into the cold to photograph a spectacular night sky. The featured image from one such outing was taken in mid-July of 2015, just before the end of this polar night. Pointing up, the wide angle lens captured not only the ground at the bottom, but at the top as well.  In the foreground, a colleague is taking pictures. In the distance, a spherical satellite receiver and several windmills are visible. Numerous stars dot the night sky, including Sirius and Canopus. Far in the background, stretching overhead from horizon to horizon, is the central band of our Milky Way Galaxy. Even further in the distance, visible as extended smudges near the top, are the Large and Small Magellanic Clouds, satellite galaxies near our huge Milky Way Galaxy.   Explore the Universe: Random APOD Generator
 
-<img src='https://apod.nasa.gov/apod/image/2307/DracoTrio_TeamOmicron1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/MWAurora_hang_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
