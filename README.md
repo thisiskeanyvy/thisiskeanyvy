@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Venus in Ultraviolet from Akatsuki :
+## Aurora over Icelandic Waterfall :
 
-> Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki's instruments investigated unknowns about Earth's sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet's rotation speed. In the featured image taken by Akatsuki's UVI camera, the day-side of Venus is seen shown with planet-scale V-shaped cloud pattern. The image displays three ultraviolet colors and indicates a dip in the relative abundance of sulfur dioxide shown in faint blue.  Analyses of Akatsuki images and data has shown, among other discoveries, that Venus has equatorial jet similar to Earth's jet stream.
+> It seemed like the sky exploded. The original idea was to photograph an aurora over a waterfall. After waiting for hours under opaque clouds, though, hope was running out. Others left. Then, unexpectedly, the clouds moved away. Suddenly, particles from a large solar magnetic storm were visible impacting the Earth's upper atmosphere with full effect. The night sky filled with colors and motion in a thrilling auroral display.  Struggling to steady the camera from high Earthly winds, the 34 exposures that compose the featured image were taken.  The resulting featured composite image shows the photogenic Godafoss (Goðafoss) waterfall in northern Iceland in front of a very active aurora in late February. The solar surface explosion that expelled the energetic particles occurred a few days before.  Our Sun is showing an impressive amount of surface activity as it approaches solar maximum, indicating that more impressive auroras are likely to appear in Earth's northern and southern sky over the next few years.
 
-<img src='https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/WaterfallAurora_Letelier_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
