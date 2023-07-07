@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Fireworks vs Supermoon :
+## The Double Cluster in Perseus :
 
-> On July 4, an almost Full Moon rose in planet Earth's evening skies. Also known as a Buck Moon, the full lunar phase (full on July 3 at 11:39 UTC) was near perigee, the closest point in the Moon's almost monthly orbit around planet Earth. That qualified this July's Full Moon as a supermoon, the first of four supermoons in 2023. Seen from Cocoa Beach along Florida's Space Coast on July 4, any big, bright, beautiful Full Moon would still have to compete for attention though. July's super-moonrise was captured here against a super-colorful fireworks display.
-
-<img src='https://apod.nasa.gov/apod/image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg' width="800" height="500"/>
+> This pretty starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (top) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that they were likely a product of the same star-forming region. Always a rewarding sight in binoculars, the Double Cluster is even visible to the unaided eye from dark locations.
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
