@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Doomed Star Eta Carinae :
+## Stars, Dust and Nebula in NGC 6559 :
 
-> Carinae may be about to explode.  But no one knows when - it may be next year, it may be one million years from now. Eta Carinae's mass - about 100 times greater than our Sun - makes it an excellent candidate for a full blown supernova. Historical records do show that about 170 years ago Eta Carinae underwent an unusual outburst that made it one of the brightest stars in the southern sky.  Eta Carinae, in the Keyhole Nebula, is the only star currently thought to emit natural LASER light. This featured image brings out details in the unusual nebula that surrounds this rogue star.  Diffraction spikes, caused by the telescope, are visible as bright multi-colored streaks emanating from Eta Carinae's center.  Two distinct lobes of the Homunculus Nebula encompass the hot central region, while some strange radial streaks are visible in red extending toward the image right. The lobes are filled with lanes of gas and dust which absorb the blue and ultraviolet light emitted near the center.  The streaks, however, remain unexplained.
+> When stars form, pandemonium reigns.  A textbook case is the star forming region NGC 6559.  Visible in the featured image are red glowing emission nebulas of hydrogen, blue reflection nebulas of dust, dark absorption nebulas of dust, and the stars that formed from them.  The first massive stars formed from the dense gas will emit energetic light and winds that erode, fragment, and sculpt their birthplace.  And then they explode. The resulting morass can be as beautiful as it is complex.  After tens of millions of years, the dust boils away, the gas gets swept away, and all that is left is a bare open cluster of stars.
 
-<img src='https://apod.nasa.gov/apod/image/2307/EtaCarinae_HubbleSchmidt_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/NGC6559_Block_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
