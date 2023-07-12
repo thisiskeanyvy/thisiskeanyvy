@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Sunspots on an Active Sun :
+## Rings and Bar of Spiral Galaxy NGC 1398 :
 
-> Why is our Sun so active now? No one is sure.  An increase in surface activity was expected because our Sun is approaching solar maximum in 2025. However, last month our Sun sprouted more sunspots than in any month during the entire previous 11-year solar cycle -- and even dating back to 2002. The featured picture is a composite of images taken every day from January to June by NASA's Solar Dynamic Observatory.  Showing a high abundance of sunspots, large individual spots can be tracked across the Sun's disk, left to right, over about two weeks.  As a solar cycle continues, sunspots typically appear closer to the equator.  Sunspots are just one way that our Sun displays surface activity -- another is flares and coronal mass ejections (CMEs) that expel particles out into the Solar System. Since these particles can affect astronauts and electronics, tracking surface disturbances is of more than aesthetic value.  Conversely, solar activity can have very high aesthetic value -- in the Earth's atmosphere when they trigger aurora.
+> Why do some spiral galaxies have a ring around the center? Spiral galaxy NGC 1398 not only has a ring of pearly stars, gas and dust around its center, but a bar of stars and gas across its center, and spiral arms that appear like ribbons farther out.  The featured deep image from Observatorio El Sauce in Chile shows the grand spiral galaxy in impressive detail. NGC 1398 lies about 65 million light years distant, meaning the light we see today left this galaxy when dinosaurs were disappearing from the Earth.  The photogenic galaxy is visible with a small telescope toward the constellation of the Furnace (Fornax). The ring near the center is likely an expanding density wave of star formation, caused either by a gravitational encounter with another galaxy, or by the galaxy's own gravitational asymmetries.
 
-<img src='https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/Ngc1398_Hanson_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
