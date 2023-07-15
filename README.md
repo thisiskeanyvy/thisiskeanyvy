@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Comet C/2023 E1 ATLAS near Perihelion :
+## Webb's First Deep Field :
 
-> Comet C/2023 E1 (ATLAS) was just spotted in March, another comet found by the NASA funded Asteroid Terrestrial-impact Last Alert System.  On July 1 this Comet ATLAS reached perihelion, its closest approach to the Sun. Shortly afterwards the telescopic comet was captured in this frame sporting a pretty greenish coma and faint, narrow ion tail against a background of stars in the far northern constellation Ursa Minor.  This comet's closest approach to Earth is still to come though. On August 18 this visitor to the inner Solar System will be a mere 3 light-minutes or so from our fair planet. Based on its inclination to the ecliptic plane and orbital period of about 85 years C/2023 E1 (ATLAS) is considered a Halley-type comet.
+> This stunning infrared image was released one year ago as the James Webb Space Telescope began its exploration of the cosmos. The view of the early Universe toward the southern constellation Volans was achieved in 12.5 hours of exposure with Webb's NIRCam instrument. Of course the stars with six spikes are well within our own Milky Way. Their diffraction pattern is characteristic of Webb's 18 hexagonal mirror segments operating together as a single 6.5 meter diameter primary mirror. The thousands of galaxies flooding the field of view are members of the distant galaxy cluster SMACS0723-73, some 4.6 billion light-years away. Luminous arcs that seem to infest the deep field are even more distant galaxies though. Their images are distorted and magnified by the dark matter dominated mass of the galaxy cluster, an effect known as gravitational lensing. Analyzing light from two separate arcs below the bright spiky star, Webb's NIRISS instrument indicates the arcs are both images of the same background galaxy. And that galaxy's light took about 9.5 billion years to reach the James Webb Space Telescope.
 
-<img src='https://apod.nasa.gov/apod/image/2307/C_2023_E1_ATLAS_C14F2_DEBartlett1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
