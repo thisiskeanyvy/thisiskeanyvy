@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Apollo 11: Armstrong's Lunar Selfie :
+## The Antikythera Mechanism :
 
-> A photograph of Buzz Aldrin standing on the Moon taken by Neil Armstrong, was digitally reversed to create this lunar selfie. Captured in July 1969 following the Apollo 11 moon landing, Armstrong's original photograph recorded not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin's curved visor.  In the unwrapped image, the spherical distortion of the reflection in Aldrin's helmet has been reversed.  The transformed view features Armstrong himself from Aldrin's perspective. Since Armstrong took the original picture, today the image represents a fifty-four year old lunar selfie.  Aldrin's visor reflection in the original image appears here on the left. Bright (but distorted) planet Earth hangs in the lunar sky above Armstrong's figure, toward the upper right. A foil-wrapped leg of the Eagle lander and Aldrin's long shadow stretching across the lunar surface are prominently visible.  In 2024 NASA's Artemis II mission will return humans to the Moon.
+> It does what?  No one knew that 2,000 years ago, the technology existed to build such a device.  The Antikythera mechanism, pictured, is now widely regarded as the first computer. Found at the bottom of the sea aboard a decaying Greek ship, its complexity prompted decades of study, and even today some of its functions likely remain unknown.  X-ray images of the device, however, have confirmed that a main function of its numerous clock-like wheels and gears is to create a portable, hand-cranked, Earth-centered, orrery of the sky, predicting future star and planet locations as well as lunar and solar eclipses.  The corroded core of the Antikythera mechanism's largest gear is featured, spanning about 13 centimeters, while the entire mechanism was 33 centimeters high, making it similar in size to a large book. Recently, modern computer modeling of missing components is allowing for the creation of a more complete replica of this surprising ancient machine.
 
-<img src='https://apod.nasa.gov/apod/image/2307/AldrinVisorCrop_Apollo11_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/antikythera_wikipedia_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
