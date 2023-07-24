@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Antikythera Mechanism :
+## Chemicals Glow as a Meteor Disintegrates :
 
-> It does what?  No one knew that 2,000 years ago, the technology existed to build such a device.  The Antikythera mechanism, pictured, is now widely regarded as the first computer. Found at the bottom of the sea aboard a decaying Greek ship, its complexity prompted decades of study, and even today some of its functions likely remain unknown.  X-ray images of the device, however, have confirmed that a main function of its numerous clock-like wheels and gears is to create a portable, hand-cranked, Earth-centered, orrery of the sky, predicting future star and planet locations as well as lunar and solar eclipses.  The corroded core of the Antikythera mechanism's largest gear is featured, spanning about 13 centimeters, while the entire mechanism was 33 centimeters high, making it similar in size to a large book. Recently, modern computer modeling of missing components is allowing for the creation of a more complete replica of this surprising ancient machine.
+> Meteors can be colorful. While the human eye usually cannot discern many colors, cameras often can. Pictured here is a fireball, a disintegrating meteor that was not only one of the brightest the photographer has ever seen, but colorful. The meteor was captured by chance in mid-July with a camera set up on Hochkar Mountain in Austria to photograph the central band of our Milky Way galaxy. The radiant grit, likely cast off by a comet or asteroid long ago, had the misfortune to enter Earth's atmosphere.  Colors in meteors usually originate from ionized chemical elements released as the meteor disintegrates, with blue-green typically originating from magnesium, calcium radiating violet, and nickel glowing green. Red, however, typically originates from energized nitrogen and oxygen in the Earth's atmosphere.  This bright meteoric fireball was gone in a flash -- less than a second -- but it left a wind-blown ionization trail that remained visible for almost a minute.
 
-<img src='https://apod.nasa.gov/apod/image/2307/antikythera_wikipedia_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/ChemicalFireball_Kleinburger_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
