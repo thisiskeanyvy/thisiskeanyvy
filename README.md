@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Chemicals Glow as a Meteor Disintegrates :
+## The Eagle Nebula with X-ray Hot Stars :
 
-> Meteors can be colorful. While the human eye usually cannot discern many colors, cameras often can. Pictured here is a fireball, a disintegrating meteor that was not only one of the brightest the photographer has ever seen, but colorful. The meteor was captured by chance in mid-July with a camera set up on Hochkar Mountain in Austria to photograph the central band of our Milky Way galaxy. The radiant grit, likely cast off by a comet or asteroid long ago, had the misfortune to enter Earth's atmosphere.  Colors in meteors usually originate from ionized chemical elements released as the meteor disintegrates, with blue-green typically originating from magnesium, calcium radiating violet, and nickel glowing green. Red, however, typically originates from energized nitrogen and oxygen in the Earth's atmosphere.  This bright meteoric fireball was gone in a flash -- less than a second -- but it left a wind-blown ionization trail that remained visible for almost a minute.
+> What do the famous Eagle Nebula star pillars look like in X-ray light? To find out, NASA's orbiting Chandra X-ray Observatory peered in and through these interstellar mountains of star formation. It was found that in M16 the dust pillars themselves do not emit many X-rays, but a lot of small-but-bright X-ray sources became evident. These sources are shown as bright dots on the featured image which is a composite of exposures from Chandra (X-rays), XMM (X-rays), JWST (infrared), Spitzer (infrared), Hubble (visible), and the VLT (visible).  What stars produce these X-rays remains a topic of research, but some are hypothesized to be hot, recently-formed, low-mass stars, while others are thought to be hot, older, high-mass stars.  These X-ray hot stars are scattered around the frame -- the previously identified Evaporating Gaseous Globules (EGGS) seen in visible light are not currently hot enough to emit X-rays.
 
-<img src='https://apod.nasa.gov/apod/image/2307/ChemicalFireball_Kleinburger_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/EagleStars_NASA_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
