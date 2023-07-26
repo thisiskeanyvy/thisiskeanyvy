@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Eagle Nebula with X-ray Hot Stars :
+## IC 4628: The Prawn Nebula :
 
-> What do the famous Eagle Nebula star pillars look like in X-ray light? To find out, NASA's orbiting Chandra X-ray Observatory peered in and through these interstellar mountains of star formation. It was found that in M16 the dust pillars themselves do not emit many X-rays, but a lot of small-but-bright X-ray sources became evident. These sources are shown as bright dots on the featured image which is a composite of exposures from Chandra (X-rays), XMM (X-rays), JWST (infrared), Spitzer (infrared), Hubble (visible), and the VLT (visible).  What stars produce these X-rays remains a topic of research, but some are hypothesized to be hot, recently-formed, low-mass stars, while others are thought to be hot, older, high-mass stars.  These X-ray hot stars are scattered around the frame -- the previously identified Evaporating Gaseous Globules (EGGS) seen in visible light are not currently hot enough to emit X-rays.
+> South of Antares, in the tail of the nebula-rich constellation Scorpius, lies emission nebula IC 4628. Nearby hot, massive stars, millions of years young, irradiate the nebula with invisible ultraviolet light, stripping electrons from atoms. The electrons eventually recombine with the atoms to produce the visible nebular glow, dominated by the red emission of hydrogen. At an estimated distance of 6,000 light-years, the region shown is about 250 light-years across, spanning over three full moons on the sky. The nebula is also cataloged as Gum 56 for Australian astronomer Colin Stanley Gum, but seafood-loving deep sky-enthusiasts might know this cosmic cloud as the Prawn Nebula. The graceful color image is a new astronomical composition taken over several nights in April from Rio Hurtado, Chile.
 
-<img src='https://apod.nasa.gov/apod/image/2307/EagleStars_NASA_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/Prawn_Stern_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
