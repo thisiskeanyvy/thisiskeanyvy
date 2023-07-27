@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## IC 4628: The Prawn Nebula :
+## Galaxies in the River :
 
-> South of Antares, in the tail of the nebula-rich constellation Scorpius, lies emission nebula IC 4628. Nearby hot, massive stars, millions of years young, irradiate the nebula with invisible ultraviolet light, stripping electrons from atoms. The electrons eventually recombine with the atoms to produce the visible nebular glow, dominated by the red emission of hydrogen. At an estimated distance of 6,000 light-years, the region shown is about 250 light-years across, spanning over three full moons on the sky. The nebula is also cataloged as Gum 56 for Australian astronomer Colin Stanley Gum, but seafood-loving deep sky-enthusiasts might know this cosmic cloud as the Prawn Nebula. The graceful color image is a new astronomical composition taken over several nights in April from Rio Hurtado, Chile.
+> Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way's gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, spiral NGC 1532 spans about 100,000 light-years. The merging galaxies are captured in this sharp image from the Dark Energy Camera mounted on the National Science Foundation’s Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile. The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.
 
-<img src='https://apod.nasa.gov/apod/image/2307/Prawn_Stern_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2307/noirlab2321a_ngc1532_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
