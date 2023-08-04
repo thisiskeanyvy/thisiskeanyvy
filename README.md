@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Falcon and the Redstone :
+## Moonrays of August :
 
-> In a photo from the early hours of July 29 (UTC), a Redstone rocket and Mercury capsule are on display at Cape Canaveral Launch Complex 5. Beyond the Redstone, the 8 minute long exposure has captured the arcing launch streak of a SpaceX Falcon Heavy rocket. The Falcon's heavy communications satellite payload, at a record setting 9 metric tons, is bound for geosynchronous orbit some 22,000 miles above planet Earth. The historic launch of a Redstone rocket carried astronaut Alan Shepard on a suborbital spaceflight in May 1961 to an altitude of about 116 miles. Near the top of the frame, this Falcon rocket's two reusable side boosters separate and execute brief entry burns. They returned to land side by side at Canaveral's Landing Zone 1 and 2 in the distance.
+> A Full Moon rose as the Sun set on August 1. Near perigee, the closest point in its almost moonthly orbit, the brighter than average lunar disk illuminated night skies around planet Earth as the second supermoon of 2023. Seen here above Ragusa, Sicily, cloud banks cast diverging shadows through the supermoonlit skies, creating dramatic lunar crepuscular rays. The next Full Moon in 2023 will also shine on an August night. Rising as the Sun sets on August 30/31, this second Full Moon in a month is known as a Blue Moon. Blue moons occur only once every 2 or 3 years because lunar phases take almost a calendar month (29.5 days) to go through a complete cycle. But August's Blue Moon will also be near perigee, the third supermoon in 2023.
 
-<img src='https://apod.nasa.gov/apod/image/2308/FalconHeavyRedstoneHaskell1024.jpeg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/GianniTumino_Moon_Rays_JPG_LOGO_1024pix.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
