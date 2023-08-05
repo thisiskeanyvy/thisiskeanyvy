@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moonrays of August :
+## NGC 1360: The Robin's Egg Nebula :
 
-> A Full Moon rose as the Sun set on August 1. Near perigee, the closest point in its almost moonthly orbit, the brighter than average lunar disk illuminated night skies around planet Earth as the second supermoon of 2023. Seen here above Ragusa, Sicily, cloud banks cast diverging shadows through the supermoonlit skies, creating dramatic lunar crepuscular rays. The next Full Moon in 2023 will also shine on an August night. Rising as the Sun sets on August 30/31, this second Full Moon in a month is known as a Blue Moon. Blue moons occur only once every 2 or 3 years because lunar phases take almost a calendar month (29.5 days) to go through a complete cycle. But August's Blue Moon will also be near perigee, the third supermoon in 2023.
+> This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation Fornax. Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning though. Instead it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The predominant blue-green hue of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.
 
-<img src='https://apod.nasa.gov/apod/image/2308/GianniTumino_Moon_Rays_JPG_LOGO_1024pix.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/ngc1360_v2_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
