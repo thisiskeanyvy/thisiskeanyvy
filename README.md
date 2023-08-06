@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## NGC 1360: The Robin's Egg Nebula :
+## SN 1006: A Supernova Ribbon from Hubble :
 
-> This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation Fornax. Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning though. Instead it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The predominant blue-green hue of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.
+> What created this unusual space ribbon?  The answer: one of the most violent explosions ever witnessed by ancient humans. Back in the year 1006 AD, light reached Earth from a stellar explosion in the constellation of the Wolf (Lupus), creating a "guest star" in the sky that appeared brighter than Venus and lasted for over two years. The supernova, now cataloged at SN 1006, occurred about 7,000 light years away and has left a large remnant that continues to expand and fade today.  Pictured here is a small part of that expanding supernova remnant dominated by a thin and outwardly moving shock front that heats and ionizes surrounding ambient gas. The supernova remnant SN 1006 now has a diameter of nearly 60 light years.
 
-<img src='https://apod.nasa.gov/apod/image/2308/ngc1360_v2_1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
