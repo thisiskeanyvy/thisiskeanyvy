@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Triply Glowing Night Sky over Iceland :
+## Arp 93: A Cosmic Embrace :
 
-> The Sun is not the quiet place it seems.  It expels an unsteady stream of energetic electrons and protons known as the solar wind.  These charged particles deform the Earth's magnetosphere, change paths, and collide with atoms in Earth's atmosphere, causing the generation of light in auroras like that visible in green in the image left.  Earth itself is also geologically active and covered with volcanoes. For example, Fagradalsfjall volcano in Iceland, seen emitting hot gas in orange near the image center. Iceland is one of the most geologically active places on Earth. On the far right is the Svartsengi geothermal power plant which creates the famous human-made Blue Lagoon, shown emitting white gas plumes. The featured composition therefore highlights three different sky phenomena, including both natural and human-made phenomena.
+> Locked in a cosmic embrace, two large galaxies are merging at the center of this sharp telescopic field of view. The interacting system cataloged as Arp 93 is some 200 million light-years distant toward the constellation Aquarius in planet Earth's sky. Individually the galaxies are identified as NGC 7285 (right) and NGC 7284. Their bright cores are still separated by about 20,000 light-years or so, but a massive tidal stream, a result of their ongoing gravitational interaction, extends over 200,000 light-years toward the bottom of the frame. Interacting galaxies do look peculiar, but are now understood to be common in the Universe. In fact, closer to home, the large spiral Andromeda Galaxy is known to be approaching the Milky Way. Arp 93 may well present an analog of their distant future cosmic embrace.
 
-<img src='https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/NGC-7284-7285-LRGB-crop-CDK-1000-7-August-2023x1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
