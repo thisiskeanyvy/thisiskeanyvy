@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Arp 93: A Cosmic Embrace :
+## A Cosmic Zoo in Cepheus :
 
-> Locked in a cosmic embrace, two large galaxies are merging at the center of this sharp telescopic field of view. The interacting system cataloged as Arp 93 is some 200 million light-years distant toward the constellation Aquarius in planet Earth's sky. Individually the galaxies are identified as NGC 7285 (right) and NGC 7284. Their bright cores are still separated by about 20,000 light-years or so, but a massive tidal stream, a result of their ongoing gravitational interaction, extends over 200,000 light-years toward the bottom of the frame. Interacting galaxies do look peculiar, but are now understood to be common in the Universe. In fact, closer to home, the large spiral Andromeda Galaxy is known to be approaching the Milky Way. Arp 93 may well present an analog of their distant future cosmic embrace.   Notable submissions to APOD: Perseids Meteor Shower 2023
+> Sprawling emission nebulae IC 1396 and Sh2-129 mix glowing interstellar gas and dark dust clouds in this nearly 12 degree wide field of view toward the northern constellation Cepheus the King. Energized by its central star IC 1396 (left), is hundreds of light-years across and some 3,000 light-years distant. The nebula's intriguing dark shapes include a winding dark cloud popularly known as the Elephant's Trunk below and right of center. Tens of light-years long, it holds the raw material for star formation and is known to hide protostars within. Located a similar distance from planet Earth, the bright knots and swept back ridges of emission of Sh2-129 on the right suggest its popular name, the Flying Bat Nebula. Within the Flying Bat, the most recently recognized addition to this royal cosmic zoo is the faint bluish emission from Ou4, the Giant Squid Nebula. Near the lower right edge of the frame, the suggestive dark marking on the sky cataloged as Barnard 150 is also known as the dark Seahorse Nebula.   Notable submissions to APOD: Perseids Meteor Shower 2023
 
-<img src='https://apod.nasa.gov/apod/image/2308/NGC-7284-7285-LRGB-crop-CDK-1000-7-August-2023x1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
