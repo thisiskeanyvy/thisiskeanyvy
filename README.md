@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Cosmic Zoo in Cepheus :
+## Northern Pluto :
 
-> Sprawling emission nebulae IC 1396 and Sh2-129 mix glowing interstellar gas and dark dust clouds in this nearly 12 degree wide field of view toward the northern constellation Cepheus the King. Energized by its central star IC 1396 (left), is hundreds of light-years across and some 3,000 light-years distant. The nebula's intriguing dark shapes include a winding dark cloud popularly known as the Elephant's Trunk below and right of center. Tens of light-years long, it holds the raw material for star formation and is known to hide protostars within. Located a similar distance from planet Earth, the bright knots and swept back ridges of emission of Sh2-129 on the right suggest its popular name, the Flying Bat Nebula. Within the Flying Bat, the most recently recognized addition to this royal cosmic zoo is the faint bluish emission from Ou4, the Giant Squid Nebula. Near the lower right edge of the frame, the suggestive dark marking on the sky cataloged as Barnard 150 is also known as the dark Seahorse Nebula.   Notable submissions to APOD: Perseids Meteor Shower 2023
+> Gaze across the frozen canyons of northern Pluto in this contrast enhanced color scene. The image data used to construct it was acquired in July 2015 by the New Horizons spacecraft as it made the first reconnaissance flight through the remote Pluto system six billion kilometers from the Sun. Now known as Lowell Regio, the region was named for Percival Lowell, founder of the Lowell Observatory. Also famous for his speculation that there were canals on Mars, Lowell started the search that ultimately led to Pluto's discovery in 1930 by Clyde Tombaugh. In this frame Pluto's North Pole is above and left of center. The pale bluish floor of the broad canyon on the left is about 70 kilometers (45 miles) wide, running vertically toward the south. Higher elevations take on a yellowish hue. New Horizon's measurements were used to determine that in addition to nitrogen ice, methane ice is abundant across Lowell Regio. So far, Pluto is the only Solar System world named by an 11-year-old girl.
 
-<img src='https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/nh-northpolerotatedcontrast1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
