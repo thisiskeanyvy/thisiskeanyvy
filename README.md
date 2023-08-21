@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Roll Cloud Over Wisconsin :
+## Introducing Comet Nishimura :
 
-> What kind of cloud is this?  A type of arcus cloud called a roll cloud.  These rare long clouds may form near advancing cold fronts.   In particular, a downdraft from an advancing storm front can cause moist warm air to rise, cool below its dew point, and so form a cloud.  When this happens uniformly along an extended front, a roll cloud may form.  Roll clouds may actually have air circulating along the long horizontal axis of the cloud.  A roll cloud is not thought to be able to morph into a tornado.  Unlike a similar shelf cloud, a roll cloud is completely detached from their parent  cumulonimbus cloud.  Pictured here, a roll cloud extends far into the distance as a storm approaches in 2007 in Racine, Wisconsin, USA.
+> Will Comet Nishimura become visible to the unaided eye? Given the unpredictability of comets, no one can say for sure, but it currently seems like a good bet.  The comet was discovered only ten days ago by Hideo Nishimura during 30-second exposures with a standard digital camera.  Since then, C/2023 P1 Nishimura has increased in brightness and its path across the inner Solar System determined.  As the comet dives toward the Sun, it will surely continue to intensify and possibly become a naked-eye object in early September.  A problem is that the comet will also be angularly near the Sun, so it will only be possible to see it near sunset or sunrise.  The comet will get so close to the Sun -- inside the orbit of planet Mercury -- that its nucleus may break up. Pictured, Comet Nishimura was imaged three days ago from June Lake, California, USA while sporting a green coma and a thin tail.
 
-<img src='https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/CometNishimura_Bartlett_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
