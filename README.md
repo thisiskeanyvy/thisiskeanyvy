@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Introducing Comet Nishimura :
+## The Pistachio Nebula :
 
-> Will Comet Nishimura become visible to the unaided eye? Given the unpredictability of comets, no one can say for sure, but it currently seems like a good bet.  The comet was discovered only ten days ago by Hideo Nishimura during 30-second exposures with a standard digital camera.  Since then, C/2023 P1 Nishimura has increased in brightness and its path across the inner Solar System determined.  As the comet dives toward the Sun, it will surely continue to intensify and possibly become a naked-eye object in early September.  A problem is that the comet will also be angularly near the Sun, so it will only be possible to see it near sunset or sunrise.  The comet will get so close to the Sun -- inside the orbit of planet Mercury -- that its nucleus may break up. Pictured, Comet Nishimura was imaged three days ago from June Lake, California, USA while sporting a green coma and a thin tail.
+> This nebula had never been noted before. Newly discovered nebulas are usually angularly small and found by professionals using large telescopes. In contrast, the Pistachio Nebula was discovered by dedicated amateurs and, although faint, is nearly the size of the full Moon.  In modern times, amateurs with even small telescopes can create long exposures over sky areas much larger than most professional telescopes can see.  They can therefore discover both previously unknown areas of extended emission around known objects, as well as entirely unknown objects, like nebulas.  The pictured Pistachio Nebula is shown in oxygen emission (blue) and hydrogen emission (red).  The nature of the hot central star is currently unknown, and the nebula might be labeled a planetary nebula if it turns out to be a white dwarf star.  The featured image is a composite of over 70 hours of exposure taken in early June under the dark skies of Namibia.
 
-<img src='https://apod.nasa.gov/apod/image/2308/CometNishimura_Bartlett_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/Pistachio_Falls_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
