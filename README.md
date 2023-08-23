@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Pistachio Nebula :
+## The Meteor and the Galaxy :
 
-> This nebula had never been noted before. Newly discovered nebulas are usually angularly small and found by professionals using large telescopes. In contrast, the Pistachio Nebula was discovered by dedicated amateurs and, although faint, is nearly the size of the full Moon.  In modern times, amateurs with even small telescopes can create long exposures over sky areas much larger than most professional telescopes can see.  They can therefore discover both previously unknown areas of extended emission around known objects, as well as entirely unknown objects, like nebulas.  The pictured Pistachio Nebula is shown in oxygen emission (blue) and hydrogen emission (red).  The nature of the hot central star is currently unknown, and the nebula might be labeled a planetary nebula if it turns out to be a white dwarf star.  The featured image is a composite of over 70 hours of exposure taken in early June under the dark skies of Namibia.
+> It came from outer space. It -- in this case a sand-sized bit of a comet nucleus -- was likely ejected many years ago from Sun-orbiting Comet Swift-Tuttle, but then continued to orbit the Sun alone.  When the Earth crossed through this orbit, the piece of comet debris impacted the atmosphere of our fair planet and was seen as a meteor. This meteor deteriorated, causing gases to be emitted that glowed in colors emitted by its component elements. The featured image was taken last week from Castilla La Mancha, Spain, during the peak night of the Perseids meteor shower.  The picturesque meteor streak happened to appear in the only one of 50 frames that also included the Andromeda galaxy. Stars dot the frame, each much further away than the meteor. Compared to the stars, the Andromeda galaxy (M31) is, again, much further away.
 
-<img src='https://apod.nasa.gov/apod/image/2308/Pistachio_Falls_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/M31Perseid_Pedrero_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
