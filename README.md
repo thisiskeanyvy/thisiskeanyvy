@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Meteor and the Galaxy :
+## Meteors along the Milky Way :
 
-> It came from outer space. It -- in this case a sand-sized bit of a comet nucleus -- was likely ejected many years ago from Sun-orbiting Comet Swift-Tuttle, but then continued to orbit the Sun alone.  When the Earth crossed through this orbit, the piece of comet debris impacted the atmosphere of our fair planet and was seen as a meteor. This meteor deteriorated, causing gases to be emitted that glowed in colors emitted by its component elements. The featured image was taken last week from Castilla La Mancha, Spain, during the peak night of the Perseids meteor shower.  The picturesque meteor streak happened to appear in the only one of 50 frames that also included the Andromeda galaxy. Stars dot the frame, each much further away than the meteor. Compared to the stars, the Andromeda galaxy (M31) is, again, much further away.
+> Under dark and mostly moonless night skies, many denizens of planet Earth were able to watch this year's Perseid meteor shower. Seen from a grassy hillside from Shiraz, Iran these Perseid meteors streak along the northern summer Milky Way before dawn on Sunday, August 13. Frames used to construct the composited image were captured near the active annual meteor shower's peak between 02:00 AM and 04:30 AM local time. Not in this night skyscape, the shower's radiant in the heroic constellation Perseus is far above the camera's field of view. But fans of northern summer nights can still spot a familiar asterism. Formed by bright stars Deneb, Vega, and Altair, the Summer Triangle spans the luminous band of the Milky Way.
 
-<img src='https://apod.nasa.gov/apod/image/2308/M31Perseid_Pedrero_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/MSH11080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
