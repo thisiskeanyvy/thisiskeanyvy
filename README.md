@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Crescents of Venus :
+## Three Galaxies and a Comet :
 
-> Just as the Moon goes through phases, Venus' visible sunlit hemisphere waxes and wanes. This sequence of telescopic images illustrates the steady changes for Venus during its recent 2023 apparition as our evening star. Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth. Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun. Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental) inferior conjunction. And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth's morning star. On August 21, NASA's Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its closest approach yet to the Sun.
+> Diffuse starlight and dark nebulae along the southern Milky Way arc over the horizon and sprawl diagonally through this gorgeous nightscape. The breath-taking mosaic spans a wide 100 degrees, with the rugged terrain of the Patagonia, Argentina region in the foreground. Along with the insider's view of our own galaxy, the image features our outside perspective on two irregular satellite galaxies - the Large and Small Magellanic Clouds. The scene also captures the broad tail and bright coma of Comet McNaught, the Great Comet of 2007.
 
-<img src='https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
