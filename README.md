@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Comet Schwassmann-Wachmann 3 Fragments :
+## Cygnus: Bubble and Crescent :
 
-> Periodic comet 73P/Schwassmann-Wachmann 3 has broken up at least twice. A cosmic souffle of ice and dust left over from the early solar system, this comet was first seen to split into several large pieces during the close-in part of its orbit in 1995.  However, in the 2006 passage, it disintegrated into dozens of fragments that stretched several degrees across the sky. Since comets are relatively fragile, stresses from heat, gravity and outgassing, for example, could be responsible for their tendency to break up in such a spectacular fashion when they near the hot Sun. The Hubble Space Telescope recorded, in 2006, the featured sharp view of prolific Fragment B, itself trailing a multitude of smaller pieces, each with its own cometary coma and tail. The picture spans over 3,000 kilometers at the comet's distance of 32 million kilometers from planet Earth.
+> As stars die, they create clouds.  Two stellar death clouds of gas and dust can be found toward the high-flying constellation of the Swan (Cygnus) as they drift through rich star fields in the plane of our Milky Way Galaxy. Caught here within the telescopic field of view are the Soap Bubble (lower left) and the Crescent Nebula (upper right). Both were formed at the final phase in the life of a star. Also known as NGC 6888, the Crescent Nebula was shaped as its bright, central massive Wolf-Rayet star, WR 136, shed its outer envelope in a strong stellar wind. Burning through fuel at a prodigious rate, WR 136 is near the end of a short life that should finish in a spectacular supernova explosion.  Discovered in 2013, the Soap Bubble Nebula is likely a planetary nebula, the final shroud of a lower mass, long-lived, Sun-like star destined to become a slowly cooling white dwarf. Both stellar nebulas are about 5,000 light-years distant, with the larger Crescent Nebula spanning about 25 light-years across. Within a few million years, both will likely have dispersed.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-<img src='https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/CrescentBubble_AlHarbi_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
