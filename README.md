@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Cygnus: Bubble and Crescent :
+## Blue Supermoon Beyond Syracuse :
 
-> As stars die, they create clouds.  Two stellar death clouds of gas and dust can be found toward the high-flying constellation of the Swan (Cygnus) as they drift through rich star fields in the plane of our Milky Way Galaxy. Caught here within the telescopic field of view are the Soap Bubble (lower left) and the Crescent Nebula (upper right). Both were formed at the final phase in the life of a star. Also known as NGC 6888, the Crescent Nebula was shaped as its bright, central massive Wolf-Rayet star, WR 136, shed its outer envelope in a strong stellar wind. Burning through fuel at a prodigious rate, WR 136 is near the end of a short life that should finish in a spectacular supernova explosion.  Discovered in 2013, the Soap Bubble Nebula is likely a planetary nebula, the final shroud of a lower mass, long-lived, Sun-like star destined to become a slowly cooling white dwarf. Both stellar nebulas are about 5,000 light-years distant, with the larger Crescent Nebula spanning about 25 light-years across. Within a few million years, both will likely have dispersed.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> The last full moon was doubly unusual. First of all, it was a blue moon.  A modern definition of a blue moon is a second full moon to occur during one calendar month.  Since there are 13 full moons in 2023, one month has to have two -- and that month was August.  The first full moon was on August 1 and named a Sturgeon Moon. The second reason that the last full moon was unusual was because it was a supermoon.  A modern definition of supermoon is a moon that reaches its full phase when it is relatively close to Earth -- and so appears a bit larger and brighter than average.  Pictured, the blue supermoon of 2023 was imaged hovering far behind a historic castle and lighthouse in Syracuse, Sicily, Italy.    Gallery: Selected August 2023 supermoon images submitted to APOD
 
-<img src='https://apod.nasa.gov/apod/image/2309/CrescentBubble_AlHarbi_1080.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
