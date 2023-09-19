@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## The Red Sprite and the Tree :
+## HH 211: Jets from a Forming Star :
 
-> The sprite and tree could hardly be more different. To start, the red sprite is an unusual form of lightning, while the tree is a common plant. The sprite is far away -- high in Earth's atmosphere, while the tree is nearby -- only about a football field away.  The sprite is fast -- electrons streaming up and down at near light's speed, while the tree is slow -- wood anchored to the ground. The sprite is bright -- lighting up the sky, while the tree is dim -- shining mostly by reflected light. The sprite was fleeting -- lasting only a small fraction of a second, while the tree is durable -- living now for many years.  Both however, when captured together, appear oddly similar in this featured composite image captured early this month in France as a thunderstorm passed over mountains of the Atlantic Pyrenees.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> Do stars always create jets as they form? No one is sure. As a gas cloud gravitationally contracts, it forms a disk that can spin too fast to continue contracting into a protostar.  Theorists hypothesize that this spin can be reduced by expelling jets. This speculation coincides with known Herbig-Haro (HH) objects, young stellar objects seen to emit jets -- sometimes in spectacular fashion. Pictured is Herbig-Haro 211, a young star in formation recently imaged by the Webb Space Telescope (JWST) in infrared light and in great detail.  Along with the two narrow beams of particles, red shock waves can be seen as the outflows impact existing interstellar gas. The jets of HH 221 will likely change shape as they brighten and fade over the next 100,000 years, as research into the details of star formation continues.
 
-<img src='https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
