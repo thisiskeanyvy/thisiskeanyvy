@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Tagging Bennu :
+## Cosmos in Reflection :
 
-> The OSIRIS-REx spacecraft's arm reached out and touched asteroid 101955 Bennu on October 20, 2020, after a careful approach to the small, near-Earth asteroid's boulder-strewn surface. Dubbed a Touch-And-Go (TAG) sampling event, the 30 centimeter wide sampling head (TAGSAM) appears to crush some of the rocks in this close-up recorded by the spacecraft's SamCam. The image was snapped just after surface contact some 321 million kilometers from planet Earth. One second later, the spacecraft fired nitrogen gas from a bottle intended to blow a substantial amount of Bennu's regolith into the sampling head, collecting the loose surface material. And now, nearly three years later, on Sunday, September 24, that sample of asteroid Bennu is scheduled to arrive on planet Earth. The sample return capsule will be dropped off by the OSIRIS-Rex spacecraft as it makes a close flyby of Earth. Twenty minutes after the drop-off, the spacecraft will fire its thrusters to divert past Earth and continue on to orbit near-Earth asteroid 99942 Apophis.
+> During the day, over 12,000 large mirrors reflect sunlight at the 100-megawatt, molten-salt, solar thermal power plant at the western edge of the Gobi desert near Dunhuang, Gansu Province, China. Individual mirror panels turn to track the sun like sunflowers. They conspire to act as a single super mirror reflecting the sunlight toward a fixed position, the power station's central tower. During the night the mirrors stand motionless though. They reflect the light of the countless distant stars, clusters and nebulae of the Milky Way and beyond. This sci-fi night skyscape was created with a camera fixed to a tripod near the edge of the giant mirror matrix on September 15. The camera's combined sequence of digital exposures captures concentric arcs of celestial star trails through the night with star trails in surreal mirrored reflection.
 
-<img src='https://apod.nasa.gov/apod/image/2309/d_tag-2-frames.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/CosmosinReflectionTrails.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
