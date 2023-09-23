@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Cosmos in Reflection :
+## Afternoon Analemma :
 
-> During the day, over 12,000 large mirrors reflect sunlight at the 100-megawatt, molten-salt, solar thermal power plant at the western edge of the Gobi desert near Dunhuang, Gansu Province, China. Individual mirror panels turn to track the sun like sunflowers. They conspire to act as a single super mirror reflecting the sunlight toward a fixed position, the power station's central tower. During the night the mirrors stand motionless though. They reflect the light of the countless distant stars, clusters and nebulae of the Milky Way and beyond. This sci-fi night skyscape was created with a camera fixed to a tripod near the edge of the giant mirror matrix on September 15. The camera's combined sequence of digital exposures captures concentric arcs of celestial star trails through the night with star trails in surreal mirrored reflection.
+> An analemma is that figure-8 curve you get when you mark the position of the Sun at the same time each day for one year. To make this one, a 4x5 pinhole camera was set up looking north in southern New Zealand skies. The shutter was briefly opened each clear day in the afternoon at 4pm local time exposing the same photosensitized glass plate for the year spanning September 23, 2022 to September 19, 2023. On two days, the winter and summer solstices, the shutter was opened again 15 minutes after the main exposure and remained open until sunset to create the sun trails at the bottom and top of the curve. The equinox dates correspond to positions in the middle of the curve, not the crossover point. Of course, the curve itself is inverted compared to an analemma traced from the northern hemisphere. And while fall begins today at the Autumnal Equinox for the northern hemisphere, it's the Spring Equinox in the south.
 
-<img src='https://apod.nasa.gov/apod/image/2309/CosmosinReflectionTrails.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
