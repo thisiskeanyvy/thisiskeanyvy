@@ -13,11 +13,9 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Afternoon Analemma :
+## A Ring of Fire Sunrise Solar Eclipse :
 
-> An analemma is that figure-8 curve you get when you mark the position of the Sun at the same time each day for one year. To make this one, a 4x5 pinhole camera was set up looking north in southern New Zealand skies. The shutter was briefly opened each clear day in the afternoon at 4pm local time exposing the same photosensitized glass plate for the year spanning September 23, 2022 to September 19, 2023. On two days, the winter and summer solstices, the shutter was opened again 15 minutes after the main exposure and remained open until sunset to create the sun trails at the bottom and top of the curve. The equinox dates correspond to positions in the middle of the curve, not the crossover point. Of course, the curve itself is inverted compared to an analemma traced from the northern hemisphere. And while fall begins today at the Autumnal Equinox for the northern hemisphere, it's the Spring Equinox in the south.
-
-<img src='https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg' width="800" height="500"/>
+> What's rising above the horizon behind those clouds? It's the Sun.  Most sunrises don't look like this, though, because most sunrises don't include the Moon. In the early morning of 2013 May 10, however, from Western Australia, the Moon was between the Earth and the rising Sun.  At times, it would be hard for the uninformed to understand what was happening.  In an annular eclipse, the Moon is too far from the Earth to block the entire Sun, and at most leaves a ring of fire where sunlight pours out around every edge of the Moon.  The featured time-lapse video also recorded the eclipse through the high refraction of the Earth's atmosphere just above the horizon, making the unusual rising Sun and Moon appear also flattened.  As the video continues, the Sun continues to rise, while the Sun and Moon begin to separate.  The next annular solar eclipse will occur in less than three weeks.  On Saturday, October 14, a ring of fire will be visible through clear skies from a thin swath crossing both North and South America.   Tour the Universe: Random APOD Generator
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
