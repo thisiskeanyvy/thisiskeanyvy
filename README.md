@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Ring of Fire Sunrise Solar Eclipse :
+## Arp 142: The Hummingbird Galaxy :
 
-> What's rising above the horizon behind those clouds? It's the Sun.  Most sunrises don't look like this, though, because most sunrises don't include the Moon. In the early morning of 2013 May 10, however, from Western Australia, the Moon was between the Earth and the rising Sun.  At times, it would be hard for the uninformed to understand what was happening.  In an annular eclipse, the Moon is too far from the Earth to block the entire Sun, and at most leaves a ring of fire where sunlight pours out around every edge of the Moon.  The featured time-lapse video also recorded the eclipse through the high refraction of the Earth's atmosphere just above the horizon, making the unusual rising Sun and Moon appear also flattened.  As the video continues, the Sun continues to rise, while the Sun and Moon begin to separate.  The next annular solar eclipse will occur in less than three weeks.  On Saturday, October 14, a ring of fire will be visible through clear skies from a thin swath crossing both North and South America.   Tour the Universe: Random APOD Generator
+> What's happening to this spiral galaxy? Just a few hundred million years ago, NGC 2936, the upper of the two large galaxies shown at the bottom, was likely a normal spiral galaxy -- spinning, creating stars -- and minding its own business. But then it got too close to the massive elliptical galaxy NGC 2937, just below, and took a turn. Sometimes dubbed the Hummingbird Galaxy for its iconic shape, NGC 2936 is not only being deflected but also being distorted by the close gravitational interaction. Behind filaments of dark interstellar dust, bright blue stars form the nose of the hummingbird, while the center of the spiral appears as an eye.  Alternatively, the galaxy pair, together known as Arp 142, look to some like Porpoise or a penguin protecting an egg. The featured re-processed image showing Arp 142 in great detail was taken recently by the Hubble Space Telescope. Arp 142 lies about 300 million light years away toward the constellation of the Water Snake (Hydra). In a billion years or so the two galaxies will likely merge into one larger galaxy.
+
+<img src='https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
