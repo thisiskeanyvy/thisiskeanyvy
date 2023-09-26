@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Arp 142: The Hummingbird Galaxy :
+## IC 4592: The Blue Horsehead Reflection Nebula :
 
-> What's happening to this spiral galaxy? Just a few hundred million years ago, NGC 2936, the upper of the two large galaxies shown at the bottom, was likely a normal spiral galaxy -- spinning, creating stars -- and minding its own business. But then it got too close to the massive elliptical galaxy NGC 2937, just below, and took a turn. Sometimes dubbed the Hummingbird Galaxy for its iconic shape, NGC 2936 is not only being deflected but also being distorted by the close gravitational interaction. Behind filaments of dark interstellar dust, bright blue stars form the nose of the hummingbird, while the center of the spiral appears as an eye.  Alternatively, the galaxy pair, together known as Arp 142, look to some like Porpoise or a penguin protecting an egg. The featured re-processed image showing Arp 142 in great detail was taken recently by the Hubble Space Telescope. Arp 142 lies about 300 million light years away toward the constellation of the Water Snake (Hydra). In a billion years or so the two galaxies will likely merge into one larger galaxy.
+> Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars above and to the right of the image center.
 
-<img src='https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2309/BlueHorse_Grelin_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
