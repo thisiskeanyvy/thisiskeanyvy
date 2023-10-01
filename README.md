@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## A Harvest Moon over Tuscany :
+## A Desert Eclipse :
 
-> For northern hemisphere dwellers, September's Full Moon was the Harvest Moon. Reflecting warm hues at sunset, it rises behind cypress trees huddled on a hill top in Tuscany, Italy in this telephoto view from September 28.  Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee. It was the fourth and final supermoon for 2023.
+> A good place to see a ring-of-fire eclipse, it seemed, would be from a desert. In a desert, there should be relatively few obscuring clouds and trees.  Therefore late December of 2019, a group of photographers traveled to the United Arab Emirates and Rub al-Khali, the largest continuous sand desert in world, to capture clear images of an unusual eclipse that would be passing over.  A ring-of-fire eclipse is an annular eclipse that occurs when the Moon is far enough away on its elliptical orbit around the Earth so that it appears too small, angularly, to cover the entire Sun. At the maximum of an annular eclipse, the edges of the Sun can be seen all around the edges of the Moon, so that the Moon appears to be a dark spot that covers most -- but not all -- of the Sun. This particular eclipse, they knew, would peak soon after sunrise.  After seeking out such a dry and barren place, it turned out that some of the most interesting eclipse images actually included a tree in the foreground, because, in addition to the sand dunes, the tree gave the surreal background a contrasting sense of normalcy, scale, and texture.  On Saturday, October 14, a new ring of fire will be visible through clear skies from a thin swath crossing both North and South America.
 
-<img src='https://apod.nasa.gov/apod/image/2309/HarvestMoonNest.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/DesertEclipse_Daviron_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
