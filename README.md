@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Edwin Hubble Discovers the Universe :
+## The Once and Future Stars of Andromeda :
 
-> How big is our universe? This question, among others, was debated by two leading astronomers in 1920 in what has since become known as astronomy's Great Debate.  Many astronomers then believed that our Milky Way Galaxy was the entire universe.  Many others, though, believed that our galaxy was just one of many.  In the Great Debate, each argument was detailed, but no consensus was reached.  The answer came over three years later with the detected variation of single spot in the Andromeda Nebula, as shown on the original glass discovery plate digitally reproduced here. When Edwin Hubble compared images, he noticed that this spot varied, and on October 6, 1923 wrote "VAR!" on the plate.  The best explanation, Hubble knew, was that this spot was the image of a variable star that was very far away. So M31 was really the Andromeda Galaxy -- a galaxy possibly similar to our own.  Annotated 100 years ago, the featured image may not be pretty, but the variable spot on it opened a window through which humanity gazed knowingly, for the first time, into a surprisingly vast cosmos.
+> This picture of Andromeda shows not only where stars are now, but where stars will be. The big, beautiful Andromeda Galaxy, M31, is a spiral galaxy a mere 2.5 million light-years away.  Image data from space-based and ground-based observatories have been combined here to produce this intriguing composite view of Andromeda at wavelengths both inside and outside normally visible light. The visible light shows where M31's stars are now, highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31's future stars will soon form, highlighted in orange hues and imaged by NASA's Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda's spiral arms.  This dust is a tracer of the galaxy's vast interstellar gas, raw material for future star formation.  Of course, the new stars will likely form over the next hundred million years or so. That's well before Andromeda merges with our Milky Way Galaxy in about 5 billion years.
 
-<img src='https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
