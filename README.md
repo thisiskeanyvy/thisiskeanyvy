@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Eclipse Rings :
+## PDS 70: Disk, Planets, and Moons :
 
-> She knew everything but the question. She was well aware that there would be a complete annular eclipse of the Sun visible from their driving destination: Lake Abert in Oregon.  She knew that the next ring-of-fire eclipse would occur in the USA only in 16 more years, making this a rare photographic opportunity.  She was comfortable with the plan: that she and her boyfriend would appear in front of the eclipse in silhouette, sometimes alone, and sometimes together.  She knew that the annular phase of this eclipse would last only a few minutes and she helped in the many hours of planning.  She could see their friend who set up the camera about 400 meters away at the bottom of a ridge.  What she didn't know was the question she would be asked. But she did know the answer: "yes".   Album: Selected eclipse images sent in to APOD
+> It's not the big ring that's attracting the most attention. Although the big planet-forming ring around the star PDS 70 is clearly imaged and itself quite interesting. It's also not the planet on the right, just inside the big disk, that’s being talked about the most.  Although the planet PDS 70c is a newly formed and, interestingly, similar in size and mass to Jupiter. It's the fuzzy patch around the planet PDS 70c that's causing the commotion. That fuzzy patch is thought to be a dusty disk that is now forming into moons -- and that had never been seen before. The featured image was taken in 2021 by the Atacama Large Millimeter Array (ALMA) of 66 radio telescopes in the high Atacama Desert of northern Chile.  Based on ALMA data, astronomers infer that the moon-forming exoplanetary disk has a radius similar to our Earth's orbit, and may one day form three or so Luna-sized moons -- not very different from our Jupiter's four.
 
-<img src='https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
