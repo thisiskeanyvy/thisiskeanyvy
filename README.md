@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Galaxies and a Comet :
+## Quarter Moons :
 
-> Galaxies abound in this sharp telescopic image recorded on October 12 in dark skies over June Lake, California. The celestial scene spans nearly 2 degrees within the boundaries of the well-trained northern constellation Canes Venatici. Prominent at the upper left 23.5 million light-years distant is big, beautiful spiral galaxy NGC 4258, known to some as Messier 106. Eye-catching edge-on spiral NGC 4217 is above and right of center about 60 million light-years away. Just passing through the pretty field of view is comet C/2023 H2 Lemmon, discovered last April in image data from the Mount Lemmon Survey. Here the comet sports more of a lime green coma though, along with a faint, narrow ion tail stretching toward the top of the frame. This visitor to the inner Solar System is presently less than 7 light-minutes away and still difficult to spot with binoculars, but it's growing brighter. Comet C/2023 H2 Lemmon will reach perihelion, its closest point to the Sun, on October 29 and perigee, its closest to our fair planet, on November 10 as it transitions from morning to evening northern skies.
+> Half way between New Moon and Full Moon is the Moon's first quarter phase. That's a quarter of the way around its moonthly orbit. At the first quarter phase, half the Moon's visible side is illuminated by sunlight. For the Moon's third quarter phase, half way between Full Moon and New Moon, sunlight illuminates the other half of the visible lunar disk. At both first and third quarter phases, the terminator, or shadow line separating the lunar night and day, runs down the middle. Near the terminator, long shadows bring lunar craters and mountains in to sharp relief, making the quarter phases a good time to observe the Moon. But in case you missed some, all the quarter phases of the Moon and their calendar dates during 2022 can be found in this well-planned array of telephoto images. Of course, you can observe a first quarter Moon tonight.  International: Observe the Moon Night
 
-<img src='https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies1024.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
