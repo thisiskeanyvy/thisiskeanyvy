@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Ghost Aurora over Canada :
+## Moon Io from Spacecraft Juno :
 
-> What does this aurora look like to you? While braving the cold to watch the skies above northern Canada early one morning in 2013, a most unusual aurora appeared.  The aurora definitely appeared to be shaped like something, but what? Two ghostly possibilities recorded by the astrophotographer were "witch" and "goddess of dawn", but please feel free to suggest your own Halloween-enhanced impressions. Regardless of fantastical pareidolic interpretations, the pictured aurora had a typical green color and was surely caused by the scientifically commonplace action of high-energy particles from space interacting with oxygen in Earth's upper atmosphere.  In the image foreground, at the bottom, is a frozen Alexandra Falls, while evergreen trees cross the middle.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD
+> There goes another one!  Volcanoes on Jupiter's moon Io keep erupting. To investigate, NASA's robotic Juno spacecraft has begun a series of visits to this very strange moon. Io is about the size of Earth's moon, but because of gravitational flexing by Jupiter and other moons, Io's interior gets heated and its surface has become covered with volcanoes.  The featured image is from last week's flyby, passing within 12,000 kilometers above the dangerously active world. The surface of Io is covered with sulfur and frozen sulfur dioxide, making it appear yellow, orange and brown. As hoped, Juno flew by just as a volcano was erupting -- with its faint plume visible near the top of the featured image.  Studying Io's volcanoes and plumes helps humanity better understand how Jupiter's complex system of moons, rings, and auroras interact. Juno is scheduled to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD
 
-<img src='https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
