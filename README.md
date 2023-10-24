@@ -13,11 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Moon Io from Spacecraft Juno :
+## Arp 87: Merging Galaxies from Hubble :
 
-> There goes another one!  Volcanoes on Jupiter's moon Io keep erupting. To investigate, NASA's robotic Juno spacecraft has begun a series of visits to this very strange moon. Io is about the size of Earth's moon, but because of gravitational flexing by Jupiter and other moons, Io's interior gets heated and its surface has become covered with volcanoes.  The featured image is from last week's flyby, passing within 12,000 kilometers above the dangerously active world. The surface of Io is covered with sulfur and frozen sulfur dioxide, making it appear yellow, orange and brown. As hoped, Juno flew by just as a volcano was erupting -- with its faint plume visible near the top of the featured image.  Studying Io's volcanoes and plumes helps humanity better understand how Jupiter's complex system of moons, rings, and auroras interact. Juno is scheduled to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD
+> This dance is to the death.  As these two large galaxies duel, a cosmic bridge of stars, gas, and dust currently stretches over 75,000 light-years and joins them.  The bridge itself is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. Together, the system is known as Arp 87. While such interactions are drawn out over billions of years, repeated close passages will ultimately create one merged galaxy. Although this scenario does look unusual, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 dancing pair are about 300 million light-years distant toward the constellation of the Lion (Leo). The prominent edge-on spiral galaxy at the far left appears to be a more distant background galaxy and not involved in the on-going merger.
 
-<img src='https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg' width="800" height="500"/>
+<img src='https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
