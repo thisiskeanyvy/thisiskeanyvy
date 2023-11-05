@@ -13,9 +13,11 @@
 ## Mes Statistiques Github :
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=thisiskeanyvy&show_icons=true&theme=radical)
 
-## Dinkinesh Moonrise :
+## Creature Aurora Over Norway :
 
-> Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.
+> It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this  eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple  auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms.   Almost Hyperspace: Random APOD Generator
+
+<img src='https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg' width="800" height="500"/>
 
 ## Mes projets Github Actifs :
 | Année | Projet | Description |
