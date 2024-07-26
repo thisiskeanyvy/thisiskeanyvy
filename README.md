@@ -51,6 +51,7 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
  POPCAT/USDT | EGLD/USDT | AXS/USDT | HNT/USDT | BSV/USDT | ENS/USDT | GALA/USDT |
  EOS/USDT | FLR/USDT | BTT/USDT | TKX/USDT | RSETH/USDT | ORDI/USDT | NEO/USDT |
  ENA/USDT | DYDX/USDT |
+
  --- | --- | --- | --- | --- | --- | --- |
  --- | --- | --- | --- | --- | --- | --- |
  --- | --- | --- | --- | --- | --- | --- |
@@ -66,6 +67,7 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
  --- | --- | --- | --- | --- | --- | --- |
  --- | --- | --- | --- | --- | --- | --- |
  --- | --- |
+
  67819 | 3263.96 | 0.999774 | 580.07 | 181.76 | 0.999418 | 0.60096 |
  3263.97 | 0.133447 | 6.74 | 0.418029 | 0.137364 | 28.56 | 67762 |
  1.692e-05 | 13.55 | 5.85 | 374.98 | 5.7 | 7.66 | 5.78 |
@@ -81,6 +83,7 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
  0.932691 | 33.47 | 6.06 | 5.29 | 44.63 | 26.79 | 0.02375776 |
  0.574733 | 0.01915938 | 8.64316e-07 | 10.38 | 3323.99 | 38.74 | 11.5 |
  0.468723 | 1.3 |
+
 
 ###
 
