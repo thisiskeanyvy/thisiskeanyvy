@@ -28,17 +28,22 @@
 
 ###
 
-<h3 align="left">Je suis Keany Vy,</h3>
+J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blockchain et l'automatisation de tâches.
 
+<img src="https://github-profile-trophy.vercel.app?username=thisiskeanyvy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 ###
 
-<p align="left">J'ai actuellement 19 ans et<br>- j'aime apprendre de nouveaux langages<br>- découvrir de nouvelles solutions<br>- construire des applications innovantes<br>- rechercher des vulnérabilités<br>- utiliser mes propres outils<br><br>J'apprécie également le monde du logiciel open-source, la blockchain et l'automatisation des tâches.</p>
+<h3 align="left">Clôture précédente</h3>
+
+| BTC/USDT | ETH/USDT | SOL/USDT | DOGE/USDT |
+| -------- | -------- | -------- | --------- |
+| 65799.95 | 3175.48  | 171.95   | 0.12526   |
 
 ###
 
 <br clear="both">
 
-<h3 align="left">J'utilise</h3>
+<h3 align="left">Je sais utiliser / déployer :</h3>
 
 ###
 
@@ -56,13 +61,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
 </div>
-
 ###
 
 <br clear="both">
 
-<h3 align="left">Je sais lire le</h3>
+<h3 align="left">Je développe des outils / logiciels en :</h3>
 
 ###
 
@@ -92,6 +100,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
 ###
@@ -104,6 +113,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thisiskeanyvy&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisiskeanyvy&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
 </div>
 
 ###
