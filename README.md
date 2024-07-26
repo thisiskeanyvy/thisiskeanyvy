@@ -44,18 +44,6 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
  --- | --- | --- | --- | --- | --- | --- |
  3263.97 | 0.133447 | 6.74 | 0.418029 | 0.137364 | 28.56 | 67762 |
 
- SHIB/USDT | LINK/USDT | DOT/USDT | BCH/USDT | NEAR/USDT | UNI/USDT | LEO/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 1.692e-05 | 13.55 | 5.85 | 374.98 | 5.7 | 7.66 | 5.78 |
-
- LTC/USDT | DAI/USDT | PEPE/USDT | WEETH/USDT | MATIC/USDT | ICP/USDT | KAS/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 70.99 | 1.0 | 1.2e-05 | 3409.16 | 0.511729 | 9.6 | 0.181144 |
-
- ETC/USDT | APT/USDT | USDE/USDT | FET/USDT | XMR/USDT | XLM/USDT | MNT/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 22.76 | 6.95 | 0.997294 | 1.28 | 163.72 | 0.1024 | 0.84915 |
-
 ###
 
 <h3 align="left">Je sais utiliser / déployer :</h3>
