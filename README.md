@@ -38,7 +38,6 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
 | BTC/USDT | ETH/USDT | SOL/USDT | DOGE/USDT |
 | -------- | -------- | -------- | --------- |
 | 65799.95 | 3175.48  | 171.95   | 0.12526   |
-
 ###
 
 <br clear="both">
@@ -73,7 +72,6 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
 <h3 align="left">Je développe des outils / logiciels en :</h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -114,6 +112,8 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thisiskeanyvy&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
 
 
 <div align="center">
