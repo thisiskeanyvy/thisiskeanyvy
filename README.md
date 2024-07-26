@@ -56,46 +56,6 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
  --- | --- | --- | --- | --- | --- | --- |
  22.76 | 6.95 | 0.997294 | 1.28 | 163.72 | 0.1024 | 0.84915 |
 
- STX/USDT | FIL/USDT | RENDER/USDT | WIF/USDT | TAO/USDT | MKR/USDT | INJ/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 1.86 | 4.66 | 6.79 | 2.62 | 350.96 | 2702.18 | 25.52 |
-
- OKB/USDT | CRO/USDT | HBAR/USDT | ARB/USDT | ATOM/USDT | IMX/USDT | VET/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 40.86 | 0.091304 | 0.067949 | 0.724268 | 6.18 | 1.51 | 0.02809991 |
-
- AR/USDT | FDUSD/USDT | BONK/USDT | SUI/USDT | OP/USDT | GRT/USDT | RETH/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 31.34 | 0.999242 | 2.857e-05 | 0.787105 | 1.73 | 0.199092 | 3657.76 |
-
- EZETH/USDT | FLOKI/USDT | RUNE/USDT | METH/USDT | BGB/USDT | THETA/USDT | NOT/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 3316.75 | 0.00017963 | 4.74 | 3396.3 | 1.14 | 1.5 | 0.01435002 |
-
- AAVE/USDT | WBT/USDT | ONDO/USDT | JUP/USDT | PYTH/USDT | JASMY/USDT | LDO/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 98.07 | 10.1 | 1.004 | 1.07 | 0.391335 | 0.02904472 | 1.56 |
-
- BRETT/USDT | FTM/USDT | CORE/USDT | TIA/USDT | SEI/USDT | ALGO/USDT | EETH/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 0.132491 | 0.457088 | 1.36 | 5.99 | 0.371689 | 0.141965 | 3270.36 |
-
- QNT/USDT | FLOW/USDT | OM/USDT | GT/USDT | MSOL/USDT | KCS/USDT | BEAM/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 72.51 | 0.675205 | 1.2 | 7.62 | 219.57 | 9.71 | 0.0182611 |
-
- POPCAT/USDT | EGLD/USDT | AXS/USDT | HNT/USDT | BSV/USDT | ENS/USDT | GALA/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 0.932691 | 33.47 | 6.06 | 5.29 | 44.63 | 26.79 | 0.02375776 |
-
- EOS/USDT | FLR/USDT | BTT/USDT | TKX/USDT | RSETH/USDT | ORDI/USDT | NEO/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 0.574733 | 0.01915938 | 8.64316e-07 | 10.38 | 3323.99 | 38.74 | 11.5 |
-
- ENA/USDT | DYDX/USDT |
- --- | --- |
- 0.468723 | 1.3 |
-
 ###
 
 <h3 align="left">Je sais utiliser / déployer :</h3>
