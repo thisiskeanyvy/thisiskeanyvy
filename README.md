@@ -28,7 +28,7 @@
 
 ###
 
-J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blockchain et l'automatisation de tâches.
+J'ai actuellement 20 ans et j'apprécie le monde du logiciel open-source, la blockchain et l'automatisation de tâches.
 
 <img src="https://github-profile-trophy.vercel.app?username=thisiskeanyvy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
@@ -38,11 +38,11 @@ J'ai actuellement 19 ans et j'apprécie le monde du logiciel open-source, la blo
 
  BTC/USDT | ETH/USDT | USDT/USDT | XRP/USDT | SOL/USDT | BNB/USDT | USDC/USDT |
  --- | --- | --- | --- | --- | --- | --- |
- 96604 | 2637.34 | 1.0 | 2.42 | 199.84 | 614.01 | 0.999996 |
+ 96777 | 2645.76 | 1.0 | 2.42 | 204.27 | 620.61 | 0.999948 |
 
  DOGE/USDT | ADA/USDT | STETH/USDT | TRX/USDT | WBTC/USDT | LINK/USDT | WSTETH/USDT |
  --- | --- | --- | --- | --- | --- | --- |
- 0.253217 | 0.698728 | 2633.81 | 0.231979 | 96217 | 18.35 | 3140.78 |
+ 0.251803 | 0.695066 | 2646.02 | 0.232051 | 96571 | 18.51 | 3153.43 |
 
 ###
 
