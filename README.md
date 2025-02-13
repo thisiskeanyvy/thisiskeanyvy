@@ -36,13 +36,13 @@ J'ai actuellement 20 ans et j'apprécie le monde du logiciel open-source, la blo
 
 <h3 align="left">Clôture précédente</h3>
 
- BTC/USDT | ETH/USDT | USDT/USDT | XRP/USDT | SOL/USDT | BNB/USDT | USDC/USDT |
+ BTC/USDT | ETH/USDT | XRP/USDT | USDT/USDT | BNB/USDT | SOL/USDT | USDC/USDT |
  --- | --- | --- | --- | --- | --- | --- |
- 96023 | 2607.18 | 0.999828 | 2.42 | 197.77 | 642.39 | 0.99996 |
+ 97754 | 2726.28 | 2.46 | 0.99997 | 697.45 | 195.58 | 0.999901 |
 
- DOGE/USDT | ADA/USDT | STETH/USDT | TRX/USDT | WBTC/USDT | LINK/USDT | AVAX/USDT |
+ DOGE/USDT | ADA/USDT | STETH/USDT | TRX/USDT | WBTC/USDT | LINK/USDT | SUI/USDT |
  --- | --- | --- | --- | --- | --- | --- |
- 0.253295 | 0.780845 | 2603.75 | 0.240972 | 95771 | 18.8 | 25.45 |
+ 0.263838 | 0.792855 | 2733.71 | 0.242326 | 97512 | 19.06 | 3.57 |
 
 ###
 
