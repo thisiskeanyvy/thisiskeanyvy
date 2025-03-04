@@ -1,4 +1,3 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: GitHub Metrics
 
 on:
@@ -21,10 +20,9 @@ jobs:
 
     # Define minimal required permissions for security
     permissions:
-      contents: read
-      issues: read
-      pull-requests: read
-      # Add other permissions if required by specific plugins
+      contents: write  # Required to write the SVG file
+      issues: read       # If your plugins need to read issues
+      pull-requests: read # If your plugins need to read pull requests
 
     steps:
       - name: Checkout Repository
@@ -39,9 +37,9 @@ jobs:
           sudo apt-get install -y docker.io jq
 
       - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@v3.34  # Updated to the correct version
+        uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }} # Use the secret
           user: thisiskeanyvy
           template: classic
           base: header, activity, community, repositories, metadata
@@ -68,7 +66,8 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: thisiskeanyvy
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }} # Pass the token as an environment variable
+
 
       - name: Commit and Push Metrics
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -77,4 +76,4 @@ jobs:
           branch: metrics  # Specify the branch where metrics are stored
           file_pattern: './metrics/**'  # Adjust the path based on where metrics are generated
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }} # Also pass to commit action, IMPORTANT
