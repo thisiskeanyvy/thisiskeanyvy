@@ -1,4 +1,4 @@
-[![Alt text](github_banner.png)](https://www.youtube.com/ "Ma Chaine YouTube (à venir)")
+[![Alt text](github_banner.png)](https://www.youtube.com/@thisiskeanyvy "My Youtube Channel")
 
 <h1 align="center">Hi, I'm Keany Vy Khun! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisiskeanyvy_visitor_badge_simple&left_color=royalblue&right_color=black"  />
