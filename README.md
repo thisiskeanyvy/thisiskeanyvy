@@ -1,121 +1,56 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/thisiskeanyvy/thisiskeanyvy/master/img/profile.gif"  />
-</div>
+[![Alt text](github_banner.png)](https://www.youtube.com/ "Ma Chaine YouTube (à venir)")
 
-###
+<h1 align="center">Hi, I'm Keany Vy Khun! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisiskeanyvy_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
-<div align="center">
-  <a href="https://linkedin.com/in/thisiskeanyvy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,rust,php,typescript,js,c,linux,mongodb,postgres,mysql,py,ocaml" alt="Skills and tools"/>
   </a>
-  <a href="https://www.instagram.com/thisiskeanyvy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram%20(1M%20Followers)&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/thisiskeanyvy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="mailto:keanyvy@keemail.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/thisiskeanyvy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+</p>
+
+
+![GitHub Snake](https://raw.githubusercontent.com/thisiskeanyvy/thisiskeanyvy/refs/heads/output/github-snake-dark.svg)
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Metrics -->
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/thisiskeanyvy/thisiskeanyvy/blob/main/github-metrics.svg">
+    </div>
+
+
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/thisiskeanyvy/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/thisiskeanyvy/thisiskeanyvy/refs/heads/master/icons/linkedin.svg" alt="LinkedIn">
+            </a>
+            </a>
+            <a href="https://www.instagram.com/thisiskeanyvy" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/thisiskeanyvy/thisiskeanyvy/refs/heads/master/icons/instagram.svg" alt="Instagram">
+            </a>
+        </p>
+        
+  <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I love Hackathons, Fixing Things and Finding Vulnerabilities.</li>
+            <li>I'm on my way to build the best cryptocurrency tracking platform!</li>
+            <li>I like to spend hours analyzing how things work, and sometimes hijack their functionality.</li>
+            <li>In my free time, I explore the beauty of Open-Source work and take part in associations that help local communities, such as Repair Cafés.</li>
+        </ul>
+        
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm a passionate cybersecurity analyst with a strong background in software development, database/network/system administration, and full-stack web development. 
+            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged in physical activities like walking, many sports and intellectual activities like chess, reading books.
+        </p>
+        <p>
+            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different projects. I'm always eager to learn new things and share my knowledge with the community through my work.
+        </p>
+    </div>
 </div>
-
-###
-
-<h1 align="center">Bienvenue sur mon Github 💻</h1>
-
-###
-
-J'ai actuellement 20 ans et j'apprécie le monde du logiciel open-source, la blockchain et l'automatisation de tâches.
-
-<img src="https://github-profile-trophy.vercel.app?username=thisiskeanyvy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
-###
-
-<h3 align="left">Clôture précédente</h3>
-
- BTC/USDT | ETH/USDT | USDT/USDT | XRP/USDT | BNB/USDT | SOL/USDT | USDC/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 86124 | 2130.2 | 0.999233 | 2.38 | 574.38 | 142.42 | 0.99986 |
-
- ADA/USDT | DOGE/USDT | STETH/USDT | TRX/USDT | WBTC/USDT | HBAR/USDT | LINK/USDT |
- --- | --- | --- | --- | --- | --- | --- |
- 0.831725 | 0.198419 | 2129.39 | 0.231879 | 86030 | 0.23379 | 14.45 |
-
-###
-
-<h3 align="left">Je sais utiliser / déployer :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
-###
-
-<h3 align="left">Statistiques Github :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thisiskeanyvy&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<h3 align="left">Je développe des outils / logiciels en :</h3>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
-###
-
-<h3 align="left">Graphique Github :</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisiskeanyvy&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
-</div>
-
-###
-
-                
