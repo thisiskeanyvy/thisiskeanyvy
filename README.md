@@ -51,8 +51,5 @@
         <p>
             I enjoy collaborating with diverse teams to launch impactful digital projects, always staying curious about the latest trends in tech and communication. When I'm not working, you'll find me exploring new ideas, reading, or engaging in activities that challenge both mind and body.
         </p>
-        <p>
-            I'm always open to new collaborations and love sharing knowledge with the community. Feel free to connect or check out my latest projects!
-        </p>
     </div>
 </div>
